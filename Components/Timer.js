@@ -1,40 +1,54 @@
 import { useState, useEffect } from "react";
+import { Pause, Play } from "lucide-react";
 
-export default function Timer() {
-  const [secondsElapsed, setSecondsElapsed] = useState(0);
+export default function Timer({ timerStop,setTimerStop, resetTimer, setResetTimer }) {
+  const [seconds, setSeconds] = useState(0);
 
   useEffect(() => {
-    const interval = setInterval(() => {
-      setSecondsElapsed(prev => prev + 1);
-    }, 1000);
-    return () => clearInterval(interval);
-  }, []);
+    if (timerStop) return;
 
-  const hrs = String(Math.floor(secondsElapsed / 3600)).padStart(2, "0");
-  const mins = String(Math.floor((secondsElapsed % 3600) / 60)).padStart(2, "0");
-  const secs = String(secondsElapsed % 60).padStart(2, "0");
+    if (resetTimer) {
+      setSeconds(0);
+      setResetTimer(false);
+    }
+
+    const interval = setInterval(() => setSeconds((s) => s + 1), 1000);
+    return () => clearInterval(interval);
+  }, [timerStop, resetTimer, setResetTimer]);
+
+  const hrs = String(Math.floor(seconds / 3600)).padStart(2, "0");
+  const mins = String(Math.floor((seconds % 3600) / 60)).padStart(2, "0");
+  const secs = String(seconds % 60).padStart(2, "0");
 
   return (
-    <div style={{
-      display: "flex",
-      justifyContent: "center",
-      alignItems: "center",
-      padding: "1em",
-      width: "90%",
-      maxWidth: "400px",
-      margin: "auto",
-      fontFamily: "'Orbitron', sans-serif",
-      fontSize: "clamp(1.5rem, 6vw, 2.5rem)",
-      color: "#00FFF7",
-      background: "linear-gradient(135deg, #1D1F3B, #4A90E2)",
-      borderRadius: "20px",
-      boxShadow: "0 0 20px #00FFF7, 0 0 40px #4A90E2, 0 0 60px #00FFF7",
-      letterSpacing: "0.15em",
-      textAlign: "center",
-      overflow: "hidden",
-      whiteSpace: "nowrap",
-    }}>
-      ⏱ {`${hrs}:${mins}:${secs}`}
+    <div className="flex flex-col items-center gap-4">
+      <div
+        style={{
+          textAlign: "center",
+          fontSize: "2rem",
+          fontWeight: "bold",
+          fontFamily: "monospace",
+          color: "black",
+        }}
+      >
+        {hrs}:{mins}:{secs}
+      </div>
+
+      {/* Toggle Control */}
+      <button
+        onClick={() => setTimerStop(!timerStop)}
+        className={`p-2 rounded-full ${timerStop
+            ? "bg-green-500 hover:bg-green-600"
+            : "bg-gray-200 hover:bg-gray-300"
+          }`}
+      >
+        {timerStop ? (
+          <Play className="w-6 h-6 text-white" />
+        ) : (
+          <Pause className="w-6 h-6 text-gray-700" />
+        )}
+      </button>
     </div>
+
   );
 }

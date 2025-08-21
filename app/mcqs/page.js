@@ -20,22 +20,26 @@ export default function McqPage() {
         },
     ]
 
-    const [current, setCurrent] = useState(0)
-    const [selected, setSelected] = useState(null)
-    const [score, setScore] = useState(0)
-    const [finished, setFinished] = useState(false)
+    const [current, setCurrent] = useState(0);
+    const [selected, setSelected] = useState(null);
+    const [score, setScore] = useState(0);
+    const [finished, setFinished] = useState(false);
+    const [resetTimer, setResetTimer] = useState(false);
+    const [timerStop, setTimerStop] = useState(finished)
 
     const handleReattempt = () =>{
+        setResetTimer(true)
         setSelected(null)
         setCurrent(0)
         setScore(0)
         setFinished(false)
+        setTimerStop(false)
     }
-
+    
     const handleOptionClick = (option) => {
         setSelected(option)
     }
-
+    
     const handleNext = () => {
         if(selected === null) {
             toast.error("Select an option please")
@@ -49,12 +53,13 @@ export default function McqPage() {
             setSelected(null)
         } else {
             setFinished(true)
+            setTimerStop(true)
         }
     }
 
     return (
         <div className=" text-black flex flex-col gap-8 justify-center items-center min-h-screen  bg-gray-100 p-4">
-            <Timer/>
+            <Timer timerStop={timerStop} setTimerStop={setTimerStop} resetTimer={resetTimer} setResetTimer={setResetTimer} />
             <div className="w-full max-w-2xl bg-white p-6 shadow-lg rounded-2xl">
                 {!finished ? (
                     <div>
