@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import { Pause, Play } from "lucide-react";
 
-export default function Timer({ timerStop,setTimerStop, resetTimer, setResetTimer }) {
-  const [seconds, setSeconds] = useState(0);
+export default function Timer({ seconds, setSeconds, timerStop, setTimerStop, resetTimer, setResetTimer }) {
+  // const [seconds, setSeconds] = useState(0);
 
   useEffect(() => {
     if (timerStop) return;
@@ -37,9 +37,9 @@ export default function Timer({ timerStop,setTimerStop, resetTimer, setResetTime
       {/* Toggle Control */}
       <button
         onClick={() => setTimerStop(!timerStop)}
-        className={`p-2 rounded-full ${timerStop
-            ? "bg-green-500 hover:bg-green-600"
-            : "bg-gray-200 hover:bg-gray-300"
+        className={`p-2 rounded-full cursor-pointer ${timerStop
+          ? "bg-green-500 hover:bg-green-600"
+          : "bg-gray-200 hover:bg-gray-300"
           }`}
       >
         {timerStop ? (

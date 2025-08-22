@@ -25,23 +25,42 @@ export default function McqPage() {
     const [score, setScore] = useState(0);
     const [finished, setFinished] = useState(false);
     const [resetTimer, setResetTimer] = useState(false);
-    const [timerStop, setTimerStop] = useState(finished)
+    const [timerStop, setTimerStop] = useState(finished);
+    const [seconds, setseconds] = useState(0);
+    const [timeSpans, settimeSpans] = useState([0])
 
-    const handleReattempt = () =>{
+    useEffect(() => {
+        const handleUnload = (e) => {
+            e.preventDefault();
+            e.returnValue = "";
+        }
+
+        window.addEventListener("beforeunload", handleUnload)
+        return () => { window.removeEventListener("beforeunload", handleUnload) };
+    }, [])
+
+
+    const handleReattempt = () => {
         setResetTimer(true)
         setSelected(null)
         setCurrent(0)
         setScore(0)
         setFinished(false)
-        setTimerStop(false)
+        setTimerStop(false);
+        settimeSpans([0])
     }
-    
+
     const handleOptionClick = (option) => {
+        if (timerStop) {
+            toast.error("First Continue The Timer")
+            return
+        }
         setSelected(option)
     }
-    
+
     const handleNext = () => {
-        if(selected === null) {
+        settimeSpans([...timeSpans, seconds - timeSpans[timeSpans.length - 1]]);
+        if (selected === null) {
             toast.error("Select an option please")
             return
         }
@@ -59,7 +78,7 @@ export default function McqPage() {
 
     return (
         <div className=" text-black flex flex-col gap-8 justify-center items-center min-h-screen  bg-gray-100 p-4">
-            <Timer timerStop={timerStop} setTimerStop={setTimerStop} resetTimer={resetTimer} setResetTimer={setResetTimer} />
+            {!finished && (<Timer seconds={seconds} setSeconds={setseconds} timerStop={timerStop} setTimerStop={setTimerStop} resetTimer={resetTimer} setResetTimer={setResetTimer} />)}
             <div className="w-full max-w-2xl bg-white p-6 shadow-lg rounded-2xl">
                 {!finished ? (
                     <div>
@@ -78,26 +97,84 @@ export default function McqPage() {
                                 </button>
                             ))}
                         </div>
-                        <div className="flex justify-end mt-6">
+                        <div className="flex justify-between mt-6">
+                            <div className="flex items-center px-3 rounded-2xl bg-[#5754e8] justify-center gap-2 text-lg font-semibold text-gray-700">
+                                <span className=" text-white rounded-full shadow">{current + 1}</span>
+                                <span className="text-white">/ {questions.length}</span>
+                            </div>
+
                             <button
                                 onClick={handleNext}
-                                className={`px-4 py-2 ${selected===null ? "opacity-50" : ""} rounded-lg bg-green-600 text-white font-medium hover:bg-green-700 disabled:bg-green-300`}
+                                className={`px-4 py-2 ${selected === null ? "opacity-50" : ""} rounded-lg bg-green-600 text-white font-medium cursor-pointer hover:bg-green-700 disabled:bg-green-300`}
                             >
                                 {current + 1 === questions.length ? "Finish" : "Next"}
                             </button>
                         </div>
                     </div>
                 ) : (
-                    <div className="text-center">
-                        <h2 className="text-2xl font-bold mb-4">Quiz Finished 🎉</h2>
-                        <p className="text-lg">Your Score: {score} / {questions.length}</p>
-                        <div className="flex gap-2  justify-center mt-2 " >
+                    <div className="text-center select-none bg-white  rounded-2xl p-6 max-w-md mx-auto">
+                        <h2 className="text-3xl font-bold text-[#5754e8] mb-4">
+                            Result
+                        </h2>
+
+                        <p className="text-lg text-gray-700 mb-2 text-left">
+                            <span className="font-semibold">Your Score:</span> {score} / {questions.length}
+                        </p>
+
+                        <p className="text-lg text-gray-700 mb-2 text-left">
+                            <span className="font-semibold">Time Taken:</span> {seconds} sec
+                        </p>
+
+                        <p className="text-lg text-gray-700 mb-2 text-left">
+                            <span className="font-semibold">Wrong Attempt:</span> {questions.length - score}
+                        </p>
+
+                        <p className="text-lg text-gray-700 mb-4 text-left">
+                            <span className="font-semibold">Average Time:</span>{" "}
+                            {(seconds / questions.length).toFixed(2)} sec/question
+                        </p>
+
+                        <div className="flex my-3 gap-3 justify-center">
                             <button
-                            onClick={handleReattempt}
-                            className="btn border-1 border-[#5754e8] bg-white hover:bg-[#5754e8] btn-soft btn-primary">Reattemp</button>
-                            <button className="btn btn-outline btn-secondary">Go to Home</button>
+                                onClick={handleReattempt}
+                                className="px-4 py-2 rounded-xl border border-[#5754e8] text-[#5754e8] font-semibold hover:bg-[#5754e8] cursor-pointer hover:text-white transition"
+                            >
+                                Reattempt
+                            </button>
+                            <button className="px-4 py-2 cursor-pointer rounded-xl bg-gray-200 text-gray-800 font-semibold hover:bg-gray-300 transition">
+                                Go to Home
+                            </button>
                         </div>
+                        {console.log(timeSpans)}
+                        <div className="bg-white shadow-lg rounded-2xl p-6 max-w-3xl mx-auto mt-6">
+                            <h2 className="text-xl font-bold text-center text-[#5754e8] mb-6">
+                                Time Taken
+                            </h2>
+
+                            <div className="space-y-4">
+                                {questions.map((q, index) => (
+                                    <div
+                                        key={index}
+                                        className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 p-4 rounded-xl border border-gray-200 hover:shadow-md transition"
+                                    >
+                                        {/* Question text */}
+                                        <div className="flex-1">
+                                            <p className="text-gray-600 text-sm text-left">{q.question}</p>
+                                        </div>
+
+                                        {/* Time spent */}
+                                        <div className="text-left sm:text-right">
+                                            <p className="text-lg font-bold text-[#5754e8]">
+                                                {timeSpans[index + 1]}s
+                                            </p>
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+
                     </div>
+
                 )}
             </div>
         </div>
