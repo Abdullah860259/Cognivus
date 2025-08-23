@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react"
 import Timer from "@/Components/Timer"
 import { toast } from "sonner"
-
+import { getSession } from "next-auth/react"
 
 export default function McqPage() {
     const questions = [
@@ -28,7 +28,6 @@ export default function McqPage() {
     const [timerStop, setTimerStop] = useState(finished);
     const [seconds, setseconds] = useState(0);
     const [timeSpans, settimeSpans] = useState([0])
-
     useEffect(() => {
         const handleUnload = (e) => {
             e.preventDefault();
@@ -145,7 +144,6 @@ export default function McqPage() {
                                 Go to Home
                             </button>
                         </div>
-                        {console.log(timeSpans)}
                         <div className="bg-white shadow-lg rounded-2xl p-6 max-w-3xl mx-auto mt-6">
                             <h2 className="text-xl font-bold text-center text-[#5754e8] mb-6">
                                 Time Taken
