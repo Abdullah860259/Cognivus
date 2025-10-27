@@ -1,5 +1,6 @@
 import "./globals.css";
 import ToasterWrapper from "@/Components/Wrappers/toasterWrapper";
+import LoadingOverlay from "@/Components/LoadingOverlay";
 
 export default function RootLayout({ children }) {
   return (

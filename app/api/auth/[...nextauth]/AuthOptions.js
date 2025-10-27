@@ -3,6 +3,7 @@ import Google from "next-auth/providers/google";
 import bcrypt from "bcrypt";
 import User from "@/lib/models/User";
 import connectDB from "@/lib/connect";
+import Mcqdata from "@/lib/models/Mcqdata";
 
 const AuthOptions = {
     providers: [
@@ -20,13 +21,10 @@ const AuthOptions = {
                 const user = await User.findOne({ email: credentials.email });
                 if (!user || !user.password) throw new Error("No user found");
                 if (!credentials.password || !user.password) throw new Error("Passwords not found");
-                console.log(credentials);
-                console.log(user);
                 const isValid = await bcrypt.compare(credentials.password, user.password);
                 if (!isValid) throw new Error("Invalid Credentials");
 
-                return { id: user._id, email: user.email };
-
+                return { id: user._id, email: user.email, name: user.name };
             },
         }),
         Google({
@@ -45,16 +43,24 @@ const AuthOptions = {
                 if (account?.provider === "google") {
                     let existingUser = await User.findOne({ email: user.email });
                     if (!existingUser) {
-                        await User.create({
+                        existingUser = await User.create({
                             email: user.email,
                             name: user.name,
                             image: user.image,
                             provider: "google",
                         });
                     }
+                    user.id = existingUser._id.toString(); // always set _id
+                    let McqDataDoc = await Mcqdata.findOne({ user: existingUser._id });
+                    if (!McqDataDoc) {
+                        McqDataDoc = await Mcqdata.create({ user: existingUser._id });
+                    }
+                    existingUser.mcqData = McqDataDoc._id;
+                    await existingUser.save();
                 }
             } catch (error) {
                 console.error(error);
+                return false;
             }
             return true;
         },

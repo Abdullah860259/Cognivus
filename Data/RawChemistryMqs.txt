@@ -1,0 +1,485 @@
+### Class 11: Fundamental Concepts
+
+1. (Easy) What is the SI unit of mass? A) Kilogram B) Gram C) Pound D) Ton. Answer: A  
+2. (Easy) Define matter. A) Anything with mass and volume B) Energy C) Space D) Time. Answer: A  
+3. (Easy) What is a homogeneous mixture? A) Uniform composition B) Non-uniform C) Pure substance D) Compound. Answer: A  
+4. (Easy) Avogadro's number is? A) 6.022 × 10^23 B) 3.14 × 10^2 C) 9.8 m/s² D) 1.6 × 10^-19. Answer: A  
+5. (Easy) Empirical formula shows? A) Simplest ratio B) Actual numbers C) Molecular weight D) Structure. Answer: A  
+6. (Medium) Mole of CO2 has mass? A) 44 g B) 28 g C) 32 g D) 18 g. Answer: A  
+7. (Medium) Percentage composition of H in H2O? A) 11.11% B) 88.89% C) 50% D) 25%. Answer: A  
+8. (Medium) Limiting reagent is? A) Reactant exhausted first B) Product C) Excess reactant D) Catalyst. Answer: A  
+9. (Hard) Stoichiometry based on? A) Law of conservation of mass B) Avogadro's law C) Boyle's law D) Charles' law. Answer: A  
+10. (Hard) In 2H2 + O2 → 2H2O, moles of O2 for 4 moles H2? A) 2 B) 4 C) 1 D) 8. Answer: A  
+11. (Hard) Molecular formula if empirical is CH2, mass 42? A) C3H6 B) C2H4 C) CH2 D) C4H8. Answer: A  
+12. (Hard) Equivalent weight of H2SO4 in neutralization? A) 49 B) 98 C) 32 D) 64. Answer: A  
+13. (Hard) Normality of 0.1 M H2SO4? A) 0.2 N B) 0.1 N C) 0.05 N D) 1 N. Answer: A  
+14. (Hard) Molality vs molarity difference? A) Solvent mass vs volume B) Volume vs mass C) Same D) Temperature dependent. Answer: A  
+15. (Hard) Yield percentage formula? A) (Actual/theoretical) × 100 B) Theoretical/actual × 100 C) Actual × 100 D) Theoretical × 100. Answer: A  
+
+### Class 11: Experimental Techniques in Chemistry
+
+1. (Easy) Filtration separates? A) Solid from liquid B) Gases C) Liquids D) Solids. Answer: A  
+2. (Easy) Chromatography uses? A) Differential adsorption B) Boiling C) Melting D) Density. Answer: A  
+3. (Easy) Sublimation for? A) Volatile solids B) Liquids C) Gases D) Non-volatiles. Answer: A  
+4. (Easy) Distillation for? A) Miscible liquids different BP B) Immiscible C) Solids D) Gases. Answer: A  
+5. (Easy) Crystallization purifies? A) Solids B) Liquids C) Gases D) Mixtures. Answer: A  
+6. (Medium) Rf value in chromatography? A) Distance solute/distance solvent B) Solvent/solute C) Solute × solvent D) 1/distance. Answer: A  
+7. (Medium) Vacuum distillation for? A) High BP liquids B) Low BP C) Solids D) Gases. Answer: A  
+8. (Medium) Solvent extraction uses? A) Immiscible solvents B) Miscible C) Same density D) Same BP. Answer: A  
+9. (Hard) Paper chromatography mobile phase? A) Solvent B) Paper C) Ink D) Air. Answer: A  
+10. (Hard) Fractional distillation column? A) Increases separation efficiency B) Decreases C) No effect D) Mixes. Answer: A  
+11. (Hard) Azeotrope can't be separated by? A) Distillation B) Filtration C) Sublimation D) Chromatography. Answer: A  
+12. (Hard) Steam distillation for? A) Immiscible, volatile with steam B) Miscible C) Non-volatile D) Solids. Answer: A  
+13. (Hard) TLC vs paper chromatography? A) Silica/alumina plate vs paper B) Same C) Liquid vs gas D) Reverse. Answer: A  
+14. (Hard) Gravimetric analysis measures? A) Mass of precipitate B) Volume C) Color D) pH. Answer: A  
+15. (Hard) Volumetric analysis uses? A) Titration B) Weighing C) Heating D) Cooling. Answer: A  
+
+### Class 11: Gases
+
+1. (Easy) Boyle's law: P ∝? A) 1/V B) V C) T D) n. Answer: A  
+2. (Easy) Charles' law: V ∝? A) T B) 1/T C) P D) 1/P. Answer: A  
+3. (Easy) Ideal gas equation? A) PV = nRT B) P = nRT/V C) V = nRT/P D) All. Answer: A  
+4. (Easy) STP volume of 1 mole? A) 22.4 L B) 1 L C) 44 L D) 0.082 L. Answer: A  
+5. (Easy) Diffusion rate ∝? A) 1/sqrt(M) B) sqrt(M) C) M D) 1/M. Answer: A  
+6. (Medium) Dalton's law: total P =? A) Sum partial P B) Product C) Average D) Difference. Answer: A  
+7. (Medium) Kinetic energy ∝? A) T B) 1/T C) sqrt(T) D) T². Answer: A  
+8. (Medium) Van der Waals for real gases? A) (P + a/V²)(V - b) = RT B) PV = RT C) P V² = a D) V - b = RT. Answer: A  
+9. (Hard) Compressibility factor Z =? A) PV/RT B) RT/PV C) P/RT D) V/RT. Answer: A  
+10. (Hard) Critical temperature Tc =? A) 8a/(27Rb) B) a/Rb C) 27Rb/8a D) Rb/a. Answer: A  
+11. (Hard) Mean free path λ ∝? A) 1/(sqrt(2) π d² P) B) P C) d² D) sqrt(P). Answer: A  
+12. (Hard) Graham's law ratio r1/r2 =? A) sqrt(M2/M1) B) sqrt(M1/M2) C) M1/M2 D) M2/M1. Answer: A  
+13. (Hard) Avogadro's law: equal V at same T,P have? A) Equal moles B) Equal mass C) Equal density D) Equal energy. Answer: A  
+14. (Hard) Liquefaction ease ∝? A) Critical T B) 1/Critical T C) Volume D) Pressure. Answer: A  
+15. (Hard) RMS speed u =? A) sqrt(3RT/M) B) sqrt(2RT/M) C) sqrt(RT/M) D) sqrt(8RT/πM). Answer: A  
+
+### Class 11: Liquids and Solids
+
+1. (Easy) Viscosity measures? A) Resistance to flow B) Density C) Volume D) Pressure. Answer: A  
+2. (Easy) Surface tension causes? A) Spherical drops B) Flat drops C) Irregular D) Evaporation. Answer: A  
+3. (Easy) Vapor pressure ∝? A) Temperature B) 1/T C) Volume D) Mass. Answer: A  
+4. (Easy) Boiling point when vapor P =? A) Atmospheric P B) Zero C) High D) Low. Answer: A  
+5. (Easy) Crystalline solids have? A) Definite melting point B) No MP C) Variable D) Low MP. Answer: A  
+6. (Medium) Hydrogen bonding in? A) Water B) Methane C) Neon D) Argon. Answer: A  
+7. (Medium) Unit cell in cubic? A) a = b = c, α=β=γ=90° B) a≠b≠c C) α=90, β≠90 D) Rhombohedral. Answer: A  
+8. (Medium) Ionic solids conduct? A) In molten state B) Solid C) Gas D) Never. Answer: A  
+9. (Hard) Clausius-Clapeyron: ln P ∝? A) 1/T B) T C) T² D) sqrt(T). Answer: A  
+10. (Hard) Bragg's equation: nλ =? A) 2d sinθ B) d sinθ C) 2d cosθ D) d cosθ. Answer: A  
+11. (Hard) Packing efficiency FCC? A) 74% B) 68% C) 52% D) 34%. Answer: A  
+12. (Hard) Schottky defect? A) Vacancies B) Interstitial C) Substitution D) Frenkel. Answer: A  
+13. (Hard) Frenkel defect in? A) AgCl B) NaCl C) CsCl D) KCl. Answer: A  
+14. (Hard) Liquid crystals? A) Nematic, smectic B) Isotropic C) Amorphous D) Crystalline. Answer: A  
+15. (Hard) Vapor pressure lowering ΔP =? A) P° X_solute B) P° X_solvent C) X_solute D) X_solvent. Answer: A  
+
+### Class 11: Atomic Structure
+
+1. (Easy) Rutherford model: atom is? A) Mostly empty space B) Solid C) Dense D) Negative. Answer: A  
+2. (Easy) Bohr model: electrons in? A) Orbits B) Clouds C) Waves D) Particles. Answer: A  
+3. (Easy) Quantum numbers describe? A) Electron position B) Mass C) Charge D) Spin only. Answer: A  
+4. (Easy) Pauli exclusion: no two e- same? A) All quantum numbers B) n only C) l only D) m only. Answer: A  
+5. (Easy) Aufbau: filling order? A) Increasing energy B) Decreasing C) Random D) Alphabetical. Answer: A  
+6. (Medium) Hund's rule: max? A) Unpaired electrons B) Paired C) Zero spin D) One. Answer: A  
+7. (Medium) de Broglie λ =? A) h/p B) h p C) p/h D) h sqrt(p). Answer: A  
+8. (Medium) Heisenberg uncertainty Δx Δp ≥? A) h/4π B) h/2π C) h D) 4π h. Answer: A  
+9. (Hard) Rydberg formula 1/λ = R (1/n1² - 1/n2²) for? A) Hydrogen B) Helium C) All D) None. Answer: A  
+10. (Hard) Magnetic quantum m_l =? A) -l to +l B) 0 to l C) -l to 0 D) l to 2l. Answer: A  
+11. (Hard) Azimuthal l for p orbital? A) 1 B) 0 C) 2 D) 3. Answer: A  
+12. (Hard) Ionization energy ∝? A) 1/n² B) n² C) Z²/n² D) 1/Z. Answer: C  
+13. (Hard) Electron affinity highest for? A) Halogens B) Alkali C) Noble gases D) Transition. Answer: A  
+14. (Hard) Zeeman effect: splitting by? A) Magnetic field B) Electric C) Gravity D) Light. Answer: A  
+15. (Hard) Stern-Gerlach: detects? A) Spin B) Orbit C) Charge D) Mass. Answer: A  
+
+### Class 11: Chemical Bonding
+
+1. (Easy) Ionic bond between? A) Metal-nonmetal B) Nonmetal-nonmetal C) Metal-metal D) All. Answer: A  
+2. (Easy) Covalent bond shares? A) Electrons B) Protons C) Neutrons D) Ions. Answer: A  
+3. (Easy) Lewis dot for? A) Valence electrons B) Core C) All electrons D) Protons. Answer: A  
+4. (Easy) Octet rule: 8 electrons in? A) Outer shell B) Inner C) Nucleus D) All. Answer: A  
+5. (Easy) Polar bond has? A) Unequal sharing B) Equal C) No sharing D) Ionic. Answer: A  
+6. (Medium) VSEPR: shape from? A) Electron pairs B) Atoms only C) Bonds only D) Nuclei. Answer: A  
+7. (Medium) Hybridization in CH4? A) sp3 B) sp2 C) sp D) dsp2. Answer: A  
+8. (Medium) Dipole moment μ =? A) q × d B) q / d C) d / q D) q² d. Answer: A  
+9. (Hard) MO theory: bonding orbital? A) Lower energy B) Higher C) Same D) Zero. Answer: A  
+10. (Hard) Bond order =? A) (Nb - Na)/2 B) Nb + Na C) Nb / Na D) Na - Nb. Answer: A  
+11. (Hard) Fajans' rule: polarization by? A) Small cation, large anion B) Large cation C) Small anion D) Equal. Answer: A  
+12. (Hard) Lattice energy ∝? A) q1 q2 / r B) r / q1 q2 C) q1 / r D) q2 / r. Answer: A  
+13. (Hard) Resonance in? A) Benzene B) Methane C) Ethane D) Ethyne. Answer: A  
+14. (Hard) Sigma bond? A) Head-on overlap B) Sideways C) No overlap D) Ionic. Answer: A  
+15. (Hard) Pi bond? A) Sideways p orbitals B) s orbitals C) sp hybrid D) Ionic. Answer: A  
+
+### Class 11: Thermochemistry
+
+1. (Easy) Enthalpy H =? A) U + PV B) U - PV C) PV - U D) U/PV. Answer: A  
+2. (Easy) Exothermic reaction? A) Releases heat B) Absorbs C) No heat D) Variable. Answer: A  
+3. (Easy) Hess's law: ΔH independent of? A) Path B) Reactants C) Products D) Temperature. Answer: A  
+4. (Easy) Calorimeter measures? A) Heat change B) Mass C) Volume D) Pressure. Answer: A  
+5. (Easy) Standard state: 1 atm, ? A) 25°C B) 0°C C) 100°C D) -273°C. Answer: A  
+6. (Medium) Bond enthalpy: energy to? A) Break bond B) Form bond C) No change D) Melt. Answer: A  
+7. (Medium) ΔH_f for elements? A) 0 B) Positive C) Negative D) Infinite. Answer: A  
+8. (Medium) Kirchhoff's law: ΔH ∝? A) ΔT B) 1/T C) T² D) Constant. Answer: A  
+9. (Hard) Born-Haber cycle for? A) Lattice energy B) Bond energy C) Ionization D) Electron affinity. Answer: A  
+10. (Hard) ΔG =? A) ΔH - TΔS B) ΔH + TΔS C) TΔS - ΔH D) ΔS - ΔH. Answer: A  
+11. (Hard) Spontaneous if ΔG? A) Negative B) Positive C) Zero D) Infinite. Answer: A  
+12. (Hard) Entropy S measures? A) Disorder B) Order C) Energy D) Heat. Answer: A  
+13. (Hard) Third law: S=0 at? A) 0 K B) 0°C C) 25°C D) 100 K. Answer: A  
+14. (Hard) Heat capacity C =? A) q/ΔT B) ΔT/q C) q ΔT D) 1/q. Answer: A  
+15. (Hard) Bomb calorimeter: constant? A) Volume B) Pressure C) Temperature D) Mass. Answer: A  
+
+### Class 11: Chemical Equilibrium
+
+1. (Easy) Equilibrium constant Kc =? A) [products]/[reactants] B) [reactants]/[products] C) Products - reactants D) Sum. Answer: A  
+2. (Easy) Le Chatelier: increase T favors? A) Endothermic B) Exothermic C) Neutral D) All. Answer: A  
+3. (Easy) Dynamic equilibrium: rates? A) Equal B) Forward > reverse C) Reverse > forward D) Zero. Answer: A  
+4. (Easy) Kp for gases: in terms of? A) Partial pressures B) Concentrations C) Volumes D) Moles. Answer: A  
+5. (Easy) Homogeneous equilibrium: all? A) Same phase B) Different phases C) Solid only D) Gas only. Answer: A  
+6. (Medium) Reaction quotient Q: if Q < K? A) Forward B) Reverse C) Equilibrium D) Stop. Answer: A  
+7. (Medium) Kp = Kc (RT)^Δn, Δn =? A) Moles gas prod - react B) React - prod C) Total moles D) Zero. Answer: A  
+8. (Medium) Catalyst affects? A) Rate, not K B) K C) Position D) ΔH. Answer: A  
+9. (Hard) Degree of dissociation α for A ⇌ 2B? A) (P - P0)/P0 B) P0/(P - P0) C) 2(P - P0)/P0 D) (P - P0)/2P0. Answer: A  
+10. (Hard) Van't Hoff: ln K ∝? A) -ΔH/RT B) ΔH/RT C) RT/ΔH D) T/ΔH. Answer: A  
+11. (Hard) Ostwald dilution: for weak electrolyte, α ∝? A) 1/sqrt(c) B) sqrt(c) C) c D) 1/c. Answer: A  
+12. (Hard) Common ion effect: suppresses? A) Dissociation B) Association C) Rate D) K. Answer: A  
+13. (Hard) Buffer resists? A) pH change B) Volume C) Temperature D) Pressure. Answer: A  
+14. (Hard) Solubility product Ksp: for saturation? A) IP = Ksp B) IP > Ksp C) IP < Ksp D) IP zero. Answer: A  
+15. (Hard) Henderson equation pH =? A) pKa + log([salt]/[acid]) B) pKa - log([salt]/[acid]) C) log([acid]/[salt]) D) pKa. Answer: A  
+
+### Class 11: Solutions
+
+1. (Easy) Saturated solution: max? A) Solute dissolved B) Undissolved C) Evaporated D) Boiled. Answer: A  
+2. (Easy) Henry's law: solubility ∝? A) Pressure B) 1/Pressure C) Temperature D) Volume. Answer: A  
+3. (Easy) Colligative properties depend on? A) Number particles B) Nature C) Size D) Shape. Answer: A  
+4. (Easy) Raoult's law: P =? A) P° X_solvent B) P° X_solute C) X_solute D) X_solvent. Answer: A  
+5. (Easy) Molarity M =? A) Moles solute / L solution B) Moles / kg solvent C) Mass / L D) Mass / kg. Answer: A  
+6. (Medium) Boiling point elevation ΔTb =? A) Kb m B) Kf m C) RT m D) i Kb m. Answer: A  
+7. (Medium) Osmotic pressure π =? A) i CRT B) i m RT C) C RT D) All. Answer: A  
+8. (Medium) Van't Hoff factor i for NaCl? A) 2 B) 1 C) 3 D) 4. Answer: A  
+9. (Hard) Relative lowering vapor P ΔP/P° =? A) X_solute B) X_solvent C) 1 - X_solvent D) i X_solute. Answer: A  
+10. (Hard) Freezing point depression ΔTf =? A) i Kf m B) Kb m C) Kf / m D) m / Kf. Answer: A  
+11. (Hard) Azeotrope: constant? A) Boiling composition B) Variable C) Separates D) No boil. Answer: A  
+12. (Hard) Ideal solution: ΔH_mix =? A) 0 B) Positive C) Negative D) Infinite. Answer: A  
+13. (Hard) Non-ideal: positive deviation when? A) A-B weaker than A-A, B-B B) Stronger C) Equal D) Zero. Answer: A  
+14. (Hard) Molality m =? A) Moles solute / kg solvent B) Moles / L C) Mass / kg D) Moles total / kg. Answer: A  
+15. (Hard) Reverse osmosis: pressure >? A) Osmotic P B) < Osmotic C) = Osmotic D) Zero. Answer: A  
+
+### Class 11: Electrochemistry
+
+1. (Easy) Conductor allows? A) Electron flow B) No flow C) Ions only D) Protons. Answer: A  
+2. (Easy) Electrolyte conducts via? A) Ions B) Electrons C) Holes D) Photons. Answer: A  
+3. (Easy) Galvanic cell: spontaneous? A) Yes B) No C) Forced D) Reversible. Answer: A  
+4. (Easy) Anode: oxidation? A) Yes B) Reduction C) Both D) None. Answer: A  
+5. (Easy) Faraday's first: mass ∝? A) Charge B) Time C) Current D) Voltage. Answer: A  
+6. (Medium) Nernst equation E =? A) E° - (RT/nF) ln Q B) E° + (RT/nF) ln Q C) E° ln Q D) RT/nF. Answer: A  
+7. (Medium) Conductance G =? A) 1/R B) R C) I/V D) V/I. Answer: A  
+8. (Medium) Kohlrausch law: Λ_m =? A) Sum ion conductances B) Product C) Difference D) Average. Answer: A  
+9. (Hard) Standard potential E° for H2? A) 0 V B) 1 V C) -0.76 V D) 0.34 V. Answer: A  
+10. (Hard) Faraday constant F =? A) 96500 C/mol B) 6.022e23 C) 8.314 J/mol K D) 0.082 L atm/mol K. Answer: A  
+11. (Hard) Electrochemical equivalent Z =? A) M / (n F) B) n F / M C) F / M n D) M n / F. Answer: A  
+12. (Hard) Cell constant l/A from? A) κ = G * (l/A) B) R = ρ (l/A) C) Both D) None. Answer: B  
+13. (Hard) Degree dissociation α =? A) Λ_m / Λ_m° B) Λ_m° / Λ_m C) 1 / Λ_m D) Λ_m². Answer: A  
+14. (Hard) Battery secondary: rechargeable? A) Yes B) No C) Primary D) Both. Answer: A  
+15. (Hard) Fuel cell uses? A) H2 and O2 B) Zn and Cu C) Pb D) Ni. Answer: A  
+
+### Class 11: Reaction Kinetics
+
+1. (Easy) Rate law from? A) Experiment B) Stoichiometry C) Equilibrium D) Thermodynamics. Answer: A  
+2. (Easy) Order of reaction: sum? A) Exponents in rate law B) Coefficients C) Moles D) Time. Answer: A  
+3. (Easy) Catalyst lowers? A) Activation energy B) Rate C) Product D) Reactant. Answer: A  
+4. (Easy) Zero order rate? A) Constant B) [A] C) [A]² D) 1/[A]. Answer: A  
+5. (Easy) Half-life for first order? A) Constant B) ∝ [A] C) ∝ 1/[A] D) Variable. Answer: A  
+6. (Medium) Arrhenius: k =? A) A e^{-Ea/RT} B) A e^{Ea/RT} C) e^{-Ea/RT} D) A RT. Answer: A  
+7. (Medium) Integrated rate first order: ln[A] =? A) -kt + ln[A0] B) kt + ln[A0] C) [A0] - kt D) 1/[A] = kt. Answer: A  
+8. (Medium) Molecularity: number? A) Molecules in elementary step B) Overall C) Orders D) Rates. Answer: A  
+9. (Hard) Pseudo first order when? A) One reactant excess B) Equal C) Zero D) Second. Answer: A  
+10. (Hard) Half-life t1/2 zero order? A) [A0]/(2k) B) ln2/k C) 1/(k [A0]) D) 3[A0]²/(4k). Answer: A  
+11. (Hard) Activation energy from? A) Slope of ln k vs 1/T B) Intercept C) k vs T D) k vs 1/T. Answer: A  
+12. (Hard) Collision theory: rate ∝? A) Z e^{-Ea/RT} B) Z only C) e^{-Ea/RT} only D) T. Answer: A  
+13. (Hard) Enzyme kinetics Michaelis-Menten: v =? A) V_max [S] / (Km + [S]) B) V_max / [S] C) Km [S] D) V_max Km. Answer: A  
+14. (Hard) Parallel reactions: products ratio? A) k1/k2 B) k2/k1 C) k1 + k2 D) k1 - k2. Answer: A  
+15. (Hard) Consecutive: intermediate max at? A) t = ln(k1/k2)/(k1 - k2) B) t=0 C) t=∞ D) t=1/k. Answer: A  
+
+### Class 12 / Entry Exams: Periodic Classification of Elements and Periodicity
+
+1. (Easy) Periodic table rows? A) Periods B) Groups C) Blocks D) Families. Answer: A  
+2. (Easy) Atomic radius decreases across? A) Period B) Group C) Diagonal D) None. Answer: A  
+3. (Easy) Ionization energy increases? A) Left to right B) Top to bottom C) Same D) Decreases. Answer: A  
+4. (Easy) Electronegativity highest? A) F B) O C) N D) Cl. Answer: A  
+5. (Easy) Metals on? A) Left side B) Right C) Top D) Bottom. Answer: A  
+6. (Medium) Lanthanides contraction due to? A) Poor f shielding B) d shielding C) s shielding D) p. Answer: A  
+7. (Medium) Metallic character ∝? A) 1/IE B) IE C) EA D) EN. Answer: A  
+8. (Medium) Diagonal relationship? A) Li-Mg B) Na-K C) Be-B D) C-N. Answer: A  
+9. (Hard) Modern periodic law: properties depend on? A) Atomic number B) Mass C) Volume D) Density. Answer: A  
+10. (Hard) Screening effect by? A) Inner electrons B) Outer C) Valence D) Nucleus. Answer: A  
+11. (Hard) Slater's rule for effective Z? A) Z_eff = Z - σ B) Z + σ C) σ - Z D) Z/σ. Answer: A  
+12. (Hard) Electron affinity negative means? A) Energy released B) Absorbed C) Zero D) Positive. Answer: A  
+13. (Hard) Isoelectronic species size ∝? A) 1/Z B) Z C) Z² D) 1/Z². Answer: A  
+14. (Hard) Hydration energy ∝? A) Charge/size B) Size/charge C) Charge D) Size. Answer: A  
+15. (Hard) Amphoteric oxide example? A) Al2O3 B) Na2O C) Cl2O7 D) SO3. Answer: A  
+
+### Class 12 / Entry Exams: S-block Elements
+
+1. (Easy) Alkali metals group? A) 1 B) 2 C) 17 D) 18. Answer: A  
+2. (Easy) Alkaline earth group? A) 2 B) 1 C) 13 D) 14. Answer: A  
+3. (Easy) Li differs due to? A) Small size B) Large size C) High IE D) Low EA. Answer: A  
+4. (Easy) NaOH is? A) Caustic soda B) Baking soda C) Washing soda D) Lime. Answer: A  
+5. (Easy) CaO is? A) Quicklime B) Slaked lime C) Limestone D) Gypsum. Answer: A  
+6. (Medium) Solvay process for? A) Na2CO3 B) NaOH C) NaCl D) NaHCO3. Answer: A  
+7. (Medium) Be diagonal with? A) Al B) Mg C) Li D) Na. Answer: A  
+8. (Medium) Mg in? A) Chlorophyll B) Hemoglobin C) Vitamin D D) Insulin. Answer: A  
+9. (Hard) Castner-Kellner for? A) NaOH B) Na C) Na2CO3 D) NaCl. Answer: A  
+10. (Hard) Down's cell for? A) Na B) NaOH C) Cl2 D) H2. Answer: A  
+11. (Hard) Anomalous Be: no? A) Carbonate decomposition B) Hydroxide soluble C) Forms BeF4^2- D) All. Answer: C  
+12. (Hard) Hydrolith is? A) CaH2 B) NaH C) LiH D) MgH2. Answer: A  
+13. (Hard) KO2 is? A) Superoxide B) Peroxide C) Oxide D) Hydroxide. Answer: A  
+14. (Hard) Plaster of Paris? A) CaSO4 · 0.5 H2O B) CaSO4 · 2H2O C) CaO D) Ca(OH)2. Answer: A  
+15. (Hard) Portland cement has? A) CaSiO3 B) Na2SiO3 C) SiO2 D) Al2O3. Answer: A  
+
+### Class 12 / Entry Exams: Group 3-A and 4-A elements
+
+1. (Easy) Group 13? A) Boron family B) Carbon C) Nitrogen D) Oxygen. Answer: A  
+2. (Easy) Group 14? A) Carbon family B) Boron C) Halogen D) Noble. Answer: A  
+3. (Easy) Boron is? A) Non-metal B) Metal C) Metalloid D) Gas. Answer: A  
+4. (Easy) Diamond is? A) Hard B) Soft C) Liquid D) Gas. Answer: A  
+5. (Easy) Al is amphoteric? A) Yes B) No C) Acidic D) Basic. Answer: A  
+6. (Medium) Inert pair effect increases down? A) Group B) Period C) Block D) None. Answer: A  
+7. (Medium) Graphite conducts? A) Electricity B) Heat only C) No D) Light. Answer: A  
+8. (Medium) Thermite: Al +? A) Fe2O3 B) CuO C) ZnO D) MgO. Answer: A  
+9. (Hard) Borax bead test for? A) Metals B) Non-metals C) Acids D) Bases. Answer: A  
+10. (Hard) Diborane B2H6 structure? A) Banana bonds B) Linear C) Planar D) Tetrahedral. Answer: A  
+11. (Hard) Alum is? A) KAl(SO4)2 · 12H2O B) NaAlO2 C) Al2O3 D) AlCl3. Answer: A  
+12. (Hard) Sn/Pb inert pair: stable +2? A) Pb B) Sn C) Both D) None. Answer: A  
+13. (Hard) Silicates: SiO4^4-? A) Ortho B) Pyro C) Chain D) Sheet. Answer: A  
+14. (Hard) CO poisoning: binds? A) Hemoglobin B) Myoglobin C) Both D) None. Answer: A  
+15. (Hard) Fullerene C60? A) Buckyball B) Graphite C) Diamond D) Amorphous. Answer: A  
+
+### Class 12 / Entry Exams: Group 5-A and 6-A elements
+
+1. (Easy) Group 15? A) Nitrogen family B) Oxygen C) Halogen D) Noble. Answer: A  
+2. (Easy) Group 16? A) Oxygen family B) Nitrogen C) Boron D) Carbon. Answer: A  
+3. (Easy) N2 is? A) Inert B) Reactive C) Solid D) Liquid. Answer: A  
+4. (Easy) O2 is? A) Paramagnetic B) Diamagnetic C) Ferromagnetic D) Antiferro. Answer: A  
+5. (Easy) P white toxic? A) Yes B) No C) Red D) Black. Answer: A  
+6. (Medium) Haber process: N2 + 3H2 →? A) 2NH3 B) NH4Cl C) NO D) N2O. Answer: A  
+7. (Medium) Allotrope S: rhombic, monoclinic? A) Yes B) No C) Only one D) Three. Answer: A  
+8. (Medium) Ostwald: NH3 to? A) HNO3 B) NO C) N2 D) NH4OH. Answer: A  
+9. (Hard) P4O10 dehydrating? A) Yes B) No C) Hydrating D) Neutral. Answer: A  
+10. (Hard) NO is? A) Neutral oxide B) Acidic C) Basic D) Amphoteric. Answer: A  
+11. (Hard) HNO3 + Cu →? A) NO2 B) NO C) N2O D) N2. Answer: A  
+12. (Hard) SF6 inert due to? A) Octahedral, no d orbitals B) d orbitals C) Linear D) Planar. Answer: A  
+13. (Hard) Ozone O3 structure? A) Bent B) Linear C) Tetrahedral D) Trigonal. Answer: A  
+14. (Hard) Arsenic poisoning? A) Black foot B) White foot C) Red D) Blue. Answer: A  
+15. (Hard) Contact process: SO2 to? A) H2SO4 B) SO3 C) H2S D) S. Answer: A  
+
+### Class 12 / Entry Exams: The Halogen and the Noble Gases
+
+1. (Easy) Group 17? A) Halogens B) Noble C) Oxygen D) Nitrogen. Answer: A  
+2. (Easy) Group 18? A) Noble gases B) Halogens C) Alkali D) Earth. Answer: A  
+3. (Easy) F most reactive? A) Yes B) No C) Cl D) Br. Answer: A  
+4. (Easy) He used in? A) Balloons B) Lamps C) Batteries D) Wires. Answer: A  
+5. (Easy) Xe compounds? A) Yes B) No C) Only He D) Only Ne. Answer: A  
+6. (Medium) Interhalogen like? A) ICl B) HCl C) NaCl D) KCl. Answer: A  
+7. (Medium) Noble gas clathrates? A) Quinol cages B) Free C) Ionic D) Covalent. Answer: A  
+8. (Medium) Bleaching powder? A) CaOCl2 B) CaCl2 C) CaO D) Cl2. Answer: A  
+9. (Hard) HF weak acid due to? A) H-bonding B) Low EN C) High IE D) Size. Answer: A  
+10. (Hard) XeF4 structure? A) Square planar B) Tetrahedral C) Octahedral D) Linear. Answer: A  
+11. (Hard) Disproportionation Cl2 in water? A) HCl + HOCl B) HCl only C) HOCl only D) ClO2. Answer: A  
+12. (Hard) I2 starch? A) Blue B) Red C) Yellow D) Green. Answer: A  
+13. (Hard) Kr no compounds why? A) High IE B) Low IE C) Size D) Reactivity. Answer: A  
+14. (Hard) Halogen acids strength? A) HI > HBr > HCl > HF B) HF > HCl C) HCl > HI D) Equal. Answer: A  
+15. (Hard) XeO3 pyramidal? A) Yes B) Linear C) Planar D) Bent. Answer: A  
+
+### Class 12 / Entry Exams: Transition Elements
+
+1. (Easy) d-block? A) Transition B) s-block C) p-block D) f-block. Answer: A  
+2. (Easy) Variable oxidation? A) Yes B) No C) Fixed +2 D) +1. Answer: A  
+3. (Easy) Colored compounds? A) Yes B) No C) White D) Black. Answer: A  
+4. (Easy) Paramagnetic due to? A) Unpaired e- B) Paired C) No e- D) All paired. Answer: A  
+5. (Easy) Catalysts? A) Yes B) No C) Inhibitors D) Reactants. Answer: A  
+6. (Medium) Lanthanides? A) 4f B) 5f C) 3d D) 4d. Answer: A  
+7. (Medium) Actinides? A) 5f B) 4f C) 6d D) 7s. Answer: A  
+8. (Medium) KMnO4 oxidant? A) Yes B) Reductant C) Neutral D) Base. Answer: A  
+9. (Hard) Magnetic moment μ =? A) sqrt(n(n+2)) BM B) n BM C) sqrt(n) D) n+2. Answer: A  
+10. (Hard) Interstitial compounds? A) Non-stoichiometric B) Stoichiometric C) Ionic D) Covalent. Answer: A  
+11. (Hard) Alloy example? A) Steel B) NaCl C) H2O D) CO2. Answer: A  
+12. (Hard) K2Cr2O7 in acid? A) Cr2O7^2- → Cr^3+ B) CrO4^2- C) MnO4^- D) Fe^3+. Answer: A  
+13. (Hard) Sc no color why? A) d0 B) d10 C) d5 D) d1. Answer: A  
+14. (Hard) Zn not transition? A) d10 full B) d0 C) Variable OS D) Color. Answer: A  
+15. (Hard) Misch metal? A) Lanthanides + Fe B) Actinides C) Transition D) Alkali. Answer: A  
+
+### Class 12 / Entry Exams: Fundamental Principles of Organic Chemistry
+
+1. (Easy) Organic compounds contain? A) Carbon B) Hydrogen only C) Oxygen D) Nitrogen. Answer: A  
+2. (Easy) Isomers same? A) Formula, different structure B) Structure, different formula C) Both same D) Both different. Answer: A  
+3. (Easy) Homologous series differ by? A) CH2 B) CH3 C) C2H4 D) C. Answer: A  
+4. (Easy) Functional group in alcohol? A) OH B) COOH C) CHO D) NH2. Answer: A  
+5. (Easy) Hybridization in alkane? A) sp3 B) sp2 C) sp D) dsp2. Answer: A  
+6. (Medium) Chain isomerism? A) Different carbon chain B) Position C) Functional D) Stereo. Answer: A  
+7. (Medium) Metamerism in? A) Ethers B) Alkanes C) Alkenes D) Alkynes. Answer: A  
+8. (Medium) Inductive effect? A) Electron displacement B) Resonance C) Hyperconjugation D) Steric. Answer: A  
+9. (Hard) Resonance stabilizes? A) Carbocation B) No effect C) Destabilizes D) Only anion. Answer: A  
+10. (Hard) Hyperconjugation in? A) Alkyl groups B) Halogens C) Nitro D) Carbonyl. Answer: A  
+11. (Hard) Electrophile? A) e- deficient B) e- rich C) Neutral D) Radical. Answer: A  
+12. (Hard) Nucleophile? A) e- rich B) e- deficient C) Positive D) Negative only. Answer: A  
+13. (Hard) Carbocation stability? A) 3° > 2° > 1° B) 1° > 2° > 3° C) Equal D) 1° > 3°. Answer: A  
+14. (Hard) Free radical stability? A) 3° > 2° > 1° B) 1° > 2° C) Allylic > 3° D) No. Answer: A  
+15. (Hard) IUPAC naming priority? A) Functional group B) Chain length C) Branches D) Double bonds. Answer: A  
+
+### Class 12 / Entry Exams: Aliphatic Hydrocarbons
+
+1. (Easy) Alkanes general? A) CnH2n+2 B) CnH2n C) CnH2n-2 D) CnHn. Answer: A  
+2. (Easy) Alkenes? A) CnH2n B) CnH2n+2 C) CnH2n-2 D) CnH2n+1. Answer: A  
+3. (Easy) Alkynes? A) CnH2n-2 B) CnH2n C) CnH2n+2 D) CnHn. Answer: A  
+4. (Easy) Wurtz: alkyl halide + Na →? A) Alkane B) Alkene C) Alkyne D) Alcohol. Answer: A  
+5. (Easy) Markovnikov addition to alkene? A) H to less H carbon B) H to more H C) No addition D) Random. Answer: A  
+6. (Medium) Ozonolysis cleaves? A) Double bond B) Single C) Triple D) Aromatic. Answer: A  
+7. (Medium) Acetylene from? A) CaC2 + H2O B) CH4 C) C2H6 D) C2H4. Answer: A  
+8. (Medium) Baeyer's test: decolorizes? A) KMnO4 B) Br2 C) I2 D) H2SO4. Answer: A  
+9. (Hard) Free radical mechanism in? A) Chlorination alkane B) Addition alkene C) Substitution aromatic D) Elimination. Answer: A  
+10. (Hard) Anti-Markovnikov with? A) HBr + peroxide B) HBr only C) HCl D) HI. Answer: A  
+11. (Hard) Zaitsev rule: major product? A) More substituted alkene B) Less C) Equal D) No alkene. Answer: A  
+12. (Hard) Hydroboration: anti-Markov, syn? A) Yes B) No C) Anti-syn D) Markov. Answer: A  
+13. (Hard) Alkyne acidity due to? A) sp hybrid B) sp2 C) sp3 D) p. Answer: A  
+14. (Hard) Birch reduction: alkene from? A) Alkyne partial B) Full C) Alkane D) Aromatic. Answer: A  
+15. (Hard) Pyrolysis: cracking to? A) Smaller hydrocarbons B) Larger C) Same D) Oxygenated. Answer: A  
+
+### Class 12 / Entry Exams: Aromatic Hydrocarbons
+
+1. (Easy) Benzene formula? A) C6H6 B) C6H12 C) C6H14 D) C6H10. Answer: A  
+2. (Easy) Huckel's rule: 4n+2 π e-? A) Aromatic B) Anti C) Non D) Alicyclic. Answer: A  
+3. (Easy) Electrophilic substitution in? A) Benzene B) Alkane C) Alkene D) Alkyne. Answer: A  
+4. (Easy) Toluene from? A) Benzene + CH3Cl B) Benzene + Cl2 C) Phenol D) Aniline. Answer: A  
+5. (Easy) Phenol is? A) C6H5OH B) C6H5CH3 C) C6H5NO2 D) C6H5Cl. Answer: A  
+6. (Medium) Ortho-para director? A) -OH B) -NO2 C) -COOH D) -CN. Answer: A  
+7. (Medium) Meta director? A) -NO2 B) -CH3 C) -NH2 D) -OCH3. Answer: A  
+8. (Medium) Halogenation needs? A) Lewis acid B) Base C) Light D) Heat. Answer: A  
+9. (Hard) Resonance in benzene? A) Delocalized π B) Localized C) Sigma D) No. Answer: A  
+10. (Hard) Friedel-Crafts alkylation? A) Polyalkylation issue B) No issue C) Only mono D) Di. Answer: A  
+11. (Hard) Gattermann-Koch: introduces? A) CHO B) COOH C) CH3 D) Cl. Answer: A  
+12. (Hard) Reimer-Tiemann: phenol to? A) Salicylaldehyde B) Salicylic acid C) Benzaldehyde D) Benzoic acid. Answer: A  
+13. (Hard) Kolbe-Schmitt: phenol to? A) Salicylic acid B) Salicylaldehyde C) Aspirin D) Picric acid. Answer: A  
+14. (Hard) Nitration mixture? A) HNO3 + H2SO4 B) HNO3 only C) NH3 D) NO2. Answer: A  
+15. (Hard) Sulfonation reversible? A) Yes B) No C) Partial D) Irreversible. Answer: A  
+
+### Class 12 / Entry Exams: Alkyl Halides
+
+1. (Easy) Alkyl halides: R-X, X=? A) Halogen B) OH C) NH2 D) COOH. Answer: A  
+2. (Easy) SN1 mechanism? A) Carbocation intermediate B) Concerted C) Radical D) Anion. Answer: A  
+3. (Easy) SN2? A) Inversion B) Retention C) Racemization D) No change. Answer: A  
+4. (Easy) Finkelstein: NaI for? A) R-Cl to R-I B) R-I to R-Cl C) R-Br to R-Cl D) No. Answer: A  
+5. (Easy) Grignard: RMgX from? A) R-X + Mg B) R-OH + Mg C) R-NH2 D) R-COOH. Answer: A  
+6. (Medium) E2 elimination? A) Anti-periplanar B) Syn C) Random D) No geometry. Answer: A  
+7. (Medium) Reactivity SN2? A) 1° > 2° > 3° B) 3° > 2° > 1° C) Equal D) 2° > others. Answer: A  
+8. (Medium) Lucas test: cloudiness? A) 3° fast B) 1° fast C) 2° fast D) All same. Answer: A  
+9. (Hard) Ambident nucleophile? A) CN^- B) OH^- C) NH2^- D) Cl^-. Answer: A  
+10. (Hard) Williamson ether: R-X +? A) R'O^- B) R'OH C) R'NH2 D) R'COOH. Answer: A  
+11. (Hard) Hunsdiecker: RCOONa + Br2 →? A) R-Br B) R-Cl C) R-I D) R-F. Answer: A  
+12. (Hard) Allylic halide reactive due to? A) Resonance B) Inductive C) Hyper D) Steric. Answer: A  
+13. (Hard) Vinyl halide unreactive? A) sp2 C-X B) sp3 C-X C) Resonance D) No. Answer: A  
+14. (Hard) SN1 racemization partial why? A) Ion pair B) Full inversion C) No carbocation D) Radical. Answer: A  
+15. (Hard) E1 vs SN1 compete in? A) 3° halides B) 1° C) Vinyl D) Aryl. Answer: A  
+
+### Class 12 / Entry Exams: Alcohol, Phenols and Ethers
+
+1. (Easy) Alcohol functional? A) -OH B) -O- C) -X D) -NH2. Answer: A  
+2. (Easy) Phenol: aromatic? A) OH B) Aliphatic OH C) Ether D) Halide. Answer: A  
+3. (Easy) Ether: R-O-R'? A) Yes B) No C) R-OH D) Ar-OH. Answer: A  
+4. (Easy) Lucas reagent? A) ZnCl2/HCl B) NaOH C) KMnO4 D) Br2. Answer: A  
+5. (Easy) Dehydration alcohol to? A) Alkene B) Ether C) Aldehyde D) Acid. Answer: A  
+6. (Medium) Victor Meyer: color for 1°? A) Red B) Blue C) Colorless D) Yellow. Answer: A  
+7. (Medium) Phenol acidic due to? A) Resonance B) Inductive C) Hyper D) Steric. Answer: A  
+8. (Medium) Cleavage ether by? A) HI B) H2O C) Na D) Mg. Answer: A  
+9. (Hard) Fermentation: glucose to? A) Ethanol B) Methanol C) Propanol D) Butanol. Answer: A  
+10. (Hard) Oxymercuration: Markov, no rearrange? A) Yes B) No C) Anti-Markov D) Rearrange. Answer: A  
+11. (Hard) Hydroboration alcohol: anti-Markov? A) Yes B) Markov C) No D) Random. Answer: A  
+12. (Hard) Kolbe electrolysis: alkane from? A) Carboxylate B) Alcohol C) Ether D) Phenol. Answer: A  
+13. (Hard) Reimer-Tiemann abnormal: para? A) No, ortho B) Meta C) Para D) All. Answer: A  
+14. (Hard) Dow process: phenol from? A) Chlorobenzene B) Benzene C) Toluene D) Aniline. Answer: A  
+15. (Hard) Zeisel: methoxy by? A) HI, AgNO3 B) HCl C) NaOH D) KMnO4. Answer: A  
+
+### Class 12 / Entry Exams: Aldehydes and Ketones
+
+1. (Easy) Aldehyde group? A) -CHO B) -CO- C) -COOH D) -OH. Answer: A  
+2. (Easy) Ketone? A) -CO- B) -CHO C) -O- D) -NH2. Answer: A  
+3. (Easy) Tollens test: silver mirror? A) Aldehyde B) Ketone C) Acid D) Alcohol. Answer: A  
+4. (Easy) Fehling: red ppt? A) Aldehyde B) Ketone C) Phenol D) Ether. Answer: A  
+5. (Easy) Cannizzaro: no α-H? A) Aldehyde to alcohol + acid B) Ketone C) With α-H D) All. Answer: A  
+6. (Medium) Aldol: β-hydroxy? A) Aldehyde/ketone B) Acid C) Ester D) Amide. Answer: A  
+7. (Medium) Haloform: CH3CO- or CH3CHOH-? A) Iodoform B) No C) Tollens D) Fehling. Answer: A  
+8. (Medium) Clemmensen: carbonyl to? A) CH2 B) CHO C) COOH D) OH. Answer: A  
+9. (Hard) Rosenmund: acid chloride to? A) Aldehyde B) Ketone C) Alcohol D) Acid. Answer: A  
+10. (Hard) Etard: toluene to? A) Benzaldehyde B) Benzoic acid C) Phenol D) Aniline. Answer: A  
+11. (Hard) Stephen: nitrile to? A) Aldehyde B) Ketone C) Amine D) Acid. Answer: A  
+12. (Hard) Wolff-Kishner: hydrazine + base? A) CH2 from carbonyl B) CHO C) CO D) No change. Answer: A  
+13. (Hard) Cross aldol: different? A) One no α-H B) Both α-H C) Same D) No. Answer: A  
+14. (Hard) HVZ: α-halo acid from? A) Carboxylic acid B) Aldehyde C) Ketone D) Alcohol. Answer: A  
+15. (Hard) Baeyer-Villiger: ketone to? A) Ester B) Acid C) Aldehyde D) Alcohol. Answer: A  
+
+### Class 12 / Entry Exams: Carboxylic Acids
+
+1. (Easy) Group? A) -COOH B) -CHO C) -CO- D) -OH. Answer: A  
+2. (Easy) Acetic acid from? A) Ethanol oxidation B) Methanol C) Methane D) Ethane. Answer: A  
+3. (Easy) Acidic due to? A) Resonance B) Inductive C) Hyper D) Steric. Answer: A  
+4. (Easy) Esterification: acid + alcohol? A) Ester B) Ether C) Aldehyde D) Ketone. Answer: A  
+5. (Easy) Soap from? A) Hydrolysis ester B) Acid C) Aldehyde D) Ketone. Answer: A  
+6. (Medium) Hell-Volhard-Zelinsky? A) α-halo B) β-halo C) γ-halo D) No halo. Answer: A  
+7. (Medium) Decarboxylation: soda lime? A) Alkane B) Alkene C) Alkyne D) Acid. Answer: A  
+8. (Medium) Formic acid reduces? A) Tollens B) No C) Fehling D) Both A and C. Answer: A  
+9. (Hard) Arndt-Schulz: acid to? A) Amide B) Nitrile C) Ester D) Halide. Answer: A  
+10. (Hard) Hunsdiecker: silver salt to? A) Alkyl halide B) Acid halide C) Ester D) Amine. Answer: A  
+11. (Hard) Kolbe electrolysis: acid salt to? A) Alkane B) Alkene C) Alkyne D) Alcohol. Answer: A  
+12. (Hard) Acid chloride from? A) SOCl2 B) PCl5 C) Both D) None. Answer: C  
+13. (Hard) Rosenmund for acids? A) No, aldehydes B) Yes C) Ketones D) Alcohols. Answer: A  
+14. (Hard) Cannizzaro for acids? A) No B) Yes C) Partial D) With α-H. Answer: A  
+15. (Hard) Claisen condensation: ester to? A) β-keto ester B) Aldol C) Acid D) Alcohol. Answer: A  
+
+### Class 12 / Entry Exams: Macromolecules
+
+1. (Easy) Polymers are? A) Large molecules B) Small C) Atoms D) Ions. Answer: A  
+2. (Easy) Addition polymer? A) Monomer adds B) Condenses C) No change D) Decomposes. Answer: A  
+3. (Easy) Condensation? A) Eliminates small molecule B) Adds C) No eliminate D) Both. Answer: A  
+4. (Easy) Natural polymer? A) Starch B) PVC C) PE D) PS. Answer: A  
+5. (Easy) Synthetic? A) Nylon B) Cellulose C) Protein D) DNA. Answer: A  
+6. (Medium) Ziegler-Natta for? A) Stereospecific polymer B) Random C) Condensation D) No. Answer: A  
+7. (Medium) Vulcanization? A) Rubber strength B) Weaken C) No change D) Melt. Answer: A  
+8. (Medium) Biodegradable? A) Polylactic acid B) PVC C) PE D) PS. Answer: A  
+9. (Hard) Tacticity: isotactic? A) All same side B) Alternate C) Random D) No. Answer: A  
+10. (Hard) Number avg MW Mn =? A) Σ Ni Mi / Σ Ni B) Σ Ni Mi² / Σ Ni Mi C) Σ Ni Mi³ / Σ Ni Mi² D) Σ Mi / N. Answer: A  
+11. (Hard) Weight avg Mw =? A) Σ Ni Mi² / Σ Ni Mi B) Σ Ni Mi / Σ Ni C) Σ Ni Mi³ / Σ Ni Mi² D) Mw / Mn. Answer: A  
+12. (Hard) PDI =? A) Mw / Mn B) Mn / Mw C) 1 D) 0. Answer: A  
+13. (Hard) Free radical polymerization initiator? A) Peroxide B) Acid C) Base D) Salt. Answer: A  
+14. (Hard) Anionic polymerization? A) Carbanion B) Carbocation C) Radical D) No. Answer: A  
+15. (Hard) Nylon 6,6 from? A) Hexamethylenediamine + adipic acid B) Caprolactam C) Phenol + formaldehyde D) Styrene. Answer: A  
+
+### Class 12 / Entry Exams: Industrial Chemistry
+
+1. (Easy) Haber-Bosch for? A) NH3 B) H2SO4 C) HNO3 D) NaOH. Answer: A  
+2. (Easy) Contact process? A) H2SO4 B) NH3 C) NaCl D) CaO. Answer: A  
+3. (Easy) Ostwald for? A) HNO3 B) H2SO4 C) NH3 D) Cl2. Answer: A  
+4. (Easy) Petroleum fraction? A) Gasoline B) Water C) Air D) Soil. Answer: A  
+5. (Easy) Fertilizer example? A) Urea B) Sugar C) Salt D) Oil. Answer: A  
+6. (Medium) Cracking? A) Large to small hydrocarbons B) Small to large C) No change D) Oxidation. Answer: A  
+7. (Medium) Reforming? A) Increase octane B) Decrease C) No effect D) Hydrogenate. Answer: A  
+8. (Medium) Metallurgy extract? A) Metals from ores B) Non-metals C) Gases D) Liquids. Answer: A  
+9. (Hard) Hall-Heroult for? A) Al B) Fe C) Cu D) Zn. Answer: A  
+10. (Hard) Bessemer for? A) Steel B) Al C) Cu D) Au. Answer: A  
+11. (Hard) Froth flotation for? A) Sulfide ores B) Oxide C) Carbonate D) Halide. Answer: A  
+12. (Hard) Leaching for? A) Au, Ag B) Fe C) Cu D) Zn. Answer: A  
+13. (Hard) Van Arkel for? A) Ultra pure Zr, Ti B) Fe C) Al D) Cu. Answer: A  
+14. (Hard) Mond process? A) Ni B) Fe C) Cu D) Zn. Answer: A  
+15. (Hard) Calcination? A) Heat carbonate B) Sulfide C) Oxide D) Halide. Answer: A  
+
+### Class 12 / Entry Exams: Environmental Chemistry
+
+1. (Easy) Pollutant? A) Harmful substance B) Useful C) Neutral D) Natural. Answer: A  
+2. (Easy) Smog? A) Smoke + fog B) Smoke only C) Fog only D) Dust. Answer: A  
+3. (Easy) Greenhouse gas? A) CO2 B) O2 C) N2 D) H2. Answer: A  
+4. (Easy) Ozone depletes by? A) CFCs B) CO C) NO D) SO2. Answer: A  
+5. (Easy) Acid rain pH? A) <5.6 B) >7 C) =7 D) >5.6. Answer: A  
+6. (Medium) BOD measures? A) O2 for organic decay B) CO2 C) N2 D) H2O. Answer: A  
+7. (Medium) Eutrophication? A) Nutrient excess algae B) Depletion C) No change D) Acid. Answer: A  
+8. (Medium) Biomagnification? A) Toxin increase in food chain B) Decrease C) Same D) No toxin. Answer: A  
+9. (Hard) Montreal protocol? A) Ozone protection B) Climate C) Biodiversity D) Water. Answer: A  
+10. (Hard) Kyoto? A) Greenhouse reduction B) Ozone C) Acid rain D) Smog. Answer: A  
+11. (Hard) Persistent organic pollutants? A) DDT B) CO2 C) O3 D) N2O. Answer: A  
+12. (Hard) Photochemical smog? A) NO2 + sunlight B) SO2 C) CO D) Dust. Answer: A  
+13. (Hard) London smog? A) SO2 + fog B) NO2 C) O3 D) CO. Answer: A  
+14. (Hard) Green chemistry? A) Sustainable B) Polluting C) Industrial D) Traditional. Answer: A  
+15. (Hard) Waste management hierarchy? A) Reduce, reuse, recycle B) Recycle first C) Dispose D) Burn. Answer: A

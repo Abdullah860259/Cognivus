@@ -1,40 +1,60 @@
-import { useState, useEffect } from "react";
-import { Pause, Play } from "lucide-react";
+"use client"
+import { useEffect } from "react"
+import { Pause, Play } from "lucide-react"
+import { EyeOff, EyeClosed } from "lucide-react";
 
-export default function Timer({ seconds, setSeconds, timerStop, setTimerStop, resetTimer, setResetTimer }) {
-  // const [seconds, setSeconds] = useState(0);
-
+export default function Timer({
+  seconds,
+  setSeconds,
+  timerStop,
+  setTimerStop,
+  resetTimer,
+  setResetTimer,
+  startTime = 0,   // if reverse, this is hours in seconds
+  reverse = false,
+  settimerHide,
+  timerHide,
+}) {
   useEffect(() => {
     if (timerStop) return;
 
     if (resetTimer) {
-      setSeconds(0);
+      setSeconds(reverse ? startTime : 0);
       setResetTimer(false);
     }
 
-    const interval = setInterval(() => setSeconds((s) => s + 1), 1000);
+    if (reverse && seconds <= 0) {
+      setTimerStop(true);
+      return;
+    }
+
+    const interval = setInterval(() => {
+      setSeconds((s) =>
+        reverse ? (s > 0 ? s - 1 : 0) : s + 1
+      );
+    }, 1000);
+
     return () => clearInterval(interval);
-  }, [timerStop, resetTimer, setResetTimer]);
+  }, [timerStop, resetTimer, reverse, seconds, startTime, setResetTimer, setSeconds, setTimerStop]);
 
   const hrs = String(Math.floor(seconds / 3600)).padStart(2, "0");
   const mins = String(Math.floor((seconds % 3600) / 60)).padStart(2, "0");
   const secs = String(seconds % 60).padStart(2, "0");
 
   return (
-    <div className="flex flex-col items-center gap-4">
-      <div
+    <div className="flex flex-col items-center gap-2">
+      {!timerHide && (<div
         style={{
           textAlign: "center",
-          fontSize: "2rem",
+          fontSize: "1.5rem",
           fontWeight: "bold",
           fontFamily: "monospace",
-          color: "black",
+          color: reverse && seconds <= 10 ? "red" : "black",
         }}
       >
         {hrs}:{mins}:{secs}
-      </div>
+      </div>)}
 
-      {/* Toggle Control */}
       <button
         onClick={() => setTimerStop(!timerStop)}
         className={`p-2 rounded-full cursor-pointer ${timerStop
@@ -43,12 +63,17 @@ export default function Timer({ seconds, setSeconds, timerStop, setTimerStop, re
           }`}
       >
         {timerStop ? (
-          <Play className="w-6 h-6 text-white" />
+          <Play className="w-4 h-4 text-white" />
         ) : (
-          <Pause className="w-6 h-6 text-gray-700" />
+          <Pause className="w-4 h-4 text-gray-700" />
         )}
       </button>
-    </div>
 
-  );
+      {timerHide ? (
+        <EyeClosed className="w-4 h-4  text-gray-700 cursor-pointer " onClick={() => settimerHide(false)} />
+      ) : (
+        <EyeOff className="w-4 h-4 text-gray-700 cursor-pointer " onClick={() => settimerHide(true)} />
+      )}
+    </div>
+  )
 }

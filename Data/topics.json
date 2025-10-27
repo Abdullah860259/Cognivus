@@ -1,0 +1,101 @@
+{
+  "Physics": {
+    "Class 9": [],
+    "Class 10": [],
+    "Class 11": [
+      "Measurement",
+      "Vectors",
+      "Motion and Force",
+      "Work and Energy",
+      "Circular Motion",
+      "Fluid Dynamics",
+      "Oscillations",
+      "Waves",
+      "Physical Optics",
+      "Optical Instruments",
+      "Heat and Thermodynamics"
+    ],
+    "Class 12 / Entry Exams": [
+      "Electrostatics",
+      "Current Electricity",
+      "Electromagnetism",
+      "Electromagnetic Induction",
+      "Alternating Current",
+      "Physics of Solids",
+      "Electronics",
+      "Dawn of Modern Physics",
+      "Atomic Spectra",
+      "Nuclear Physics"
+    ]
+  },
+  "Chemistry": {
+    "Class 9": [],
+    "Class 10": [],
+    "Class 11": [
+      "Fundamental Concepts",
+      "Experimental Techniques in Chemistry",
+      "Gases",
+      "Liquids and Solids",
+      "Atomic Structure",
+      "Chemical Bonding",
+      "Thermochemistry",
+      "Chemical Equilibrium",
+      "Solutions",
+      "Electrochemistry",
+      "Reaction Kinetics"
+    ],
+    "Class 12 / Entry Exams": [
+      "Periodic Classification of Elements and Periodicity",
+      "S-block Elements",
+      "Group 3-A and 4-A elements",
+      "Group 5-A and 6-A elements",
+      "The Halogen and the Noble Gases",
+      "Transition Elements",
+      "Fundamental Principles of Organic Chemistry",
+      "Aliphatic Hydrocarbons",
+      "Aromatic Hydrocarbons",
+      "Alkyl Halides",
+      "Alcohol, Phenols and Ethers",
+      "Aldehydes and Ketones",
+      "Carboxylic Acids",
+      "Macromolecules",
+      "Industrial Chemistry",
+      "Environmental Chemistry"
+    ]
+  },
+  "Biology": {
+    "Class 9": [],
+    "Class 10": [],
+    "Class 11": [
+      "Introduction",
+      "Biological Molecules",
+      "Enzymes",
+      "The Cell",
+      "Variety of Life",
+      "Kingdom Prokaryotae (Monera)",
+      "The Kingdom Protista (or Protoctista)",
+      "Fungi",
+      "Kingdom Plantae",
+      "Kingdom Animalia",
+      "Bioenergetics",
+      "Nutrition",
+      "Gaseous Exchange",
+      "Transport"
+    ],
+    "Class 12 / Entry Exams": [
+      "Homeostasis",
+      "Support and Movements",
+      "Coordination and Control",
+      "Reproduction",
+      "Growth and Development",
+      "Chromosomes and DNA",
+      "Cell Cycle",
+      "Variation and Genetics",
+      "Biotechnology",
+      "Evolution",
+      "Ecosystem",
+      "Some Major Ecosystems",
+      "Man and his Environment"
+    ]
+  }
+}

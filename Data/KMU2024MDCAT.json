@@ -1,0 +1,4383 @@
+[
+    {
+        "statement": "Enzymatic activity can be inhibited by?",
+        "options": [
+            "Heavy metal ions",
+            "Methane",
+            "Mutase",
+            "Noble gases"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Enzymes",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A competitive inhibitor:",
+        "options": [
+            "Accelerates the chemical reaction",
+            "Competes with the enzyme",
+            "Is irreversible",
+            "Is reversible"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Enzymes",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Wings of birds and that of flying lizards provide evidence \nof:",
+        "options": [
+            "Convergent evolution",
+            "Divergent evolution",
+            "No evolution",
+            "Same origin"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Evolution",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The embryological stages of _______ show similarity in \nanatomical features.",
+        "options": [
+            "All living things",
+            "All non-vertebrates",
+            "All vertebrates",
+            "Human, jelly fish and mouse"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Evolution",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which enzyme is secreted in the active form?",
+        "options": [
+            "Amylase",
+            "Lipase",
+            "Peptidase",
+            "Protease"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Enzymes",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which hormone stimulates the secretion of gastric juice?",
+        "options": [
+            "Cholecystokinin",
+            "Gastrin",
+            "Insulin",
+            "Secretin"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Nutrition",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "In an inflammatory response, bradykinin causes?",
+        "options": [
+            "Activation of natural killer cells",
+            "Blockage in blood vessels",
+            "Constriction of blood vessels",
+            "Leakage of fluid from blood vessels"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Transport",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following is an example of passive \nimmunity?",
+        "options": [
+            "Antibodies from mother's milk",
+            "Previous chickenpox infection",
+            "Inactivated polio vaccine",
+            "Live polio vaccine"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Transport",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Bacteria that lack flagella are called?",
+        "options": [
+            "Amphitrichous",
+            "Atrichious",
+            "Lophotrichous",
+            "Peritrichous"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Kingdom Prokaryotae (Monera)",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Antibiotics can be used against:",
+        "options": [
+            "Herpes simplex",
+            "Influenza",
+            "Polio",
+            "Salmonella typhi"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Variety of Life",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The _______ in semen facilitate the transport of sperms.",
+        "options": [
+            "Androgen",
+            "Prostaglandins",
+            "Oxytocin",
+            "Testosterone"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Reproduction",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The acidity of urine is neutralized by?",
+        "options": [
+            "Cowpers gland",
+            "Prostate gland",
+            "Seminal vesicle",
+            "Vas deferens"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Reproduction",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The corpus luteum is essentially formed from",
+        "options": [
+            "Graafian follicle",
+            "Ovum",
+            "Oogonium",
+            "Oocyte"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Reproduction",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The outer layer of uterus is called as:",
+        "options": [
+            "Endometrium",
+            "Myometrium",
+            "Mesometrium",
+            "Perimetrium"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Reproduction",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "___________ is spread through sexual contact.",
+        "options": [
+            "Gonorrhoea",
+            "Influenza",
+            "Tuberculosis",
+            "Typhoid"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Reproduction",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The cells contained in the lacunae of the bone are called",
+        "options": [
+            "Chondrocytes",
+            "Osteoblast",
+            "Osteocytes",
+            "Osteoclast"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Support and Movements",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The ____ surrounds the muscle fibre of the skeletal \nmuscle.",
+        "options": [
+            "Cytoplasm",
+            "Lacunae",
+            "Myofibrils",
+            "Sarcoplasm"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Support and Movements",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What happens to calcium when skeletal muscles recover \nfrom contraction?",
+        "options": [
+            "Released from the sarcoplasmic reticulum",
+            "Released from the myosin head",
+            "Pumped into the sarcoplasmic reticulum",
+            "Exchanged for sodium ions"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Support and Movements",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following blood groups has anti-A and anti-\nB antibodies in the serum?",
+        "options": [
+            "A",
+            "AB",
+            "B",
+            "O"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Transport",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What is the primary outcome of crossing over during \nprophase of meiosis I?",
+        "options": [
+            "Chromosomes duplicate without any exchange",
+            "Homologous chromosomes exchange different",
+            "Homologous chromosomes exchange identical",
+            "Non-homologous chromosomes exchange parts"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Cell Cycle",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The genetic makeup that your parents have transferred \nto you for your hair color, makes up your:",
+        "options": [
+            "Genotype",
+            "Karyotype",
+            "Phenotype",
+            "None of the above"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Variation and Genetics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Carnivorous plants have evolved mechanisms for \ntrapping and digesting small animals. The product of this \ndigestion is used to supplement the plant’s supply of:",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Nitrites",
+            "Water"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Nutrition",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which is true for an X linked dominant trait?",
+        "options": [
+            "All female offspring of the affected father will",
+            "Half of the female offsprings of the affected",
+            "No male offspring of an affected mother will be",
+            "No female offspring of the affected father will"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Variation and Genetics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Malpighian tubules are found in:",
+        "options": [
+            "Earthworm",
+            "Grasshopper",
+            "Leech",
+            "Slug"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Homeostasis",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Shark belongs to class__________",
+        "options": [
+            "Chondrichthyes",
+            "Echinodermata",
+            "Osteichthyes",
+            "Urochordata"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Kingdom Animalia",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Canal system is a characteristic of?",
+        "options": [
+            "Cnidarians",
+            "Protozoans",
+            "Porifera",
+            "Segmented worms"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Kingdom Animalia",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Mantle is the feature of?",
+        "options": [
+            "Annelids",
+            "Chordates",
+            "Echinoderms",
+            "Mussel"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Kingdom Animalia",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The production of energy is____________.",
+        "options": [
+            "Faster in anaerobic respiration",
+            "Faster in aerobic respiration",
+            "Same in both types of respiration",
+            "Not associated with respiration"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Bioenergetics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The pathway to the breakdown of glucose, carried out by \nmicro-organisms, is called:",
+        "options": [
+            "Lactic acid fermentation",
+            "Alcoholic fermentation",
+            "Cellular respiration",
+            "None of the above"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": [
+            0,
+            1
+        ],
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Bioenergetics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Chromosome is typically made up from a combination of?",
+        "options": [
+            "DNA and protein",
+            "DNA and RNA",
+            "RNA and lipids",
+            "RNA and proteins"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Chromosomes and DNA",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which cytoplasmic organelle make their own proteins?",
+        "options": [
+            "Chromosomes",
+            "Golgi apparatus",
+            "Mitochondria",
+            "Smooth endoplasmic reticulum"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "The Cell",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The active mass movement of mitochondria in the \ncytoplasm is due to",
+        "options": [
+            "Cyclosis",
+            "Endoplasmic streaming movements",
+            "Golgi apparatus",
+            "Transfer RNA"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "The Cell",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which part of the brain is controlling your sense of \nbalance?",
+        "options": [
+            "Amygdala",
+            "Cerebellum",
+            "Hippocampus",
+            "Medulla Oblongata"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Coordination and Control",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The \nneurotransmitter_______ \nis \nhydrolysed \nby \nmonoamine oxidase",
+        "options": [
+            "Acetylcholine",
+            "Adrenaline",
+            "Gluamate",
+            "Serotinin"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Coordination and Control",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Most of the neurons in the CNS are?",
+        "options": [
+            "Bipolar",
+            "Multipolar",
+            "Pseudo unipolar",
+            "Unipolar"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Coordination and Control",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The enzymes enable the conversion of substrates into \nproducts by",
+        "options": [
+            "Changing equilibrium in the direction of the",
+            "Increasing the activation energy",
+            "Increasing the substrate concentration",
+            "Lowering the activation energy"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Enzymes",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "According to Lamarckism, the basis of evolution is:",
+        "options": [
+            "Inheritance of acquired characteristics",
+            "Mutation",
+            "Natural selection",
+            "Survival of the fittest"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Evolution",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What best describes the hind leg bones seen in the \nwhale?",
+        "options": [
+            "Analogous to the fin of living fish",
+            "Fossil structure from an extinct ancestor",
+            "Homologous structure of the wings of a bat",
+            "Vestigial structures that had a function in an"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Evolution",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which is true about the cells found in gastric glands lining \nthe stomach wall?",
+        "options": [
+            "Chief cells secrete gastrin",
+            "Hormone cells secrete intrinsic factor",
+            "Mucus cells secrete mucin",
+            "Parietal cells secrete pepsinogen"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Nutrition",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What directly triggers the activation of natural killer \ncells?",
+        "options": [
+            "Free radicals",
+            "Hydrogen peroxide",
+            "Interferons",
+            "Oxygen"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Transport",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following is NOT true about plasmids found \nin streptococci?",
+        "options": [
+            "Carry fewer genes than the chromosome",
+            "Replicate autonomously from the chromosome",
+            "They are considered as genetic element",
+            "The bacterial chromosome depends on plasmids"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Kingdom Prokaryotae (Monera)",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following bacteria produces endospores?",
+        "options": [
+            "Both gram negative and positive bacteria",
+            "Gram negative",
+            "Gram positive",
+            "Mycobacteria"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Kingdom Prokaryotae (Monera)",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "_________ is used in the production of Humulin?",
+        "options": [
+            "Bacteria",
+            "Fungi",
+            "Protozoa",
+            "Virus"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Biotechnology",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following does NOT relate to smooth \nmuscles?",
+        "options": [
+            "Controlled by the autonomic nervous system",
+            "Have spindle shaped cells",
+            "Line the wall of heart",
+            "Lack striations"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Support and Movements",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which term best describes an organism’s physical \ncharacteristic.",
+        "options": [
+            "Allele",
+            "Genetic code",
+            "Genotype",
+            "Trait"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Variation and Genetics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What will happen with the addition of salt to water?",
+        "options": [
+            "Water potential will increase",
+            "Water potential will remain same",
+            "Osmotic potential will increase",
+            "Osmotic potential will remain same"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "The Cell",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following is NOT true about viruses?",
+        "options": [
+            "Contain DNA",
+            "Can replicate on their own",
+            "Can infect bacteria",
+            "They have a sub-cellular structure"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Variety of Life",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The genetic code of _____ is bound by a lipid membrane?",
+        "options": [
+            "Enterovirus",
+            "Flu virus",
+            "Hepatitis A virus",
+            "Polio virus"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Variety of Life",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Viruses can NOT______.",
+        "options": [
+            "Crystalise",
+            "Excrete",
+            "Infect bacteria",
+            "Mutate"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Variety of Life",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Where are the enzymes required for the replication of \nHIV virus located?",
+        "options": [
+            "In the protein spikes",
+            "Surrounding the viral core",
+            "Inside the capsid",
+            "Outside the capsid"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Variety of Life",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The process of ATP synthesis through a combination of \nelectrochemical and osmotic events is known as:",
+        "options": [
+            "Fermentation",
+            "Glycolysis",
+            "Oxidative phosphorylation",
+            "Oxidation of pyruvate to acetyl CoA"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Bioenergetics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Optimum pH for pancreatic lipase is:",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Enzymes",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Sugarcane contains _________.",
+        "options": [
+            "Fructose",
+            "Glucose",
+            "Ribose",
+            "Sucrose"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Biological Molecules",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Sickle cell anaemia results from?",
+        "options": [
+            "Reduction in oxygen carrying capacity of",
+            "Linkage between the polypeptide chains",
+            "Single",
+            "Viral infections of RNA viruses"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Variation and Genetics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which is INCORRECT about the globular proteins?",
+        "options": [
+            "Abundantly found in hair",
+            "Are spherical in shape",
+            "Have polypeptide chains",
+            "Soluble in water"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Biological Molecules",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What is the ester of fatty acids and long chain alcohol \ncalled?",
+        "options": [
+            "Acylglycerol",
+            "Glycerol",
+            "Phospholipid",
+            "Wax"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Biological Molecules",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Lipids, which do not contain fatty acid are:",
+        "options": [
+            "Neutral lipids",
+            "Phosphatidic acids",
+            "Steroids",
+            "Waxes"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Biological Molecules",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The peptidoglycan cell wall is specific to.",
+        "options": [
+            "Amoeba",
+            "Bacteria",
+            "Protozoa",
+            "Virus"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Kingdom Prokaryotae (Monera)",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Where are spindle fibres attached on a chromosome \nduring cell division",
+        "options": [
+            "Centromere",
+            "Histone proteins",
+            "Nucleolus",
+            "Telomere"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Cell Cycle",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which organelle contribute towards steroid production?",
+        "options": [
+            "Endoplasmic Reticulum",
+            "Golgi apparatus",
+            "Lysosome",
+            "Ribosomes"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "The Cell",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The lysosomes found in eukaryotes contain:",
+        "options": [
+            "Hydrolytic enzymes",
+            "Meiotic enzymes",
+            "Oxidative enzymes",
+            "Mitotic enzymes"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "The Cell",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Plasma membrane is differentially permeable membrane \ndue to the presence of?",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Vitamins"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "The Cell",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The following function/activity is NOT controlled by the \nautonomic nervous system.",
+        "options": [
+            "Cardiac muscles contraction",
+            "Salivation",
+            "Smooth muscles contraction",
+            "Thoughts and emotions"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Coordination and Control",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A motor neuron:",
+        "options": [
+            "Carries impulse from effectors to CNS",
+            "Carries impulse from receptors to CNS",
+            "Carries impulse from CNS to muscles",
+            "Connects sensory nerves to ganglions"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Coordination and Control",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Diffusion of ____________ across the post synaptic \nmembrane causes it to depolarise:",
+        "options": [
+            "Calcium ions",
+            "Chloride ions",
+            "Potassium ions",
+            "Sodium ions"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Coordination and Control",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A reflex action, does not involve the",
+        "options": [
+            "Brain",
+            "Motor neuron",
+            "Sensory neuron",
+            "Spinal cord"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Coordination and Control",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What happens to the enzyme after an enzyme-catalysed \nreaction?",
+        "options": [
+            "Reduced to inactive form",
+            "Becomes inert",
+            "Changes into substrate",
+            "Used for another reaction"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Biology",
+        "topic": "Enzymes",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "In the production of SO3 from SO2 and Oxygen, the yield \nof SO3 is increased by",
+        "options": [
+            "Adding a catalyst",
+            "Adding more SO2",
+            "Increasing temperature",
+            "Removing oxygen"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Consider N2 + 3H2(g)      2NH3(g)       ∆H= -92.46kJ/mol \nThe optimum temperature (oC) to produce ammonia is",
+        "options": [
+            "0",
+            "450",
+            "5000",
+            "Constant temperature"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The unit of KC for the system PCl5      PCl3 + Cl2 is",
+        "options": [
+            "dm3/mol",
+            "mol/ dm3",
+            "mol/ dm6",
+            "mol2/dm6"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "For a first order reaction A → B, the rate constant is \n0.0458 s-1. Calculate rate of the reaction if the \nconcentration of reactant is 0.35mol dm-3.",
+        "options": [
+            "0.012 mol dm-3 s-1",
+            "0.014 mol dm-3 s-1",
+            "0.016 mol dm-3 s-1",
+            "0.018 mol dm-3 s-1"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Reaction Kinetics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A reaction is first order with respect to A and second \norder with respect to B, the rate equation is",
+        "options": [
+            "Rate = k [A]",
+            "Rate = k [A][B]",
+            "Rate = k [A]2[B]",
+            "Rate = k [A][B]2"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Reaction Kinetics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What mass of aluminium oxide (Al2O3) is produced from \n18.5g of Al metal, when it reacts completely with \noxygen gas according to the following equation?  \n4Al(S) + 3O2(g) → 2Al2O3(S)",
+        "options": [
+            "30.8g",
+            "32.6g",
+            "34.9g",
+            "36.5g"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Concepts",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Calculate the work done when 1 mole of an ideal gas \nexpands from 15 dm3 to 20 dm3 against a constant \nexternal pressure of 2 atmospheres.",
+        "options": [
+            "-10 atm.dm3",
+            "-5 atm.dm3",
+            "5 atm.dm3",
+            "10 atm.dm3"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Gases",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "When 1 mole of ice melts at 0oC and constant pressure \nof 1 atmosphere, 6025 J of heat is absorbed by the \nsystem. The molar volume of ice and water are 0.020 \nand 0.018 dm3, respectively. Calculate ∆E. \n(1dm3.atm=101.33J)",
+        "options": [
+            "6010.20J",
+            "6015.20J",
+            "6020.20J",
+            "6025.20J"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "One slice of bread with a tablespoon of peanut butter \non it contains 20g carbohydrate, 10g protein, and 9g \nfat. Calculate total energy consumed in this intake.",
+        "options": [
+            "158kcal",
+            "173kcal",
+            "201kcal",
+            "218kcal"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "∆H can be measured indirectly by applying",
+        "options": [
+            "Avogadro’s law",
+            "Faraday’s law",
+            "Gas’s law",
+            "Hess’s law"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The heat of sublimation of potassium is 98kJ/mol, the \nheat of dissociation of bromine gas is 192.5 kJ/mol. The \nionization energy of K is 414 kJ/mol. The electron \naffinity of Br is -334.7 kJ/mol and the heat of formation \nof KBr is -405.8 kJ/mol. Calculate the lattice energy of \nKBr.",
+        "options": [
+            "-679.3",
+            "-669.5",
+            "669.5",
+            "679.3"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which one of the following is a strong electrolyte in \nsolution?",
+        "options": [
+            "Acetic acid",
+            "Ammonium hydroxide",
+            "Carbonic acid",
+            "Potassium iodide"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Solutions",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "When 4 g of magnesium was heated in excess of \noxygen. Calculate the theoretical yield of magnesium \noxide (MgO).",
+        "options": [
+            "3.7g",
+            "4.2g",
+            "5.4g",
+            "6.6g"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Concepts",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The electrode potential of the standard hydrogen \nelectrode is chosen as",
+        "options": [
+            "-1 V",
+            "0 V",
+            "1 V",
+            "2 V"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Electrochemistry",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Electronegativity of Al is approximately equal to that of",
+        "options": [
+            "B",
+            "Be",
+            "Mg",
+            "Na"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Periodic Classification of Elements and Periodicity",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following alkali metal forms only normal \noxide with O2?",
+        "options": [
+            "K",
+            "Li",
+            "Na",
+            "Rb"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "S-block Elements",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Third period element that initially reacts rapidly with \noxygen to form a protective oxide coating that prevents \nfurther reactions is",
+        "options": [
+            "Al",
+            "Mg",
+            "Na",
+            "Si"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Group 3-A and 4-A elements",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Cu2+ salt solution is blue in colour due to transition of \nelectrons from",
+        "options": [
+            "d to d orbital",
+            "p to d orbital",
+            "p to p orbital",
+            "s to p orbital"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Transition Elements",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Potassium ferrocyanide is which type of salt?",
+        "options": [
+            "Complex",
+            "Double",
+            "Mixed",
+            "Normal"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Transition Elements",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Name of ketone functional group is",
+        "options": [
+            "Amino",
+            "Carbonyl",
+            "Carboxyl",
+            "Formyl"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Principles of Organic Chemistry",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Pyridine is to which class of organic compounds?",
+        "options": [
+            "Alicyclic",
+            "Heterocyclic",
+            "Homocyclic",
+            "Hydrocarbon"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Principles of Organic Chemistry",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following elements cannot be detected \ndirectly in a given organic compound?",
+        "options": [
+            "Chlorine",
+            "Nitrogen",
+            "Oxygen",
+            "Phosphorous"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Experimental Techniques in Chemistry",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The homolytic fission of C-H bond in an alkane result in",
+        "options": [
+            "Alkyl free radical",
+            "Carbanion",
+            "Carbocation",
+            "Methylpropane"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Aliphatic Hydrocarbons",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Addition of HBr to isobutylene mainly gives",
+        "options": [
+            "isobutyl bromide",
+            "n-butyl bromide",
+            "sec-butyl bromide",
+            "tert-butyl bromide"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Aliphatic Hydrocarbons",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Dehydrohalogenation of alkylhalide is carried out in \npresence of",
+        "options": [
+            "Alcoholic KOH",
+            "Aqueous KOH",
+            "Conc. H2SO4",
+            "Zn dust"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Alkyl Halides",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The pKb of n-propyl amine is",
+        "options": [
+            "3.24",
+            "3.28",
+            "3.32",
+            "3.35"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The carbon atom carrying positive charge and attached \nto three other atoms or groups is called",
+        "options": [
+            "Carbanion",
+            "Carbene",
+            "Carbocation",
+            "Oxonium"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Principles of Organic Chemistry",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following has the highest boiling point?",
+        "options": [
+            "ethyl alcohol",
+            "isopropyl alcohol",
+            "n-propyl alcohol",
+            "tert-butyl alcohol"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Alcohol, Phenols and Ethers",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The reaction of an alcohol with sodium produces",
+        "options": [
+            "Aldehyde",
+            "A alkoxide",
+            "Ethane",
+            "Ethene"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Alcohol, Phenols and Ethers",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Oxidation of secondary alcohol gives",
+        "options": [
+            "Carboxylic acid",
+            "Ether",
+            "Ketone",
+            "Phenol"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Aldehydes and Ketones",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which aldehyde is more reactive towards nucleophilic \naddition?",
+        "options": [
+            "Acetaldehyde",
+            "Butyraldehyde",
+            "Formaldehyde",
+            "Propionaldehyde"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Aldehydes and Ketones",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Acetic acid can be prepared by the hydrolysis of",
+        "options": [
+            "Ethanal",
+            "Ethanol",
+            "Methanoic acid",
+            "Methyl cyanide"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Carboxylic Acids",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Protein present in haemoglobin has _______ \nstructure.",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Macromolecules",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "In competitive inhibition, the inhibitor",
+        "options": [
+            "Binds with substrate",
+            "Competes with enzyme",
+            "Competes with substrate",
+            "Irreversibly binds with enzyme"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Enzymes",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "How many moles are there in 60g of sodium \nhydroxide (NaOH)?",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Concepts",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Heating 24.8g of copper carbonate (CuCO3) in a \ncrucible produced only 13.9g of copper oxide (CuO). \nWhat is the percentage yield of copper oxide?",
+        "options": [
+            "81.79%",
+            "83.98%",
+            "86.87%",
+            "89.68%"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Concepts",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Efficiency of chemical reaction can be checked by \ncalculating",
+        "options": [
+            "Actual yield",
+            "Theoretical yield",
+            "Percentage yield",
+            "Amount of the reactant unused"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Concepts",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Actual yield will reach the ideal (theoretical) value \nif the % yield of the reaction is,",
+        "options": [
+            "10%",
+            "50%",
+            "90%",
+            "100%"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Concepts",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following sub-shell does not exist?",
+        "options": [
+            "1p",
+            "1s",
+            "5d",
+            "6f"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The splitting of spectral lines in magnetic field is",
+        "options": [
+            "Aufbau principle",
+            "Pauli exclusion principle",
+            "Stark effect",
+            "Zeeman effect"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which element has the electronic configuration of \nnoble-gas notation [Kr], 5s2, 4d2",
+        "options": [
+            "Mo",
+            "Se",
+            "Sr",
+            "Zr"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Total number of electron pairs present in the \nvalence shell of central atom in water are",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Chemical Bounding",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What is the mass of 1 mole of calcium carbonate \n(CaCO3)?",
+        "options": [
+            "50g",
+            "75g",
+            "100g",
+            "125g"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Concepts",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which one of the following molecules has a \npyramidal structure?",
+        "options": [
+            "C2H4",
+            "CH4",
+            "H2O",
+            "NH3"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Chemical Bounding",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which one of the following molecules has a zero-\ndipole moment?",
+        "options": [
+            "BF3",
+            "NF3",
+            "NH3",
+            "H2O"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Chemical Bounding",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The unhybridized p orbital in sp2 hybridization is",
+        "options": [
+            "In the same plane",
+            "Out of the plane",
+            "Parallel to sp2 orbitals",
+            "Perpendicular to sp2 orbitals"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Chemical Bounding",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "760 torr is equal to ___ Pascal",
+        "options": [
+            "1",
+            "76",
+            "760",
+            "101325"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Gases",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "How many grams of CO2 can be produced by \nthermally decomposing 10 moles of ZnCO3(S)?",
+        "options": [
+            "320",
+            "360",
+            "400",
+            "440"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Concepts",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Molar heat of vaporization of water is",
+        "options": [
+            "40.7 cal/mol",
+            "40.7 J/mol",
+            "40.7 kcal/mol",
+            "40.7 kJ/mol"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Liquids and Solids",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Distillation under very reduced pressure is ____ \ndistillation",
+        "options": [
+            "Destructive",
+            "Fractional",
+            "Steam",
+            "Vacuum"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Experimental Techniques in Chemistry",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The example of metallic solid is",
+        "options": [
+            "B",
+            "C",
+            "Cu",
+            "Si"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Liquids and Solids",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "When a crystalline substance conducts current in \none direction but not through other directions of the \ncrystal, this property is",
+        "options": [
+            "Allotropy",
+            "Anisotropy",
+            "Isomorphism",
+            "Polymorphism"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Liquids and Solids",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Forward reaction is the one that",
+        "options": [
+            "Is very slow at the beginning of the reaction",
+            "Reacts to form reactants",
+            "Speeds up gradually and at equilibrium its rate",
+            "Takes place from left to right as given in"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "How many moles of NaCl are produced from 16.5g \nof HCl, according to the neutralization reaction?  \nHCl(aq) + NaOH(aq) → NaCl(aq) + H2O(I)",
+        "options": [
+            "0.252",
+            "0.452",
+            "0.652",
+            "0.852"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Chemistry",
+        "topic": "Fundamental Concepts",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "In an adiabatic process, how does the temperature \nof a gas change as its volume decreases?",
+        "options": [
+            "The temperature decreases",
+            "The temperature increases",
+            "The temperature remains constant",
+            "The temperature first increases then decreases"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Heat and Thermodynamics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "During an isothermal expansion of an ideal gas, which of the following statement is true?",
+        "options": [
+            "Pressure and temperature of the gas increase",
+            "The internal energy of the gas increases",
+            "The temperature of the gas remains constant",
+            "The work done by the gas is zero"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Heat and Thermodynamics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Consider an ideal gas confined to the cylinder with \na fixed piston, on heating the gas, all the heat supplied \nincreases ______________.",
+        "options": [
+            "Kinetic energy of the molecules",
+            "Potential Energy of the molecules",
+            "The intermolecular forces between gas",
+            "The number of gas molecules"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Heat and Thermodynamics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What is the increase in force between two charges \nif the separation between them is decreased by 50 \npercent?",
+        "options": [
+            "Becomes four times",
+            "Doubles",
+            "Increases by half",
+            "Triples"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electrostatics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "According to Coulomb’s law, what happens to the \nelectrostatic force between the 2-point charges if the \ndistance between them is doubled?",
+        "options": [
+            "The force becomes one-fourth",
+            "The force becomes half",
+            "The force doubles",
+            "The force remains the same"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electrostatics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What does one Coulomb represent in terms of \ncharge?",
+        "options": [
+            "The amount of charge transported by a current",
+            "The charge of one proton",
+            "The charge of one electron",
+            "The charge required to create a force of 1"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electrostatics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Two points charges, +5µC and -5µC are placed at \npoints A and B, respectively, which are separated by a \ndistance 2d. What is the electric potential at the \nmidpoint M of the line joining A and B?",
+        "options": [
+            "2kQ/d",
+            "kQ/d",
+            "-kQ/d",
+            "zero"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electrostatics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "In the case of a parallel plate capacitor, when the \ndistance between the two plates is reduced to half and \nthe area of the plate doubled, the capacitance",
+        "options": [
+            "Increases four times",
+            "Increases six times",
+            "Is doubled",
+            "Remains the same"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electrostatics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "If the dielectric material between the plates of the \ncapacitor is removed, what happens to the electric \nfield between the plates?",
+        "options": [
+            "The electric field becomes zero",
+            "The electric field decreases",
+            "The electric field increases",
+            "The electric field remains the same"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electrostatics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Capacitance of a capacitor increases with a \ndecrease in:",
+        "options": [
+            "Dielectric constant",
+            "Plate area",
+            "Permittivity",
+            "Plate separation"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electrostatics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The I-V Graph for a non-Ohmic material is always",
+        "options": [
+            "Curved",
+            "Horizontal",
+            "Linear",
+            "Perpendicular"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Current Electricity",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Temperature coefficient of resistance is defined as \nincrease in resistance per ohm original resistance per \n___?",
+        "options": [
+            "Degree rise in temperature",
+            "Unit increase in electric current",
+            "Unit decrease in capacitance",
+            "Degree drop in temperature"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Current Electricity",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "For metals, the temperature coefficient of \nresistance is:",
+        "options": [
+            "Infinity",
+            "Negative",
+            "Positive",
+            "Zero"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Current Electricity",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "If R1 and R2 are respectively the filament \nresistance of a 100-Watt bulb and 200-Watt bulb \ndesigned to operate on the same voltage, then power \nof:",
+        "options": [
+            "R1 is two times R2",
+            "R2 is two times R1",
+            "R2 is four times R1",
+            "R1 is four times R2"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Current Electricity",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The maximum power transfer theorem states that \nmaximum power is delivered to the load when",
+        "options": [
+            "The load resistance is half of the source",
+            "The load resistance is zero",
+            "The load resistance is double the source",
+            "The load resistance is equal to the source"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Current Electricity",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Electron Volt (eV) is another unit of",
+        "options": [
+            "Charge",
+            "Current",
+            "Energy",
+            "Power"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Current Electricity",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "An electron is moving perpendicular to the \nmagnetic field, which of the following is correct \nstatement about electromagnetic force acting on the \nelectron?",
+        "options": [
+            "Force acting is equal to electron charge",
+            "Force acting is equal to the magnetic field",
+            "Force acting is maximum",
+            "Zero force is acting on it"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electromagnatism",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "For a positive charged particle (q) moving with a \nvelocity (v) in a magnetic Filed of flux density B, the \nforce (F) acting on the charge particle is given by the \nexpression?",
+        "options": [
+            "q = Fv × B",
+            "F = qv × B",
+            "F = v × B/q",
+            "q = v × B/F"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electromagnatism",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following statement is true about the \nmagnetic field inside a solenoid?",
+        "options": [
+            "It is along the axis of the coil",
+            "It is circular around the wires",
+            "It is strongest at the ends of the solenoid",
+            "It is zero when current flows through it"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electromagnatism",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "One-meter-long copper rod is moving with speed speed 20 \nm/sec in the magnetic field of strength 0.6 tesla what \nis the value of induced emf?",
+        "options": [
+            "12 V",
+            "19.4 V",
+            "20.6 V",
+            "25 V"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electromagnetic Induction",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The inductance of a coil depends on.",
+        "options": [
+            "Number of turns",
+            "Resistance of the wire used",
+            "Type of insulation used on the wire",
+            "Voltage applied to the coil"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electromagnetic Induction",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The direction of induced current is determined by?",
+        "options": [
+            "Ampere’s law",
+            "Faraday’s law",
+            "Lenz’s law",
+            "Ohm’s law"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electromagnetic Induction",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Lenz’s law is consistent with the",
+        "options": [
+            "Ampere’s Law",
+            "Faraday’s law",
+            "Law of conservation of energy",
+            "Ohm’s Law"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electromagnetic Induction",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The basic principle behind the operation of the \ntransformer is.",
+        "options": [
+            "Coulomb’s law",
+            "Electromagnetic induction",
+            "Gas’s Law",
+            "Hess’s law"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electromagnetic Induction",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "When the PN junction is reverse-biased, its reverse \ncurrent is of the order of:",
+        "options": [
+            "Gigaamperes",
+            "Kiloamperes",
+            "Megaamperes",
+            "Microamperes"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Electronics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The momentum of moving photon is:",
+        "options": [
+            "mc2",
+            "λ / h",
+            "h / λ",
+            "zero"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Dawn of Modern Physics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "In every instant of time, wavelength associated \nwith a freely falling body:",
+        "options": [
+            "Decreases",
+            "Increases two times",
+            "Increases four times",
+            "Remains constant"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Dawn of Modern Physics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "As per 2nd photoelectric experiment, photoelectric \neffect does not occur if the frequency of the incident \nlight is?",
+        "options": [
+            "Below the threshold frequency",
+            "Equals the threshold frequency",
+            "Three times the threshold frequency",
+            "Twice the threshold frequency"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Dawn of Modern Physics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "If an electron in the hydrogen atom jumps from \nsecond to first orbit, the emitted radiation has a \nwavelength of?",
+        "options": [
+            "4/3RH",
+            "3/4RH",
+            "RH",
+            "4RH"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Atomic Spectra",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Black body is an ideal radiator that radiates \n__________ at all wavelengths",
+        "options": [
+            "Inconsistently",
+            "Distinctly",
+            "Equally",
+            "Unequally"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Dawn of Modern Physics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Mass number A refers to _____",
+        "options": [
+            "Number of electrons",
+            "Number of nucleons",
+            "Number of neutrons",
+            "Number of protons"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Nuclear Physics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "λ is a ____________ constant:",
+        "options": [
+            "Decay",
+            "Dielectric",
+            "Plank’s",
+            "Proportionality"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Nuclear Physics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Gamma ray camera can observe radiations from the \n_________ that are concentrated in the organs",
+        "options": [
+            "Atoms",
+            "Isotopes",
+            "Nucleons",
+            "Neutrons"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Nuclear Physics",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A car is moving in a circular path at a constant \nspeed. What provides the necessary centripetal force to \nkeep the car moving in this path?",
+        "options": [
+            "A car’s inertia resisting any change in",
+            "The car’s mass pulling it towards the centre of",
+            "The engine’s power pushing the car forward",
+            "The friction between the tyres and the road"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Circular Motion",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following pairs correctly matches a \nphysical quantity with its SI unit?",
+        "options": [
+            "Energy- Newton",
+            "Force – Joule",
+            "Power- Watt",
+            "Velocity-m/s2"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Measurement",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "_______ is the natural tendency of an object to \nremain at rest or in motion with constant velocity?",
+        "options": [
+            "Friction",
+            "Inertia",
+            "Mass",
+            "Weight"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Motion and Force",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A car in motion hits and gets crashed into a tree \ntrunk, what is NOT conserved?",
+        "options": [
+            "Kinetic energy alone",
+            "Momentum alone",
+            "Momentum and kinetic energy both",
+            "Neither kinetic energy nor momentum"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Motion and Force",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The vertical and horizontal component of the \nprojectile motion are",
+        "options": [
+            "Correlated with each other",
+            "Dependent on each other",
+            "Independent of each other",
+            "Associated with each other"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Motion and Force",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A ball is kicked horizontally from the top of a 10m \nhigh cliff with an initial speed of 15m/s. After 2 \nseconds, which of the following statement describes \nthe ball’s horizontal and vertical components?",
+        "options": [
+            "The horizontal velocity is 15m/s while vertical",
+            "The horizontal velocity is 15m/s while vertical",
+            "The horizontal velocity is 30m/s while vertical",
+            "The horizontal velocity is 15m/s while vertical"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Motion and Force",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "How does an angle between the force applied and \nthe direction of motion influence the work done on an \nobject?",
+        "options": [
+            "Work is constant regardless of the angle",
+            "Work is maximum when the angle is 0o",
+            "Work is negative when the angle is 90o",
+            "Work is 0 when the angle is 45°"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Work and Energy",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A nurse is pushing a wheelchair with an 80kg \npatient sitting on it. How much work is done by the \npatient’s weight?",
+        "options": [
+            "Half of the work",
+            "Maximum work",
+            "Minimum work",
+            "No work"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Work and Energy",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "If a constant force of 10N is applied to move an \nobject 5m in the direction of the force, what is the \nwork done?",
+        "options": [
+            "2 J",
+            "5 J",
+            "15 J",
+            "50 J"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Work and Energy",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The escape velocity of a body in the gravitational \nfield of Earth is dependent on:",
+        "options": [
+            "Angle on which it is thrown",
+            "Both mass of the body and the angle at which it",
+            "Mass of earth",
+            "Mass of the body"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Work and Energy",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A wheel makes 3 complete revolutions. What is the \ntotal number of radians through which a point on wheel \nhas rotated?",
+        "options": [
+            "2π",
+            "3π",
+            "6π",
+            "9π"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Circular Motion",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "For rigid body that rotates about a fixed axis, the \nangle swept out by a line passing through any point on \nthe body and intersecting the axis of rotation \nperpendicularly is called?",
+        "options": [
+            "Angular acceleration",
+            "Angular displacement",
+            "Angular momentum",
+            "Angular velocity"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Circular Motion",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "In a rotating spaceship, to produce artificial \ngravity, what does the centripetal force do? \nKhyber Medical University- MDCAT 2024        CODE: C \n \nPage 9 of 10",
+        "options": [
+            "Has no effect inside the spaceship",
+            "Increases spaceship’s rotation",
+            "Pulls objects towards the centre",
+            "Pushes the objects towards the outer wall"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Circular Motion",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "When the mass of a body moving along a circle \nbecomes half and radius becomes double, and v is \nconstant, the centripetal force becomes?",
+        "options": [
+            "Double",
+            "Half",
+            "One-fourth",
+            "Remains Same"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Circular Motion",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "What happens when two waves of the same \nfrequency and amplitude meet in phase?",
+        "options": [
+            "They cancel each other out resulting in a",
+            "They combine to form a wave double the",
+            "They produce a wave with zero amplitude",
+            "They produce a wave with the same amplitude"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Waves",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which type of waves can be polarized?",
+        "options": [
+            "Longitudinal waves",
+            "Mechanical waves",
+            "Sound waves",
+            "Transverse waves"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Waves",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "For longitudinal waves______",
+        "options": [
+            "The particles of the medium oscillate",
+            "The particles of the medium remain stationary",
+            "The particles of the medium oscillate along the",
+            "Their velocity is enhanced when they travel"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Waves",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "According to the principle of superimposition, when \n2 or more waves overlap at a point in space, the \namplitude of the resultant wave at that point is",
+        "options": [
+            "Always zero",
+            "The product of the individual wave amplitude",
+            "The product of the frequencies of the",
+            "The sum of the amplitudes of the individual"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Waves",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The speed of sound in a medium containing ideal \ngas is NOT dependent on",
+        "options": [
+            "Density",
+            "Moisture",
+            "Pressure",
+            "Temperature"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Waves",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A tuning fork having angular frequency equal 440Hz \nproduces sound waves which travel with the speed of \n340 m/s. What is the separation between a compression \nand the adjacent rarefaction of the sound waves?",
+        "options": [
+            "0.57 m",
+            "0.67 m",
+            "0.77 m",
+            "0.87 m"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Waves",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A police car, with its siren on, is moving towards a \nstationary listener. How does the stationary listener \nreceive the frequency of the sound emitted by the \nsiren? It",
+        "options": [
+            "Decreases",
+            "Increases",
+            "Stays the same",
+            "Varies randomly"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "Physics",
+        "topic": "Waves",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Punctuate the given sentence correctly. The \nteacher asked did you complete your homework",
+        "options": [
+            "The teacher asked, did you complete your",
+            "The teacher asked, \"Did you complete your",
+            "The teacher asked, \"did you complete your",
+            "The teacher asked, did you complete your"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "grammar",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Punctuate the following sentence correctly. Lets \nmeet at Sarahs house after school",
+        "options": [
+            "Let's meet at Sarah's house after school.",
+            "Let's meet at Sarahs' house after school.",
+            "Lets meet at Sarah's house after school.",
+            "Let's meet, at Sarah's house after school."
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "grammar",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Do you usually take a bus………………the market?",
+        "options": [
+            "By",
+            "For",
+            "Of",
+            "To"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "grammar",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "He has been working ______ this project for two \nweeks.",
+        "options": [
+            "At",
+            "By",
+            "To",
+            "On"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "grammar",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Identify the sentence that contains an ERROR in \nword order, style, or vocabulary:",
+        "options": [
+            "He has a talent for solving complex problems.",
+            "She enjoys reading, writing, and to paint.",
+            "The quick brown fox jumps over the lazy dog.",
+            "They quickly adapted to the new environment."
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "grammar",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Identify the ERROR in the sentence: The chef \nquickly prepared, delicious and it served a meal.",
+        "options": [
+            "Punctuation",
+            "Style",
+            "Vocabulary",
+            "Word order"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "grammar",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Order is the law of civilization as chaos is the law \nof the ______. The most appropriate word to be filled \nin is:",
+        "options": [
+            "City",
+            "Metropolis",
+            "Physician",
+            "Wilderness"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "antonym",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Blueprint is is to architect as algorithm is to_______",
+        "options": [
+            "Designer",
+            "Engineer",
+            "Mathematician",
+            "Programmer"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "synonym",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "\"Regular exercise has been shown to improve overall \nhealth by reducing the risk of chronic diseases, such as \nheart disease and diabetes. Additionally, exercise \nenhances mental well-being by reducing stress, anxiety, \nand depression. Despite these benefits, many people \nfind it challenging to maintain a consistent exercise \nroutine due to busy schedules and a lack of motivation.\" \nKhyber Medical University- MDCAT 2024        CODE: C \n \nBased on the paragraph, which of the following \nstatements can be inferred?",
+        "options": [
+            "Busy schedules and lack of motivation are",
+            "Chronic diseases cannot be prevented by regular",
+            "Exercise is only beneficial for physical health,",
+            "People who exercise regularly never experience"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "comprehension",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Which of the following words is a synonym for \n\"meticulous\"?",
+        "options": [
+            "Abhorrent",
+            "Heedless",
+            "Incautious",
+            "Precise"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "synonym",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A person who sells goods and services is a ______",
+        "options": [
+            "Consumer",
+            "Purchaser",
+            "Patron",
+            "Vendor"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "synonym",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "The detective noticed a subtle change in the \nsuspect’s tone when he asked about her whereabouts \non the night of the crime, which hinted at something \nmore significant. What does \"subtle\" most likely mean?",
+        "options": [
+            "Dramatic",
+            "Notable",
+            "Obvious",
+            "Slight"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "synonym",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Despite the complicated situation, she remained \n__________, calmly assessing her options before \ndeciding. Fill in the blank with the appropriate choice:",
+        "options": [
+            "Composed",
+            "Erratic",
+            "Frantic",
+            "Hysterical"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "synonym",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Find out synonym of \"Elated\"",
+        "options": [
+            "Confused",
+            "Disappointed",
+            "Nervous",
+            "Overjoyed"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "synonym",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Choose the sentence with the correct tense and \nsentence structure:",
+        "options": [
+            "He is going to the market yesterday.",
+            "I had been waiting for the bus, and it arrives.",
+            "She will finish her homework before she went to",
+            "d. They were playing football when it started to"
+        ],
+        "correctOption": 3,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "grammar",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Choose the correct sentence.",
+        "options": [
+            "My father was talking to his friend on mobile",
+            "My father is talking to his friend on mobile",
+            "My father was talking to his friend on mobile",
+            "My father was talking to his friend on mobile"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "grammar",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Choose the correct sentence:",
+        "options": [
+            "She didn’t knew about the surprise party.",
+            "She hasn't knew about the surprise party.",
+            "She didn't know about the surprise party.",
+            "She doesn't knew about the surprise party."
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Easy",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "grammar",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "After she______the stairs, her heart almost gave \nout from exhaustion.",
+        "options": [
+            "Has climbed",
+            "Have climbed",
+            "Had climbed",
+            "Was climbing"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "English",
+        "topic": "grammar",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "A store offers a 10% discount on all items. After \napplying the discount, the price of an item is Rs. 450. \nWhat was the original price of the item?",
+        "options": [
+            "Rs. 490",
+            "Rs. 495",
+            "Rs. 500",
+            "Rs. 505"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "IQ",
+        "topic": "General",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "I went 10 m to the East from my house, then turned \nnorth and walked another 15m, and then I turned west \nand covered 12 m, and then turned south and covered \n15m. How far am I from my house?",
+        "options": [
+            "0 m",
+            "1 m",
+            "2 m",
+            "3 m"
+        ],
+        "correctOption": 2,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "IQ",
+        "topic": "General",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "If a>b, b>c, and d>a then?",
+        "options": [
+            "b<d",
+            "a<c",
+            "b>d",
+            "c>d"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "IQ",
+        "topic": "General",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Find out the missing term in the sequence: 15, 14, \n12, 9?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "IQ",
+        "topic": "General",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "All omnivores are herbivores. No herbivores are \ncarnivores. Some carnivores are humans. Which of the \nfollowing conclusions are TRUE?  \nCONCLUSIONS: I. Some humans are carnivores. II. No \ncarnivores are omnivores. III. Some omnivores are \ncarnivores.",
+        "options": [
+            "I and II",
+            "I and III",
+            "II and III",
+            "III"
+        ],
+        "correctOption": 0,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Hard",
+        "class": "Entry Test",
+        "subject": "IQ",
+        "topic": "General",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    },
+    {
+        "statement": "Read the following statements and identify the best \ncause-and-effect relation: \ni. \nSara’s productivity at work has significantly \ndecreased over the past month. \nii. \nSara has been experiencing frequent interruptions \ndue to ongoing construction work near her office.  \nWhich of the following best describes the cause-and-effect \nrelationship?",
+        "options": [
+            "Sara’s decreased productivity is causing the",
+            "The ongoing construction work is causing Sara’s",
+            "Sara’s productivity was already decreasing before",
+            "The construction work is unrelated to Sara’s"
+        ],
+        "correctOption": 1,
+        "correctOptionAlt": null,
+        "difficultyLevel": "Medium",
+        "class": "Entry Test",
+        "subject": "IQ",
+        "topic": "General",
+        "reference": {
+            "pastPaper": true,
+            "referenceName": "MDCAT",
+            "conductor": "KMU",
+            "year": 2024,
+            "time": 3
+        }
+    }
+]

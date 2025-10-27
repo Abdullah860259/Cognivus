@@ -1,0 +1,1646 @@
+### Class 11 - Introduction
+1. What is biology? a) Study of life b) Study of rocks c) Study of stars d) Study of weather  
+Difficulty: Easy  
+Answer: a  
+
+2. Who gave the term biology? a) Aristotle b) Lamarck c) Darwin d) Linnaeus  
+Difficulty: Easy  
+Answer: b  
+
+3. Biology is derived from which language? a) Latin b) Greek c) French d) English  
+Difficulty: Easy  
+Answer: b  
+
+4. What is the basic unit of life? a) Atom b) Cell c) Molecule d) Organ  
+Difficulty: Easy  
+Answer: b  
+
+5. Which is not a branch of biology? a) Zoology b) Botany c) Geology d) Microbiology  
+Difficulty: Easy  
+Answer: c  
+
+6. What is the scientific method? a) Observation, hypothesis, experiment b) Guesswork c) Intuition d) Tradition  
+Difficulty: Medium  
+Answer: a  
+
+7. Hypothesis is? a) Tested prediction b) Final conclusion c) Random guess d) Observation  
+Difficulty: Medium  
+Answer: a  
+
+8. Theory becomes law when? a) Repeatedly tested b) First proposed c) Published d) Debated  
+Difficulty: Medium  
+Answer: a  
+
+9. Difference between prokaryotes and eukaryotes? a) Nucleus presence b) Size c) Shape d) Color  
+Difficulty: Hard  
+Answer: a  
+
+10. Levels of biological organization? a) Atom to biosphere b) Cell to organ c) Tissue to system d) Molecule to cell  
+Difficulty: Hard  
+Answer: a  
+
+11. Role of biology in society? a) Health, agriculture b) Art c) Music d) Literature  
+Difficulty: Hard  
+Answer: a  
+
+12. Scientific name rules? a) Binomial nomenclature b) Trinomial c) Single word d) Numeric  
+Difficulty: Hard  
+Answer: a  
+
+13. Deductive vs inductive reasoning? a) General to specific vs specific to general b) Same c) Opposite d) Unrelated  
+Difficulty: Hard  
+Answer: a  
+
+14. Control in experiment? a) Standard comparison b) Variable c) Hypothesis d) Data  
+Difficulty: Hard  
+Answer: a  
+
+15. Biological problem solving steps? a) 7 steps b) 3 steps c) 5 steps d) 10 steps  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - Biological Molecules
+1. Biomolecules include? a) Carbs, proteins b) Rocks c) Metals d) Gases  
+Difficulty: Easy  
+Answer: a  
+
+2. Water is? a) Polar b) Nonpolar c) Ionic d) Covalent  
+Difficulty: Easy  
+Answer: a  
+
+3. Proteins made of? a) Amino acids b) Sugars c) Fatty acids d) Nucleotides  
+Difficulty: Easy  
+Answer: a  
+
+4. DNA is? a) Nucleic acid b) Lipid c) Carb d) Protein  
+Difficulty: Easy  
+Answer: a  
+
+5. Enzymes are? a) Proteins b) Carbs c) Lipids d) Minerals  
+Difficulty: Easy  
+Answer: a  
+
+6. Hydrogen bonding in water? a) Cohesion b) Evaporation c) Freezing d) Boiling  
+Difficulty: Medium  
+Answer: a  
+
+7. Peptide bond? a) Between amino acids b) Sugars c) Fatty acids d) Nucleotides  
+Difficulty: Medium  
+Answer: a  
+
+8. Levels of protein structure? a) 4 b) 2 c) 3 d) 5  
+Difficulty: Medium  
+Answer: a  
+
+9. Saturated vs unsaturated fats? a) Single vs double bonds b) Solid vs liquid c) Animal vs plant d) All  
+Difficulty: Hard  
+Answer: d  
+
+10. DNA vs RNA? a) Double vs single strand b) Thymine vs uracil c) Deoxyribose vs ribose d) All  
+Difficulty: Hard  
+Answer: d  
+
+11. Conjugated molecules? a) Protein + non-protein b) Only protein c) Only carb d) Only lipid  
+Difficulty: Hard  
+Answer: a  
+
+12. Phospholipids in? a) Membranes b) Energy c) Hormones d) Enzymes  
+Difficulty: Hard  
+Answer: a  
+
+13. Terpenoids are? a) Lipids b) Proteins c) Carbs d) Nucleic acids  
+Difficulty: Hard  
+Answer: a  
+
+14. Starch vs cellulose? a) Digestible vs indigestible b) Branched vs unbranched c) Animal vs plant d) Soluble vs insoluble  
+Difficulty: Hard  
+Answer: a  
+
+15. Nucleotide structure? a) Base, sugar, phosphate b) Amino, carboxyl c) Glycerol, fatty acid d) Sugar, phosphate  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - Enzymes
+1. Enzymes are? a) Catalysts b) Reactants c) Products d) Inhibitors  
+Difficulty: Easy  
+Answer: a  
+
+2. Enzymes lower? a) Activation energy b) Temperature c) pH d) Concentration  
+Difficulty: Easy  
+Answer: a  
+
+3. Active site? a) Binding region b) Product c) Substrate d) Cofactor  
+Difficulty: Easy  
+Answer: a  
+
+4. Substrate binds to? a) Enzyme b) Inhibitor c) Product d) Activator  
+Difficulty: Easy  
+Answer: a  
+
+5. Lock and key model by? a) Fischer b) Koshland c) Pasteur d) Darwin  
+Difficulty: Easy  
+Answer: a  
+
+6. Induced fit model? a) Flexible active site b) Rigid c) No change d) Denatured  
+Difficulty: Medium  
+Answer: a  
+
+7. Cofactors? a) Help enzymes b) Inhibit c) Destroy d) Replace  
+Difficulty: Medium  
+Answer: a  
+
+8. Optimum pH for pepsin? a) 2 b) 7 c) 9 d) 4  
+Difficulty: Medium  
+Answer: a  
+
+9. Competitive inhibition? a) Similar substrate b) Different c) Irreversible d) Reversible  
+Difficulty: Hard  
+Answer: a  
+
+10. Non-competitive? a) Different site b) Same site c) Reversible d) Irreversible  
+Difficulty: Hard  
+Answer: a  
+
+11. Feedback inhibition? a) End product inhibits b) Substrate c) Enzyme d) Cofactor  
+Difficulty: Hard  
+Answer: a  
+
+12. Apoenzyme + cofactor =? a) Holoenzyme b) Substrate c) Product d) Inhibitor  
+Difficulty: Hard  
+Answer: a  
+
+13. Zymogen? a) Inactive enzyme b) Active c) Substrate d) Product  
+Difficulty: Hard  
+Answer: a  
+
+14. Km value? a) Affinity measure b) Speed c) Size d) pH  
+Difficulty: Hard  
+Answer: a  
+
+15. Allosteric enzymes? a) Multiple sites b) Single c) No sites d) Denatured  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - The Cell
+1. Cell theory by? a) Schleiden, Schwann b) Darwin c) Mendel d) Watson  
+Difficulty: Easy  
+Answer: a  
+
+2. Prokaryotes lack? a) Nucleus b) Membrane c) DNA d) Ribosomes  
+Difficulty: Easy  
+Answer: a  
+
+3. Plasma membrane? a) Phospholipid bilayer b) Protein c) Carb d) Nucleic acid  
+Difficulty: Easy  
+Answer: a  
+
+4. Mitochondria? a) Powerhouse b) Storage c) Transport d) Division  
+Difficulty: Easy  
+Answer: a  
+
+5. Chloroplasts in? a) Plants b) Animals c) Bacteria d) Fungi  
+Difficulty: Easy  
+Answer: a  
+
+6. Fluid mosaic model? a) Singer, Nicolson b) Davson c) Robertson d) Gorter  
+Difficulty: Medium  
+Answer: a  
+
+7. Endoplasmic reticulum? a) Rough, smooth b) Single c) Absent d) Double  
+Difficulty: Medium  
+Answer: a  
+
+8. Golgi apparatus? a) Secretion b) Energy c) Division d) Storage  
+Difficulty: Medium  
+Answer: a  
+
+9. Lysosomes? a) Suicide bags b) Powerhouse c) Transport d) Ribosomes  
+Difficulty: Hard  
+Answer: a  
+
+10. Centrioles? a) Spindle formation b) Membrane c) Energy d) Storage  
+Difficulty: Hard  
+Answer: a  
+
+11. Nucleus? a) Control center b) Energy c) Transport d) Division  
+Difficulty: Hard  
+Answer: a  
+
+12. Chromatin? a) DNA + proteins b) RNA c) Lipids d) Carbs  
+Difficulty: Hard  
+Answer: a  
+
+13. Vacuoles? a) Storage b) Energy c) Transport d) Division  
+Difficulty: Hard  
+Answer: a  
+
+14. Cytoskeleton? a) Microtubules, filaments b) Membrane c) Nucleus d) Golgi  
+Difficulty: Hard  
+Answer: a  
+
+15. Prokaryotic ribosomes? a) 70S b) 80S c) 60S d) 50S  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - Variety of Life
+1. Biodiversity? a) Variety of species b) Single species c) No species d) Extinct species  
+Difficulty: Easy  
+Answer: a  
+
+2. Binomial nomenclature? a) Genus, species b) Family, order c) Class, phylum d) Kingdom, domain  
+Difficulty: Easy  
+Answer: a  
+
+3. Five kingdoms by? a) Whittaker b) Linnaeus c) Aristotle d) Haeckel  
+Difficulty: Easy  
+Answer: a  
+
+4. Viruses? a) Non-living b) Living c) Both d) Neither  
+Difficulty: Easy  
+Answer: a  
+
+5. Prions? a) Proteins b) DNA c) RNA d) Lipids  
+Difficulty: Easy  
+Answer: a  
+
+6. Taxonomic hierarchy? a) Species to kingdom b) Kingdom to species c) Random d) None  
+Difficulty: Medium  
+Answer: a  
+
+7. Endangered species? a) Risk of extinction b) Abundant c) Extinct d) New  
+Difficulty: Medium  
+Answer: a  
+
+8. Conservation? a) Protect biodiversity b) Destroy c) Ignore d) Exploit  
+Difficulty: Medium  
+Answer: a  
+
+9. Phylogenetic system? a) Evolutionary relations b) Morphological c) Artificial d) Numerical  
+Difficulty: Hard  
+Answer: a  
+
+10. Cladistics? a) Common ancestry b) Differences c) Similarities d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. Molecular clocks? a) Mutation rates b) Fossil ages c) Rock layers d) Carbon dating  
+Difficulty: Hard  
+Answer: a  
+
+12. Endemism? a) Unique to region b) Widespread c) Migratory d) Extinct  
+Difficulty: Hard  
+Answer: a  
+
+13. Hotspots? a) High biodiversity b) Low c) Moderate d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. IUCN Red List? a) Threatened species b) Abundant c) All d) Extinct  
+Difficulty: Hard  
+Answer: a  
+
+15. Invasive species? a) Harm ecosystems b) Help c) Neutral d) Native  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - Kingdom Prokaryotae (Monera)
+1. Bacteria are? a) Prokaryotes b) Eukaryotes c) Viruses d) Fungi  
+Difficulty: Easy  
+Answer: a  
+
+2. Shapes of bacteria? a) Cocci, bacilli, spirilla b) Round c) Square d) Triangular  
+Difficulty: Easy  
+Answer: a  
+
+3. Gram positive? a) Purple stain b) Pink c) Blue d) Red  
+Difficulty: Easy  
+Answer: a  
+
+4. Cyanobacteria? a) Photosynthetic b) Heterotrophic c) Parasitic d) Saprophytic  
+Difficulty: Easy  
+Answer: a  
+
+5. Peptidoglycan in? a) Cell wall b) Membrane c) Cytoplasm d) Nucleus  
+Difficulty: Easy  
+Answer: a  
+
+6. Reproduction in bacteria? a) Binary fission b) Budding c) Spores d) All  
+Difficulty: Medium  
+Answer: d  
+
+7. Plasmids? a) Extra DNA b) Main DNA c) RNA d) Protein  
+Difficulty: Medium  
+Answer: a  
+
+8. Nitrogen fixation by? a) Rhizobium b) E coli c) Salmonella d) Bacillus  
+Difficulty: Medium  
+Answer: a  
+
+9. Endospores? a) Resistant b) Active c) Dividing d) Growing  
+Difficulty: Hard  
+Answer: a  
+
+10. Conjugation? a) Gene transfer b) Division c) Fusion d) Mutation  
+Difficulty: Hard  
+Answer: a  
+
+11. Transduction? a) Virus mediated b) Direct contact c) Binary d) Spores  
+Difficulty: Hard  
+Answer: a  
+
+12. Transformation? a) DNA uptake b) Virus c) Contact d) Division  
+Difficulty: Hard  
+Answer: a  
+
+13. Archaea differ by? a) Cell wall b) Size c) Shape d) Color  
+Difficulty: Hard  
+Answer: a  
+
+14. Halophiles? a) Salt lovers b) Heat c) Cold d) Acid  
+Difficulty: Hard  
+Answer: a  
+
+15. Methanogens? a) Methane producers b) Oxygen c) Nitrogen d) Carbon  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - The Kingdom Protista (or Protoctista)
+1. Protists are? a) Eukaryotes b) Prokaryotes c) Viruses d) Fungi  
+Difficulty: Easy  
+Answer: a  
+
+2. Amoeba? a) Unicellular b) Multicellular c) Colonial d) Filamentous  
+Difficulty: Easy  
+Answer: a  
+
+3. Flagellates? a) Euglena b) Paramecium c) Amoeba d) Plasmodium  
+Difficulty: Easy  
+Answer: a  
+
+4. Ciliates? a) Paramecium b) Euglena c) Amoeba d) Slime mold  
+Difficulty: Easy  
+Answer: a  
+
+5. Apicomplexans? a) Plasmodium b) Diatoms c) Dinoflagellates d) Foraminiferans  
+Difficulty: Easy  
+Answer: a  
+
+6. Slime molds? a) Amoeboid b) Flagellated c) Ciliated d) Sporozoan  
+Difficulty: Medium  
+Answer: a  
+
+7. Diatoms? a) Silica shells b) Cellulose c) Chitin d) Protein  
+Difficulty: Medium  
+Answer: a  
+
+8. Dinoflagellates? a) Red tides b) Green c) Blue d) Yellow  
+Difficulty: Medium  
+Answer: a  
+
+9. Foraminiferans? a) Calcareous shells b) Silica c) Cellulose d) None  
+Difficulty: Hard  
+Answer: a  
+
+10. Radiolarians? a) Silica skeletons b) Calcium c) Organic d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. Oomycetes? a) Water molds b) Slime c) Algae d) Protozoa  
+Difficulty: Hard  
+Answer: a  
+
+12. Euglenoids? a) Mixotrophic b) Autotrophic c) Heterotrophic d) Parasitic  
+Difficulty: Hard  
+Answer: a  
+
+13. Trypanosoma? a) Parasite b) Free living c) Symbiont d) Commensal  
+Difficulty: Hard  
+Answer: a  
+
+14. Malaria by? a) Plasmodium b) Amoeba c) Paramecium d) Euglena  
+Difficulty: Hard  
+Answer: a  
+
+15. Sleeping sickness? a) Trypanosoma b) Plasmodium c) Entamoeba d) Giardia  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - Fungi
+1. Fungi are? a) Heterotrophs b) Autotrophs c) Mixotrophs d) Chemotrophs  
+Difficulty: Easy  
+Answer: a  
+
+2. Hyphae? a) Filaments b) Spores c) Roots d) Leaves  
+Difficulty: Easy  
+Answer: a  
+
+3. Mycelium? a) Hyphae network b) Single hypha c) Spore d) Fruit body  
+Difficulty: Easy  
+Answer: a  
+
+4. Septate hyphae? a) Cross walls b) No walls c) Coenocytic d) Aseptate  
+Difficulty: Easy  
+Answer: a  
+
+5. Chitin in? a) Cell wall b) Membrane c) Cytoplasm d) Nucleus  
+Difficulty: Easy  
+Answer: a  
+
+6. Reproduction in fungi? a) Spores, fragmentation b) Binary c) Budding d) All  
+Difficulty: Medium  
+Answer: d  
+
+7. Zygomycota? a) Conjugation fungi b) Sac c) Club d) Imperfect  
+Difficulty: Medium  
+Answer: a  
+
+8. Ascomycota? a) Sac fungi b) Club c) Conjugation d) Imperfect  
+Difficulty: Medium  
+Answer: a  
+
+9. Basidiomycota? a) Club fungi b) Sac c) Conjugation d) Imperfect  
+Difficulty: Hard  
+Answer: a  
+
+10. Deuteromycota? a) Imperfect fungi b) Perfect c) Sac d) Club  
+Difficulty: Hard  
+Answer: a  
+
+11. Mycorrhizae? a) Fungi + roots b) Fungi + algae c) Fungi + bacteria d) Alone  
+Difficulty: Hard  
+Answer: a  
+
+12. Lichens? a) Fungi + algae b) Fungi + roots c) Fungi + bacteria d) Alone  
+Difficulty: Hard  
+Answer: a  
+
+13. Yeast? a) Unicellular fungus b) Multicellular c) Bacterial d) Viral  
+Difficulty: Hard  
+Answer: a  
+
+14. Penicillin from? a) Penicillium b) Aspergillus c) Rhizopus d) Mucor  
+Difficulty: Hard  
+Answer: a  
+
+15. Rust, smut? a) Basidiomycetes b) Ascomycetes c) Zygomycetes d) Deuteromycetes  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - Kingdom Plantae
+1. Plants are? a) Autotrophs b) Heterotrophs c) Mixotrophs d) Parasites  
+Difficulty: Easy  
+Answer: a  
+
+2. Vascular plants? a) Tracheophytes b) Bryophytes c) Algae d) Fungi  
+Difficulty: Easy  
+Answer: a  
+
+3. Bryophytes? a) Non-vascular b) Vascular c) Seed d) Flower  
+Difficulty: Easy  
+Answer: a  
+
+4. Pteridophytes? a) Seedless vascular b) Seeded c) Non-vascular d) Flowering  
+Difficulty: Easy  
+Answer: a  
+
+5. Gymnosperms? a) Naked seeds b) Enclosed c) No seeds d) Fruits  
+Difficulty: Easy  
+Answer: a  
+
+6. Angiosperms? a) Flowering plants b) Non-flowering c) Cones d) Spores  
+Difficulty: Medium  
+Answer: a  
+
+7. Alternation of generations? a) Sporophyte, gametophyte b) Only sporophyte c) Only gametophyte d) None  
+Difficulty: Medium  
+Answer: a  
+
+8. Embryo in? a) Tracheophytes b) Bryophytes c) Algae d) All  
+Difficulty: Medium  
+Answer: a  
+
+9. Algae reproduction? a) Fragmentation, spores b) Binary c) Budding d) All  
+Difficulty: Hard  
+Answer: a  
+
+10. Liverworts? a) Marchantia b) Moss c) Fern d) Pine  
+Difficulty: Hard  
+Answer: a  
+
+11. Mosses? a) Funaria b) Liverwort c) Fern d) Cycad  
+Difficulty: Hard  
+Answer: a  
+
+12. Ferns? a) Pteris b) Moss c) Liverwort d) Pine  
+Difficulty: Hard  
+Answer: a  
+
+13. Conifers? a) Pinus b) Fern c) Cycas d) Ginkgo  
+Difficulty: Hard  
+Answer: a  
+
+14. Monocots? a) Parallel veins b) Net c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+15. Dicots? a) Net veins b) Parallel c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - Kingdom Animalia
+1. Animals are? a) Heterotrophs b) Autotrophs c) Mixotrophs d) Chemotrophs  
+Difficulty: Easy  
+Answer: a  
+
+2. Symmetry in animals? a) Bilateral, radial b) Asymmetrical c) None d) All  
+Difficulty: Easy  
+Answer: d  
+
+3. Porifera? a) Sponges b) Cnidarians c) Flatworms d) Roundworms  
+Difficulty: Easy  
+Answer: a  
+
+4. Cnidaria? a) Jellyfish b) Sponges c) Earthworms d) Insects  
+Difficulty: Easy  
+Answer: a  
+
+5. Platyhelminthes? a) Flatworms b) Roundworms c) Annelids d) Molluscs  
+Difficulty: Easy  
+Answer: a  
+
+6. Nematoda? a) Roundworms b) Flatworms c) Segmented d) Unsegmented  
+Difficulty: Medium  
+Answer: a  
+
+7. Annelida? a) Segmented worms b) Flat c) Round d) Molluscs  
+Difficulty: Medium  
+Answer: a  
+
+8. Arthropoda? a) Jointed legs b) Soft body c) Shell d) Echinoderms  
+Difficulty: Medium  
+Answer: a  
+
+9. Mollusca? a) Soft body, shell b) Spiny skin c) Chordates d) None  
+Difficulty: Hard  
+Answer: a  
+
+10. Echinodermata? a) Spiny skin b) Soft c) Jointed d) Segmented  
+Difficulty: Hard  
+Answer: a  
+
+11. Chordata? a) Notochord b) No chord c) Shell d) Spines  
+Difficulty: Hard  
+Answer: a  
+
+12. Vertebrates? a) Backbone b) No backbone c) Exoskeleton d) Endoskeleton  
+Difficulty: Hard  
+Answer: a  
+
+13. Invertebrates? a) No backbone b) Backbone c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Coelom? a) Body cavity b) No cavity c) False cavity d) All  
+Difficulty: Hard  
+Answer: d  
+
+15. Metamerism? a) Segmentation b) No segments c) Radial d) Bilateral  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - Bioenergetics
+1. Bioenergetics? a) Energy in living systems b) Matter c) Elements d) Compounds  
+Difficulty: Easy  
+Answer: a  
+
+2. Photosynthesis? a) Light energy to chemical b) Chemical to light c) Mechanical d) Electrical  
+Difficulty: Easy  
+Answer: a  
+
+3. Chlorophyll? a) Green pigment b) Red c) Blue d) Yellow  
+Difficulty: Easy  
+Answer: a  
+
+4. Light reaction? a) Thylakoids b) Stroma c) Nucleus d) Cytoplasm  
+Difficulty: Easy  
+Answer: a  
+
+5. Dark reaction? a) Stroma b) Thylakoids c) Membrane d) Matrix  
+Difficulty: Easy  
+Answer: a  
+
+6. Calvin cycle? a) CO2 fixation b) O2 release c) Water splitting d) ATP formation  
+Difficulty: Medium  
+Answer: a  
+
+7. Photophosphorylation? a) ATP from light b) Dark c) Respiration d) Fermentation  
+Difficulty: Medium  
+Answer: a  
+
+8. Respiration? a) Glucose breakdown b) Synthesis c) Transport d) Division  
+Difficulty: Medium  
+Answer: a  
+
+9. Glycolysis? a) Cytoplasm b) Mitochondria c) Chloroplast d) Nucleus  
+Difficulty: Hard  
+Answer: a  
+
+10. Krebs cycle? a) Mitochondrial matrix b) Cytoplasm c) Thylakoid d) Stroma  
+Difficulty: Hard  
+Answer: a  
+
+11. Electron transport chain? a) Inner membrane b) Outer c) Matrix d) Cytoplasm  
+Difficulty: Hard  
+Answer: a  
+
+12. ATP yield in aerobic respiration? a) 36 b) 2 c) 4 d) 38  
+Difficulty: Hard  
+Answer: a  
+
+13. Anaerobic? a) Ethanol, lactic acid b) CO2 c) O2 d) H2O  
+Difficulty: Hard  
+Answer: a  
+
+14. Chemiosmosis? a) ATP synthesis b) Breakdown c) Transport d) Division  
+Difficulty: Hard  
+Answer: a  
+
+15. C4 plants? a) Bundle sheath b) Mesophyll c) Both d) None  
+Difficulty: Hard  
+Answer: c  
+
+### Class 11 - Nutrition
+1. Nutrition? a) Food intake b) Energy release c) Transport d) Division  
+Difficulty: Easy  
+Answer: a  
+
+2. Autotrophs? a) Make own food b) Depend on others c) Parasites d) Saprophytes  
+Difficulty: Easy  
+Answer: a  
+
+3. Heterotrophs? a) Depend on others b) Make own c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+4. Carnivores? a) Meat eaters b) Plant c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+5. Herbivores? a) Plant eaters b) Meat c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+6. Omnivores? a) Both b) Plant c) Meat d) None  
+Difficulty: Medium  
+Answer: a  
+
+7. Parasites? a) Host harm b) Benefit c) Neutral d) Kill  
+Difficulty: Medium  
+Answer: a  
+
+8. Saprophytes? a) Dead matter b) Living c) Parasitic d) Symbiotic  
+Difficulty: Medium  
+Answer: a  
+
+9. Insectivorous plants? a) Trap insects b) Fruits c) Flowers d) Leaves  
+Difficulty: Hard  
+Answer: a  
+
+10. Symbiosis? a) Mutual benefit b) One benefit c) Harm d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. Rhizobium? a) Nitrogen fixation b) Denitrification c) Ammonification d) Nitrification  
+Difficulty: Hard  
+Answer: a  
+
+12. Mycorrhizae? a) Fungi roots b) Bacteria c) Algae d) Virus  
+Difficulty: Hard  
+Answer: a  
+
+13. Lichens? a) Fungi algae b) Fungi bacteria c) Algae bacteria d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Holozoic? a) Animal like b) Plant like c) Fungal d) Bacterial  
+Difficulty: Hard  
+Answer: a  
+
+15. Detritivores? a) Detritus feeders b) Plants c) Meat d) Both  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - Gaseous Exchange
+1. Gaseous exchange? a) O2 in, CO2 out b) CO2 in c) N2 d) H2  
+Difficulty: Easy  
+Answer: a  
+
+2. In plants? a) Stomata b) Lenticels c) Roots d) All  
+Difficulty: Easy  
+Answer: d  
+
+3. In animals? a) Lungs, skin b) Gills c) Trachea d) All  
+Difficulty: Easy  
+Answer: d  
+
+4. Diffusion? a) Gas movement b) Active c) Pump d) Channel  
+Difficulty: Easy  
+Answer: a  
+
+5. Respiratory pigment? a) Hemoglobin b) Chlorophyll c) Melanin d) Carotene  
+Difficulty: Easy  
+Answer: a  
+
+6. Counter current? a) Fish gills b) Lungs c) Skin d) Trachea  
+Difficulty: Medium  
+Answer: a  
+
+7. Tidal volume? a) 500 ml b) 1000 c) 1500 d) 2000  
+Difficulty: Medium  
+Answer: a  
+
+8. Residual volume? a) 1200 ml b) 500 c) 3000 d) 4500  
+Difficulty: Medium  
+Answer: a  
+
+9. Myoglobin? a) Muscle oxygen b) Blood c) Lungs d) Heart  
+Difficulty: Hard  
+Answer: a  
+
+10. Bohr effect? a) CO2 shifts curve b) O2 c) pH d) Temperature  
+Difficulty: Hard  
+Answer: a  
+
+11. Haldane effect? a) CO2 release b) O2 c) H+ d) Cl-  
+Difficulty: Hard  
+Answer: a  
+
+12. Pneumotaxic center? a) Pons b) Medulla c) Cortex d) Hypothalamus  
+Difficulty: Hard  
+Answer: a  
+
+13. Chemoreceptors? a) CO2, O2 b) Light c) Sound d) Touch  
+Difficulty: Hard  
+Answer: a  
+
+14. Asthma? a) Airway inflammation b) Infection c) Cancer d) Blockage  
+Difficulty: Hard  
+Answer: a  
+
+15. Emphysema? a) Alveoli damage b) Bronchi c) Trachea d) Larynx  
+Difficulty: Hard  
+Answer: a  
+
+### Class 11 - Transport
+1. Transport? a) Movement of materials b) Energy c) Division d) Growth  
+Difficulty: Easy  
+Answer: a  
+
+2. In plants? a) Xylem, phloem b) Blood c) Lymph d) Nerves  
+Difficulty: Easy  
+Answer: a  
+
+3. Xylem? a) Water, minerals b) Food c) Gases d) Hormones  
+Difficulty: Easy  
+Answer: a  
+
+4. Phloem? a) Food b) Water c) Minerals d) Gases  
+Difficulty: Easy  
+Answer: a  
+
+5. Transpiration pull? a) Cohesion b) Adhesion c) Root pressure d) All  
+Difficulty: Easy  
+Answer: d  
+
+6. Root pressure? a) Positive pressure b) Negative c) Zero d) Variable  
+Difficulty: Medium  
+Answer: a  
+
+7. Ascent of sap? a) Xylem b) Phloem c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+8. Mass flow? a) Phloem transport b) Xylem c) Diffusion d) Active  
+Difficulty: Medium  
+Answer: a  
+
+9. Animals transport? a) Circulatory system b) Diffusion c) Both d) None  
+Difficulty: Hard  
+Answer: c  
+
+10. Open circulatory? a) Arthropods b) Vertebrates c) Annelids d) Molluscs  
+Difficulty: Hard  
+Answer: a  
+
+11. Closed? a) Blood in vessels b) Open c) Mixed d) None  
+Difficulty: Hard  
+Answer: a  
+
+12. Heart in fishes? a) 2 chambers b) 3 c) 4 d) 1  
+Difficulty: Hard  
+Answer: a  
+
+13. In mammals? a) 4 chambers b) 2 c) 3 d) 1  
+Difficulty: Hard  
+Answer: a  
+
+14. Blood components? a) Plasma, cells b) Only plasma c) Only cells d) None  
+Difficulty: Hard  
+Answer: a  
+
+15. Lymph? a) Tissue fluid b) Blood c) Urine d) Saliva  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Homeostasis
+1. Homeostasis? a) Internal balance b) External c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+2. Osmoregulation? a) Water balance b) Temperature c) pH d) Pressure  
+Difficulty: Easy  
+Answer: a  
+
+3. Thermoregulation? a) Temperature balance b) Water c) Salt d) Sugar  
+Difficulty: Easy  
+Answer: a  
+
+4. Excretion? a) Waste removal b) Intake c) Digestion d) Absorption  
+Difficulty: Easy  
+Answer: a  
+
+5. Kidney? a) Nephron b) Liver c) Lung d) Skin  
+Difficulty: Easy  
+Answer: a  
+
+6. Glomerular filtration? a) Bowman's capsule b) Tubule c) Loop d) Collecting duct  
+Difficulty: Medium  
+Answer: a  
+
+7. Reabsorption? a) Proximal tubule b) Glomerulus c) Distal d) Loop  
+Difficulty: Medium  
+Answer: a  
+
+8. Countercurrent multiplier? a) Loop of Henle b) Tubule c) Duct d) Capsule  
+Difficulty: Medium  
+Answer: a  
+
+9. ADH? a) Water reabsorption b) Release c) Filtration d) Secretion  
+Difficulty: Hard  
+Answer: a  
+
+10. Aldosterone? a) Na+ reabsorption b) K+ c) Ca++ d) Mg++  
+Difficulty: Hard  
+Answer: a  
+
+11. Kidney stones? a) Calcium oxalate b) Uric acid c) Both d) None  
+Difficulty: Hard  
+Answer: c  
+
+12. Dialysis? a) Artificial kidney b) Transplant c) Surgery d) Medicine  
+Difficulty: Hard  
+Answer: a  
+
+13. Osmoconformers? a) Marine invertebrates b) Freshwater c) Terrestrial d) All  
+Difficulty: Hard  
+Answer: a  
+
+14. Osmoregulators? a) Maintain internal b) Conform c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+15. Ectotherms? a) Cold blooded b) Warm c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Support and Movements
+1. Support? a) Skeleton b) Muscles c) Both d) None  
+Difficulty: Easy  
+Answer: c  
+
+2. Hydrostatic skeleton? a) Earthworm b) Human c) Insect d) Bird  
+Difficulty: Easy  
+Answer: a  
+
+3. Exoskeleton? a) Arthropods b) Vertebrates c) Annelids d) Molluscs  
+Difficulty: Easy  
+Answer: a  
+
+4. Endoskeleton? a) Vertebrates b) Invertebrates c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+5. Cartilage? a) Flexible b) Rigid c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+6. Bone? a) Rigid b) Flexible c) Soft d) Hard  
+Difficulty: Medium  
+Answer: a  
+
+7. Axial skeleton? a) Skull, vertebrae b) Limbs c) Girdles d) All  
+Difficulty: Medium  
+Answer: a  
+
+8. Appendicular? a) Limbs, girdles b) Skull c) Vertebrae d) Ribs  
+Difficulty: Medium  
+Answer: a  
+
+9. Joints? a) Ball and socket b) Hinge c) Pivot d) All  
+Difficulty: Hard  
+Answer: d  
+
+10. Arthritis? a) Inflammation b) Fracture c) Dislocation d) Sprain  
+Difficulty: Hard  
+Answer: a  
+
+11. Osteoporosis? a) Bone loss b) Gain c) Stable d) None  
+Difficulty: Hard  
+Answer: a  
+
+12. Muscles? a) Actin, myosin b) Keratin c) Collagen d) Elastin  
+Difficulty: Hard  
+Answer: a  
+
+13. Sliding filament? a) Contraction b) Relaxation c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Tetanus? a) Sustained contraction b) Single c) Twitch d) Fatigue  
+Difficulty: Hard  
+Answer: a  
+
+15. Locomotion? a) Movement b) Support c) Protection d) All  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Coordination and Control
+1. Coordination? a) Nervous, hormonal b) Muscular c) Skeletal d) All  
+Difficulty: Easy  
+Answer: a  
+
+2. Neuron? a) Nerve cell b) Muscle c) Bone d) Blood  
+Difficulty: Easy  
+Answer: a  
+
+3. Dendrites? a) Receive signals b) Send c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+4. Axon? a) Send signals b) Receive c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+5. Synapse? a) Gap between neurons b) Connection c) Cell d) Tissue  
+Difficulty: Easy  
+Answer: a  
+
+6. Action potential? a) Nerve impulse b) Resting c) Hyperpolarization d) Depolarization  
+Difficulty: Medium  
+Answer: a  
+
+7. Neurotransmitters? a) Acetylcholine b) Dopamine c) Serotonin d) All  
+Difficulty: Medium  
+Answer: d  
+
+8. CNS? a) Brain, spinal cord b) Nerves c) Ganglia d) All  
+Difficulty: Medium  
+Answer: a  
+
+9. PNS? a) Nerves, ganglia b) Brain c) Spinal d) None  
+Difficulty: Hard  
+Answer: a  
+
+10. Reflex arc? a) Sensory, motor b) Only sensory c) Only motor d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. Hormones? a) Chemical messengers b) Electrical c) Mechanical d) Physical  
+Difficulty: Hard  
+Answer: a  
+
+12. Endocrine glands? a) Ductless b) Ducted c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+13. Hypothalamus? a) Links nervous, endocrine b) Only nervous c) Only endocrine d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Pituitary? a) Master gland b) Thyroid c) Adrenal d) Pancreas  
+Difficulty: Hard  
+Answer: a  
+
+15. Feedback? a) Negative, positive b) Only negative c) Only positive d) None  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Reproduction
+1. Reproduction? a) Produce offspring b) Growth c) Movement d) Respiration  
+Difficulty: Easy  
+Answer: a  
+
+2. Asexual? a) No gametes b) Gametes c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+3. Sexual? a) Gametes fusion b) No fusion c) Binary d) Budding  
+Difficulty: Easy  
+Answer: a  
+
+4. Binary fission? a) Bacteria b) Humans c) Plants d) Birds  
+Difficulty: Easy  
+Answer: a  
+
+5. Parthenogenesis? a) Unfertilized egg b) Fertilized c) Spores d) Buds  
+Difficulty: Easy  
+Answer: a  
+
+6. Hermaphrodites? a) Both sexes b) Male c) Female d) None  
+Difficulty: Medium  
+Answer: a  
+
+7. Gonads? a) Testes, ovaries b) Heart c) Lungs d) Kidneys  
+Difficulty: Medium  
+Answer: a  
+
+8. Spermatogenesis? a) Sperm formation b) Egg c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+9. Oogenesis? a) Egg formation b) Sperm c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+10. Fertilization? a) Zygote b) Embryo c) Fetus d) Baby  
+Difficulty: Hard  
+Answer: a  
+
+11. Implantation? a) Uterus attachment b) Ovary c) Tube d) Cervix  
+Difficulty: Hard  
+Answer: a  
+
+12. Placenta? a) Nutrient exchange b) Waste c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+13. Gestation? a) Pregnancy period b) Birth c) Lactation d) Menopause  
+Difficulty: Hard  
+Answer: a  
+
+14. Parturition? a) Birth b) Pregnancy c) Fertilization d) Implantation  
+Difficulty: Hard  
+Answer: a  
+
+15. Contraception? a) Prevent pregnancy b) Promote c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Growth and Development
+1. Growth? a) Increase in size b) Decrease c) Stable d) None  
+Difficulty: Easy  
+Answer: a  
+
+2. Development? a) Differentiation b) Size c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+3. Meristems? a) Plant growth b) Animal c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+4. Apical meristem? a) Tip growth b) Lateral c) Intercalary d) All  
+Difficulty: Easy  
+Answer: a  
+
+5. Lateral meristem? a) Girth b) Length c) Height d) Width  
+Difficulty: Easy  
+Answer: a  
+
+6. Embryo development? a) Zygote to embryo b) Seed c) Fruit d) Flower  
+Difficulty: Medium  
+Answer: a  
+
+7. Seed germination? a) Radicle, plumule b) Only radicle c) Only plumule d) None  
+Difficulty: Medium  
+Answer: a  
+
+8. Metamorphosis? a) Larva to adult b) Egg to larva c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+9. Senescence? a) Aging b) Youth c) Birth d) Death  
+Difficulty: Hard  
+Answer: a  
+
+10. Death? a) End of life b) Start c) Middle d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. Auxins? a) Growth hormones b) Inhibition c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+12. Gibberellins? a) Stem elongation b) Root c) Leaf d) Flower  
+Difficulty: Hard  
+Answer: a  
+
+13. Cytokinins? a) Cell division b) Elongation c) Inhibition d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Abscisic acid? a) Stress hormone b) Growth c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+15. Ethylene? a) Fruit ripening b) Growth c) Inhibition d) None  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Chromosomes and DNA
+1. Chromosomes? a) DNA + proteins b) RNA c) Lipids d) Carbs  
+Difficulty: Easy  
+Answer: a  
+
+2. DNA? a) Double helix b) Single c) Triple d) Quadruple  
+Difficulty: Easy  
+Answer: a  
+
+3. Watson and Crick? a) DNA model b) RNA c) Protein d) Enzyme  
+Difficulty: Easy  
+Answer: a  
+
+4. Nucleotide? a) Base, sugar, phosphate b) Amino c) Fatty acid d) Glycerol  
+Difficulty: Easy  
+Answer: a  
+
+5. Purines? a) A, G b) T, C c) U, A d) G, C  
+Difficulty: Easy  
+Answer: a  
+
+6. Pyrimidines? a) T, C b) A, G c) U, A d) G, C  
+Difficulty: Medium  
+Answer: a  
+
+7. Complementary bases? a) A-T, G-C b) A-G, T-C c) A-C, G-T d) None  
+Difficulty: Medium  
+Answer: a  
+
+8. Replication? a) Semi-conservative b) Conservative c) Dispersive d) All  
+Difficulty: Medium  
+Answer: a  
+
+9. DNA polymerase? a) Adds nucleotides b) Removes c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+10. Leading strand? a) Continuous b) Discontinuous c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. Lagging strand? a) Okazaki fragments b) Continuous c) Single d) None  
+Difficulty: Hard  
+Answer: a  
+
+12. Telomeres? a) Chromosome ends b) Middle c) Start d) None  
+Difficulty: Hard  
+Answer: a  
+
+13. Histones? a) Basic proteins b) Acidic c) Neutral d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Nucleosome? a) DNA wrapped on histones b) Free DNA c) RNA d) Protein  
+Difficulty: Hard  
+Answer: a  
+
+15. Karyotype? a) Chromosome set b) Gene set c) Allele d) Trait  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Cell Cycle
+1. Cell cycle? a) G1, S, G2, M b) Only M c) Only G d) None  
+Difficulty: Easy  
+Answer: a  
+
+2. Interphase? a) G1, S, G2 b) M c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+3. Mitosis? a) Somatic cells b) Germ cells c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+4. Meiosis? a) Germ cells b) Somatic c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+5. G0 phase? a) Quiescent b) Active c) Dividing d) Dying  
+Difficulty: Easy  
+Answer: a  
+
+6. S phase? a) DNA replication b) Protein synthesis c) Division d) Growth  
+Difficulty: Medium  
+Answer: a  
+
+7. Prophase? a) Chromosome condensation b) Alignment c) Separation d) Reformation  
+Difficulty: Medium  
+Answer: a  
+
+8. Metaphase? a) Equator alignment b) Condensation c) Separation d) Reformation  
+Difficulty: Medium  
+Answer: a  
+
+9. Anaphase? a) Sister chromatids separate b) Align c) Condense d) Reform  
+Difficulty: Hard  
+Answer: a  
+
+10. Telophase? a) Nuclear reformation b) Separate c) Align d) Condense  
+Difficulty: Hard  
+Answer: a  
+
+11. Cytokinesis? a) Cytoplasm division b) Nucleus c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+12. Meiosis I? a) Reduction division b) Equational c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+13. Synapsis? a) Homologous pairing b) Separation c) Crossing over d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Crossing over? a) Genetic recombination b) No exchange c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+15. Chiasmata? a) Crossing points b) Separation c) Alignment d) Condensation  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Variation and Genetics
+1. Variation? a) Differences b) Similarities c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+2. Genetics? a) Study of heredity b) Evolution c) Ecology d) Physiology  
+Difficulty: Easy  
+Answer: a  
+
+3. Mendel? a) Pea plants b) Fruit flies c) Mice d) Humans  
+Difficulty: Easy  
+Answer: a  
+
+4. Monohybrid? a) One trait b) Two c) Three d) Many  
+Difficulty: Easy  
+Answer: a  
+
+5. Dihybrid? a) Two traits b) One c) Three d) Many  
+Difficulty: Easy  
+Answer: a  
+
+6. Law of segregation? a) Alleles separate b) Combine c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+7. Law of independent assortment? a) Genes separate independently b) Together c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+8. Incomplete dominance? a) Blending b) Dominant c) Recessive d) Codominant  
+Difficulty: Medium  
+Answer: a  
+
+9. Codominance? a) Both express b) One c) None d) Blend  
+Difficulty: Hard  
+Answer: a  
+
+10. Multiple alleles? a) ABO blood groups b) Two alleles c) One d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. Linkage? a) Genes on same chromosome b) Different c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+12. Crossing over? a) Recombination b) No c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+13. Sex linkage? a) X, Y chromosomes b) Autosomes c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Hemophilia? a) X-linked recessive b) Dominant c) Autosomal d) Y-linked  
+Difficulty: Hard  
+Answer: a  
+
+15. Color blindness? a) X-linked b) Y c) Autosomal d) None  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Biotechnology
+1. Biotechnology? a) Use of living organisms b) Machines c) Chemicals d) Physics  
+Difficulty: Easy  
+Answer: a  
+
+2. Recombinant DNA? a) Gene cloning b) Protein c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+3. Restriction enzymes? a) Cut DNA b) Join c) Copy d) Transcribe  
+Difficulty: Easy  
+Answer: a  
+
+4. Vectors? a) Plasmids b) Viruses c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+5. PCR? a) DNA amplification b) Protein c) RNA d) Enzyme  
+Difficulty: Easy  
+Answer: a  
+
+6. Gel electrophoresis? a) Separate DNA fragments b) Join c) Cut d) Copy  
+Difficulty: Medium  
+Answer: a  
+
+7. Transformation? a) DNA into host b) Out c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+8. Insulin production? a) Bacteria b) Yeast c) Plants d) All  
+Difficulty: Medium  
+Answer: d  
+
+9. GM crops? a) Bt cotton b) Normal c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+10. Gene therapy? a) Cure genetic diseases b) Cause c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. DNA fingerprinting? a) Identification b) Cloning c) Sequencing d) All  
+Difficulty: Hard  
+Answer: a  
+
+12. Bioethics? a) Moral issues b) Technical c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+13. Biopatents? a) Rights on inventions b) No rights c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Biopiracy? a) Unauthorized use b) Authorized c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+15. Golden rice? a) Vitamin A b) B c) C d) D  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Evolution
+1. Evolution? a) Change over time b) Static c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+2. Darwin? a) Natural selection b) Mutation c) Genetics d) All  
+Difficulty: Easy  
+Answer: a  
+
+3. Lamarck? a) Acquired traits b) Natural c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+4. Fossil? a) Past life evidence b) Current c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+5. Homologous? a) Common origin b) Different c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+6. Analogous? a) Similar function b) Origin c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+7. Vestigial? a) Reduced organs b) Functional c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+8. Adaptive radiation? a) Divergent evolution b) Convergent c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+9. Hardy-Weinberg? a) Equilibrium b) Change c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+10. Genetic drift? a) Random change b) Selection c) Mutation d) Migration  
+Difficulty: Hard  
+Answer: a  
+
+11. Speciation? a) New species b) Old c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+12. Allopatric? a) Geographic isolation b) Sympatric c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+13. Sympatric? a) Same area b) Different c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Human evolution? a) Africa origin b) Asia c) Europe d) America  
+Difficulty: Hard  
+Answer: a  
+
+15. Big Bang? a) Universe origin b) Earth c) Life d) Species  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Ecosystem
+1. Ecosystem? a) Community + abiotic b) Only biotic c) Only abiotic d) None  
+Difficulty: Easy  
+Answer: a  
+
+2. Producers? a) Autotrophs b) Heterotrophs c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+3. Consumers? a) Herbivores, carnivores b) Producers c) Decomposers d) All  
+Difficulty: Easy  
+Answer: a  
+
+4. Decomposers? a) Break down dead b) Produce c) Consume d) None  
+Difficulty: Easy  
+Answer: a  
+
+5. Food chain? a) Linear transfer b) Web c) Pyramid d) Cycle  
+Difficulty: Easy  
+Answer: a  
+
+6. Food web? a) Interconnected chains b) Single chain c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+7. Trophic levels? a) Energy positions b) Species c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+8. Energy pyramid? a) Upright b) Inverted c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+9. Biomass pyramid? a) Upright or inverted b) Always upright c) Always inverted d) None  
+Difficulty: Hard  
+Answer: a  
+
+10. Succession? a) Community change b) Stable c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. Primary succession? a) Bare rock b) Existing community c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+12. Secondary? a) Disturbed area b) Bare c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+13. Nutrient cycling? a) Biogeochemical b) Energy c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Carbon cycle? a) Atmosphere, organisms b) Only atmosphere c) Only organisms d) None  
+Difficulty: Hard  
+Answer: a  
+
+15. Nitrogen cycle? a) Fixation, nitrification b) Denitrification c) All d) None  
+Difficulty: Hard  
+Answer: c  
+
+### Class 12 - Some Major Ecosystems
+1. Biome? a) Large ecosystem b) Small c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+2. Terrestrial biomes? a) Forests, deserts b) Aquatic c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+3. Aquatic? a) Freshwater, marine b) Land c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+4. Tundra? a) Cold, low diversity b) Hot c) Moderate d) High  
+Difficulty: Easy  
+Answer: a  
+
+5. Taiga? a) Coniferous forests b) Deciduous c) Tropical d) Grassland  
+Difficulty: Easy  
+Answer: a  
+
+6. Temperate deciduous? a) Broad leaves b) Needles c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+7. Grasslands? a) Savanna b) Forest c) Desert d) Tundra  
+Difficulty: Medium  
+Answer: a  
+
+8. Deserts? a) Low rainfall b) High c) Moderate d) None  
+Difficulty: Medium  
+Answer: a  
+
+9. Tropical rainforest? a) High diversity b) Low c) Moderate d) None  
+Difficulty: Hard  
+Answer: a  
+
+10. Freshwater? a) Lakes, rivers b) Oceans c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. Marine? a) Oceans b) Lakes c) Rivers d) Ponds  
+Difficulty: Hard  
+Answer: a  
+
+12. Estuaries? a) River meets sea b) Only river c) Only sea d) None  
+Difficulty: Hard  
+Answer: a  
+
+13. Coral reefs? a) High biodiversity b) Low c) Moderate d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Pelagic zone? a) Open water b) Bottom c) Shore d) Deep  
+Difficulty: Hard  
+Answer: a  
+
+15. Benthic zone? a) Bottom b) Surface c) Middle d) None  
+Difficulty: Hard  
+Answer: a  
+
+### Class 12 - Man and his Environment
+1. Environment? a) Surroundings b) Internal c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+2. Pollution? a) Harmful substances b) Beneficial c) Both d) None  
+Difficulty: Easy  
+Answer: a  
+
+3. Air pollution? a) Smog, CO2 b) Water c) Soil d) Noise  
+Difficulty: Easy  
+Answer: a  
+
+4. Water pollution? a) Sewage, chemicals b) Air c) Land d) Sound  
+Difficulty: Easy  
+Answer: a  
+
+5. Soil pollution? a) Erosion, chemicals b) Air c) Water d) Noise  
+Difficulty: Easy  
+Answer: a  
+
+6. Noise pollution? a) Sound >85 dB b) <85 c) Visual d) Odor  
+Difficulty: Medium  
+Answer: a  
+
+7. Greenhouse effect? a) Global warming b) Cooling c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+8. Ozone depletion? a) UV increase b) Decrease c) Both d) None  
+Difficulty: Medium  
+Answer: a  
+
+9. Acid rain? a) SO2, NO2 b) CO2 c) O2 d) N2  
+Difficulty: Hard  
+Answer: a  
+
+10. Eutrophication? a) Nutrient excess b) Deficit c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+11. Deforestation? a) Tree loss b) Gain c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+12. Conservation? a) Protect resources b) Exploit c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+13. Renewable? a) Solar, wind b) Fossil fuels c) Both d) None  
+Difficulty: Hard  
+Answer: a  
+
+14. Non-renewable? a) Coal, oil b) Solar c) Wind d) Hydro  
+Difficulty: Hard  
+Answer: a  
+
+15. Sustainable development? a) Meet needs without compromise b) Compromise c) Both d) None  
+Difficulty: Hard  
+Answer: a

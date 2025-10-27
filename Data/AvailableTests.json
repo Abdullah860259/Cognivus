@@ -1,0 +1,48 @@
+{
+    "tests": [
+        {
+            "name": "MDCAT",
+            "time": 3.5,
+            "mcqs": 180,
+            "subjects": {
+                "Biology": 81,
+                "Chemistry": 45,
+                "Physics": 36,
+                "English": 9,
+                "Logical Reasoning": 9
+            }
+        },
+        {
+            "name": "NET",
+            "time": 3,
+            "mcqs": 200,
+            "subjects": {
+                "Math": 100,
+                "Physics": 60,
+                "English": 40
+            }
+        },
+        {
+            "name": "ECAT",
+            "time": 1.6667,
+            "mcqs": 100,
+            "subjects": {
+                "Physics": 30,
+                "Chemistry": 30,
+                "Biology": 30,
+                "English": 10
+            }
+        },
+        {
+            "name": "NTS",
+            "time": 2,
+            "mcqs": 100,
+            "subjects": {
+                "Physics": 25,
+                "Chemistry": 25,
+                "Biology": 25,
+                "English": 25
+            }
+        }
+    ]
+}

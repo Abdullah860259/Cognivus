@@ -1,6 +1,8 @@
 "use client";
 import React from "react";
 import { signOut } from "next-auth/react";
+import ChangePassword from "./ChangePassword";
+
 
 const Settings = () => {
     return (
@@ -19,10 +21,11 @@ const Settings = () => {
             </div>
 
             {/* Additional settings (optional) */}
+            <div className="flex flex-col mt-4 sm:flex-row sm:justify-between sm:items-center bg-gray-50 p-4 rounded-lg shadow-sm">
+                <p className="text-gray-700 text-lg mb-3 sm:mb-0">Change Password Of Your Account</p>
+                <ChangePassword />
+            </div>
             <div className="mt-6 space-y-4">
-                <div className="bg-gray-50 p-4 rounded-lg shadow-sm">
-                    <p className="text-gray-700">Change Password</p>
-                </div>
                 <div className="bg-gray-50 p-4 rounded-lg shadow-sm">
                     <p className="text-gray-700">Notification Preferences</p>
                 </div>

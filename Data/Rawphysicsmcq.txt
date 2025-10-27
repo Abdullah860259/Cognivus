@@ -1,0 +1,377 @@
+### Class 11: Measurement
+
+1. (Easy) What is the SI unit of length? A) Meter B) Kilogram C) Second D) Ampere. Answer: A  
+2. (Easy) How many significant figures in 0.00250? A) 2 B) 3 C) 4 D) 5. Answer: B  
+3. (Easy) What is dimensional analysis used for? A) Checking equations B) Measuring mass C) Counting atoms D) Drawing graphs. Answer: A  
+4. (Easy) What is the prefix for 10^-3? A) Milli B) Micro C) Nano D) Pico. Answer: A  
+5. (Easy) What measures time accurately? A) Stopwatch B) Ruler C) Balance D) Thermometer. Answer: A  
+6. (Medium) If error in length is 2%, error in volume of cube? A) 2% B) 4% C) 6% D) 8%. Answer: C  
+7. (Medium) Convert 1 parsec to meters. A) 3.086e16 B) 1.496e11 C) 9.461e15 D) 3.26e16. Answer: A  
+8. (Medium) Least count of vernier caliper with 10 divisions matching 9 mm? A) 0.1 mm B) 0.01 mm C) 0.05 mm D) 1 mm. Answer: A  
+9. (Hard) In y = a + bt + ct^2, dimensions of c? A) LT^-2 B) L^-1T^2 C) LT^2 D) L^-1T^-2. Answer: A  
+10. (Hard) Percentage error in density if mass error 1%, radius 2% for sphere? A) 5% B) 7% C) 3% D) 9%. Answer: B  
+11. (Hard) Order of magnitude of human height? A) 10^0 m B) 10^1 m C) 10^-1 m D) 10^2 m. Answer: A  
+12. (Hard) If [A] = MLT^-2, [B] = ML^2T^-2, then [A/B]? A) T^0 B) L^-1 C) MT^0 D) L. Answer: B  
+13. (Hard) Screw gauge pitch 0.5 mm, 100 divisions, least count? A) 0.005 mm B) 0.01 mm C) 0.05 mm D) 0.001 mm. Answer: A  
+14. (Hard) Fermi is unit for? A) Nuclear size B) Wavelength C) Energy D) Charge. Answer: A  
+15. (Hard) In measurement, systematic error example? A) Parallax B) Random fluctuation C) Zero error D) Temperature change. Answer: C  
+
+### Class 11: Vectors
+
+1. (Easy) What is a scalar quantity? A) Velocity B) Speed C) Displacement D) Force. Answer: B  
+2. (Easy) Vector addition follows? A) Commutative law B) Distributive only C) Associative only D) None. Answer: A  
+3. (Easy) Magnitude of unit vector? A) 1 B) 0 C) Infinite D) Variable. Answer: A  
+4. (Easy) Dot product of perpendicular vectors? A) 0 B) 1 C) -1 D) Magnitude product. Answer: A  
+5. (Easy) Cross product gives? A) Scalar B) Vector C) Zero D) Unity. Answer: B  
+6. (Medium) Vector A=3i+4j, magnitude? A) 5 B) 7 C) 25 D) 12. Answer: A  
+7. (Medium) Angle between A and B if A·B = |A||B|cosθ, θ=90°? A) 0 B) 90° C) 180° D) 45°. Answer: B  
+8. (Medium) Resultant of two equal vectors at 120°? A) Equal to one B) Zero C) Twice D) Half. Answer: A  
+9. (Hard) Projection of A on B is? A) A·B / |B| B) A×B / |B| C) |A|cosθ D) |B|sinθ. Answer: A  
+10. (Hard) If A×B =0, vectors are? A) Parallel B) Perpendicular C) Unit D) Null. Answer: A  
+11. (Hard) Torque is? A) r×F B) r·F C) F/r D) r/F. Answer: A  
+12. (Hard) In 3D, i×j=? A) k B) -k C) i D) j. Answer: A  
+13. (Hard) Vector triple product identity? A) A×(B×C)=B(A·C)-C(A·B) B) A·(B×C) C) Zero D) A+B+C. Answer: A  
+14. (Hard) Resolution of vector in plane? A) Two components B) Three C) One D) Infinite. Answer: A  
+15. (Hard) If |A+B|=|A-B|, angle? A) 90° B) 0° C) 180° D) 45°. Answer: A  
+
+### Class 11: Motion and Force
+
+1. (Easy) What is Newton's first law? A) Inertia B) F=ma C) Action-reaction D) Gravity. Answer: A  
+2. (Easy) Acceleration due to gravity? A) 9.8 m/s² B) 3 m/s² C) 10 m/s D) 0. Answer: A  
+3. (Easy) Uniform motion means? A) Constant velocity B) Changing speed C) Zero acceleration D) Circular path. Answer: A  
+4. (Easy) Free fall acceleration? A) g downward B) Zero C) Upward D) Variable. Answer: A  
+5. (Easy) Inertia depends on? A) Mass B) Volume C) Density D) Shape. Answer: A  
+6. (Medium) Projectile range formula? A) (v²sin2θ)/g B) (vsinθ)/g C) vt D) gt²/2. Answer: A  
+7. (Medium) Centripetal force? A) mv²/r B) mg C) ma D) mv. Answer: A  
+8. (Medium) Impulse equals? A) Change in momentum B) Force C) Acceleration D) Velocity. Answer: A  
+9. (Hard) In Atwood machine, acceleration? A) (m1-m2)g/(m1+m2) B) g C) 2g D) 0. Answer: A  
+10. (Hard) Banking angle tanθ=? A) v²/rg B) rg/v² C) g/v D) v/g. Answer: A  
+11. (Hard) Rocket thrust from? A) Momentum conservation B) Energy C) Force D) Gravity. Answer: A  
+12. (Hard) Pseudo force in non-inertial frame? A) -ma B) ma C) mg D) zero. Answer: A  
+13. (Hard) Coefficient of friction formula? A) F/N B) N/F C) mg/F D) F/mg. Answer: A  
+14. (Hard) In variable mass, F=? A) v dm/dt + m dv/dt B) m dv/dt C) v dm/dt D) zero. Answer: A  
+15. (Hard) Horsepower unit? A) 746 W B) 1000 W C) 500 W D) 1 W. Answer: A  
+
+### Class 11: Work and Energy
+
+1. (Easy) Work unit? A) Joule B) Newton C) Watt D) Pascal. Answer: A  
+2. (Easy) Kinetic energy formula? A) (1/2)mv² B) mgh C) Fd D) Pt. Answer: A  
+3. (Easy) Potential energy in gravity? A) mgh B) (1/2)kx² C) mv² D) zero. Answer: A  
+4. (Easy) Power is? A) Work/time B) Force*distance C) Energy D) Momentum. Answer: A  
+5. (Easy) Conservative force example? A) Gravity B) Friction C) Drag D) Tension. Answer: A  
+6. (Medium) Work by centripetal force? A) Zero B) mv²/r C) mg D) Positive. Answer: A  
+7. (Medium) Escape velocity? A) sqrt(2gR) B) sqrt(gR) C) gR D) 2gR. Answer: A  
+8. (Medium) Spring constant unit? A) N/m B) J C) kg/s² D) m/s. Answer: A  
+9. (Hard) In collision, elastic means? A) KE conserved B) Momentum only C) Velocity equal D) Mass change. Answer: A  
+10. (Hard) Coefficient of restitution e=1 for? A) Perfect elastic B) Inelastic C) Plastic D) Zero. Answer: A  
+11. (Hard) Work-energy theorem? A) W = ΔKE B) W = ΔPE C) W = ΔE D) Zero. Answer: A  
+12. (Hard) Virial theorem relates? A) KE and PE B) Momentum C) Force D) Time. Answer: A  
+13. (Hard) In SHM, energy conservation? A) KE + PE = constant B) KE only C) PE only D) Variable. Answer: A  
+14. (Hard) Power in climbing? A) mgh/t B) mg/t C) h/t D) m/t. Answer: A  
+15. (Hard) Negative work by? A) Friction opposing motion B) Gravity up C) Tension D) Normal. Answer: A  
+
+### Class 11: Circular Motion
+
+1. (Easy) Centripetal acceleration? A) v²/r B) v/r C) r/v D) v²r. Answer: A  
+2. (Easy) Angular velocity unit? A) rad/s B) m/s C) rad D) s. Answer: A  
+3. (Easy) Period T=? A) 2π/ω B) ω/2π C) 2πω D) ω². Answer: A  
+4. (Easy) Tangential acceleration in uniform circular? A) Zero B) v²/r C) ωr D) g. Answer: A  
+5. (Easy) Conical pendulum angle depends on? A) Speed B) Mass C) Length D) Color. Answer: A  
+6. (Medium) Maximum speed on banked road? A) sqrt(rg tanθ) B) sqrt(rg) C) rg tanθ D) zero. Answer: A  
+7. (Medium) Centrifuge separates by? A) Density B) Size C) Color D) Charge. Answer: A  
+8. (Medium) Angular momentum L=? A) Iω B) mv r C) m v D) I α. Answer: A  
+9. (Hard) In vertical circle, min speed at top? A) sqrt(gr) B) sqrt(5gr) C) sqrt(2gr) D) zero. Answer: A  
+10. (Hard) Torque τ=? A) Iα B) F d C) m a D) P t. Answer: A  
+11. (Hard) Precession in gyroscope due to? A) Torque B) Force C) Velocity D) Mass. Answer: A  
+12. (Hard) Kepler's law T² ∝? A) r³ B) r² C) r D) 1/r. Answer: A  
+13. (Hard) Centripetal force in electron orbit? A) Electrostatic B) Gravity C) Magnetic D) Nuclear. Answer: A  
+14. (Hard) In non-uniform circular, total acc? A) sqrt((v²/r)² + a_t²) B) v²/r C) a_t D) zero. Answer: A  
+15. (Hard) Moment of inertia for disk? A) (1/2)MR² B) MR² C) (2/5)MR² D) (1/3)MR². Answer: A  
+
+### Class 11: Fluid Dynamics
+
+1. (Easy) Buoyant force equals? A) Weight of displaced fluid B) Object weight C) Volume D) Density. Answer: A  
+2. (Easy) Pascal's law for? A) Pressure transmission B) Flow C) Viscosity D) Surface tension. Answer: A  
+3. (Easy) Bernoulli's principle? A) P + (1/2)ρv² + ρgh = const B) P = ρgh C) F = η A v/d D) V = A v. Answer: A  
+4. (Easy) Viscosity unit? A) Poise B) Pascal C) Newton D) Joule. Answer: A  
+5. (Easy) Archimedes' principle for? A) Floatation B) Pressure C) Flow D) Tension. Answer: A  
+6. (Medium) Terminal velocity? A) mg/ (6πηr) B) 2r²(ρ-σ)g/(9η) C) sqrt(2gh) D) gh. Answer: B  
+7. (Medium) Venturi meter measures? A) Flow speed B) Pressure C) Density D) Volume. Answer: A  
+8. (Medium) Surface tension force? A) γ * length B) γ / length C) γ area D) zero. Answer: A  
+9. (Hard) Reynolds number Re=? A) ρ v d / η B) η v d / ρ C) v d / η D) ρ η / v d. Answer: A  
+10. (Hard) Poiseuille's law flow rate? A) (π P r⁴)/(8 η L) B) P r² / η L C) η L / P r D) zero. Answer: A  
+11. (Hard) Capillary rise h=? A) 2γ cosθ / (ρ g r) B) γ / ρ g r C) ρ g r / γ D) 2γ / ρ g. Answer: A  
+12. (Hard) Magnus effect in? A) Spinning ball B) Static fluid C) Laminar flow D) Turbulent. Answer: A  
+13. (Hard) Equation of continuity? A) A1 v1 = A2 v2 B) P1 = P2 C) v1 = v2 D) A1 = A2. Answer: A  
+14. (Hard) Torricelli's theorem speed? A) sqrt(2gh) B) sqrt(gh) C) 2gh D) gh/2. Answer: A  
+15. (Hard) Stokes' law drag? A) 6πη r v B) 3πη r v C) 4πη r² v D) η r v. Answer: A  
+
+### Class 11: Oscillations
+
+1. (Easy) SHM period for pendulum? A) 2π sqrt(L/g) B) 2π sqrt(g/L) C) sqrt(L/g) D) L/g. Answer: A  
+2. (Easy) Amplitude is? A) Max displacement B) Frequency C) Phase D) Velocity. Answer: A  
+3. (Easy) Frequency f=1/T, unit? A) Hz B) rad/s C) m/s D) s. Answer: A  
+4. (Easy) Restoring force in SHM? A) -kx B) kx C) mg D) zero. Answer: A  
+5. (Easy) Damped oscillation? A) Amplitude decreases B) Increases C) Constant D) Stops. Answer: A  
+6. (Medium) Angular frequency ω=? A) sqrt(k/m) B) sqrt(m/k) C) k/m D) 2π f. Answer: A  
+7. (Medium) Resonance when? A) Driving freq = natural B) Different C) Zero D) Infinite. Answer: A  
+8. (Medium) Energy in SHM? A) (1/2)k A² B) (1/2)m v² C) m g h D) zero. Answer: A  
+9. (Hard) Time period for compound pendulum? A) 2π sqrt(I/(m g d)) B) 2π sqrt(L/g) C) sqrt(I/m) D) I/g. Answer: A  
+10. (Hard) Lissajous figures from? A) Two perpendicular SHMs B) One SHM C) Damped D) Forced. Answer: A  
+11. (Hard) Critical damping? A) No oscillation B) Oscillation C) Overdamped D) Underdamped. Answer: A  
+12. (Hard) Phase difference in SHM? A) δ in x=A sin(ωt + δ) B) ωt C) A D) zero. Answer: A  
+13. (Hard) Velocity in SHM? A) ω sqrt(A² - x²) B) ω x C) ω A D) zero. Answer: A  
+14. (Hard) Forced oscillation amplitude max at? A) ω = ω0 B) ω > ω0 C) ω < ω0 D) ω=0. Answer: A  
+15. (Hard) Quality factor Q=? A) ω0 / Δω B) Δω / ω0 C) ω0 Δω D) 1/ω0. Answer: A  
+
+### Class 11: Waves
+
+1. (Easy) Wave speed v=? A) f λ B) f / λ C) λ / f D) f² λ. Answer: A  
+2. (Easy) Transverse wave example? A) Light B) Sound C) Water ripple D) Seismic P. Answer: A  
+3. (Easy) Longitudinal wave? A) Sound B) String C) Electromagnetic D) Surface. Answer: A  
+4. (Easy) Wavelength is? A) Distance between crests B) Height C) Speed D) Time. Answer: A  
+5. (Easy) Doppler effect due to? A) Relative motion B) Medium C) Amplitude D) Phase. Answer: A  
+6. (Medium) Standing wave nodes? A) Zero displacement B) Max C) Moving D) Infinite. Answer: A  
+7. (Medium) Beat frequency? A) |f1 - f2| B) f1 + f2 C) f1 f2 D) zero. Answer: A  
+8. (Medium) Intensity I ∝? A) A² B) A C) 1/A D) A³. Answer: A  
+9. (Hard) Wave equation? A) ∂²y/∂t² = v² ∂²y/∂x² B) y = A sin(kx - ωt) C) v = sqrt(T/μ) D) all. Answer: A  
+10. (Hard) Fundamental frequency string? A) (1/(2L)) sqrt(T/μ) B) sqrt(T/μ) / L C) 2L sqrt(T/μ) D) zero. Answer: A  
+11. (Hard) Organ pipe closed end freq? A) v/(4L) B) v/(2L) C) 2v/L D) v/L. Answer: A  
+12. (Hard) Doppler formula source moving? A) f' = f (v)/(v - vs) B) f (v - vs)/v C) f vs/v D) zero. Answer: A  
+13. (Hard) Impedance Z=? A) ρ v B) ρ / v C) v / ρ D) sqrt(ρ v). Answer: A  
+14. (Hard) Reflection coefficient? A) (Z2 - Z1)/(Z2 + Z1) B) Z1/Z2 C) Z2/Z1 D) 1. Answer: A  
+15. (Hard) Huygens principle? A) Each point secondary source B) Diffraction C) Interference D) All. Answer: A  
+
+### Class 11: Physical Optics
+
+1. (Easy) Light nature? A) Wave-particle B) Only wave C) Only particle D) None. Answer: A  
+2. (Easy) Interference requires? A) Coherent sources B) Incoherent C) Single source D) Dark. Answer: A  
+3. (Easy) Diffraction at? A) Small aperture B) Large C) Infinite D) Zero. Answer: A  
+4. (Easy) Polarization by? A) Reflection B) Absorption C) Emission D) Conduction. Answer: A  
+5. (Easy) Refractive index n=? A) c/v B) v/c C) c v D) 1. Answer: A  
+6. (Medium) Young's double slit fringe width? A) λ D / d B) λ d / D C) D / λ d D) d / λ. Answer: A  
+7. (Medium) Brewster's angle tan i=? A) n B) 1/n C) sin i D) cos i. Answer: A  
+8. (Medium) Resolving power of microscope? A) 1.22 λ / (2 n sinθ) B) λ / (2 n sinθ) C) 2 n sinθ / λ D) n sinθ / λ. Answer: C  
+9. (Hard) Fresnel diffraction? A) Near field B) Far field C) Both D) None. Answer: A  
+10. (Hard) Malus law I=? A) I0 cos²θ B) I0 sin²θ C) I0 cosθ D) I0. Answer: A  
+11. (Hard) Optical path length? A) n * geometric path B) geometric / n C) n² path D) zero. Answer: A  
+12. (Hard) Coherence length? A) c / Δf B) Δf / c C) λ / Δλ D) Δλ / λ. Answer: A  
+13. (Hard) Fraunhofer diffraction? A) Far field B) Near C) Single slit D) Double. Answer: A  
+14. (Hard) Zone plate focal length? A) r² / λ B) λ / r² C) r / λ D) λ r. Answer: A  
+15. (Hard) Birefringence in? A) Calcite B) Glass C) Water D) Air. Answer: A  
+
+### Class 11: Optical Instruments
+
+1. (Easy) Simple microscope magnifies? A) Small objects B) Far C) Stars D) Planets. Answer: A  
+2. (Easy) Telescope for distant? A) Astronomical B) Micro C) Binocular D) Periscope. Answer: A  
+3. (Easy) Lens formula? A) 1/f = 1/v - 1/u B) 1/f = 1/u + 1/v C) f = u + v D) f = u v. Answer: B  
+4. (Easy) Power of lens? A) 1/f B) f C) u/v D) v/u. Answer: A  
+5. (Easy) Convex lens forms? A) Real image B) Virtual always C) No image D) Inverted virtual. Answer: A  
+6. (Medium) Compound microscope magnification? A) m_o * m_e B) m_o / m_e C) m_o + m_e D) zero. Answer: A  
+7. (Medium) Astronomical telescope length? A) f_o + f_e B) f_o - f_e C) f_o / f_e D) f_e / f_o. Answer: A  
+8. (Medium) Spectrometer measures? A) Wavelength B) Magnification C) Power D) Focal length. Answer: A  
+9. (Hard) Aberration chromatic due to? A) Different wavelengths B) Shape C) Size D) Material. Answer: A  
+10. (Hard) Resolving power telescope? A) D / (1.22 λ) B) 1.22 λ / D C) D λ D) λ / D. Answer: A  
+11. (Hard) Prism minimum deviation? A) When i1 = i2 B) i1 ≠ i2 C) i=0 D) i=90. Answer: A  
+12. (Hard) Eyepiece in Galilean telescope? A) Concave B) Convex C) Plano D) None. Answer: A  
+13. (Hard) Numerical aperture? A) n sinθ B) sinθ / n C) n / sinθ D) θ. Answer: A  
+14. (Hard) Fiber optic total internal reflection angle? A) > sin^{-1}(1/n) B) < sin^{-1}(1/n) C) = sin^{-1}(1/n) D) 90°. Answer: A  
+15. (Hard) Interferometer Michelson measures? A) Wavelength difference B) Magnification C) Power D) Focal. Answer: A  
+
+### Class 11: Heat and Thermodynamics
+
+1. (Easy) Zeroth law defines? A) Temperature B) Heat C) Work D) Energy. Answer: A  
+2. (Easy) Specific heat unit? A) J/kg K B) J K C) kg/K D) J. Answer: A  
+3. (Easy) Conduction by? A) Solids B) Fluids C) Vacuum D) Gases. Answer: A  
+4. (Easy) First law ΔU=? A) Q - W B) Q + W C) W - Q D) zero. Answer: A  
+5. (Easy) Ideal gas law? A) PV = nRT B) P = nRT/V C) V = nRT/P D) All. Answer: A  
+6. (Medium) Carnot efficiency? A) 1 - T2/T1 B) T1/T2 C) T2/T1 D) 1. Answer: A  
+7. (Medium) Entropy increases in? A) Irreversible processes B) Reversible C) Constant D) Zero. Answer: A  
+8. (Medium) Thermal expansion coefficient α=? A) ΔL / (L ΔT) B) L ΔT / ΔL C) ΔT / L D) L / ΔT. Answer: A  
+9. (Hard) Isothermal process ΔU=? A) 0 B) Q C) W D) -W. Answer: A  
+10. (Hard) Adiabatic γ = Cp/Cv for monatomic? A) 5/3 B) 7/5 C) 4/3 D) 1. Answer: A  
+11. (Hard) Mean free path λ=? A) 1/(sqrt(2) π d² n) B) n π d² C) sqrt(2) n d D) d/n. Answer: A  
+12. (Hard) Stefan-Boltzmann law P=? A) σ A T⁴ B) σ T⁴ C) A T⁴ D) σ A. Answer: A  
+13. (Hard) Wien's displacement λ_max T=? A) Constant b B) λ T C) T / λ D) variable. Answer: A  
+14. (Hard) Second law Kelvin-Planck? A) No perfect heat engine B) Perfect refrigerator C) Entropy zero D) U=0. Answer: A  
+15. (Hard) Degrees of freedom for diatomic? A) 5 B) 3 C) 7 D) 2. Answer: A  
+
+### Class 12 / Entry Exams: Electrostatics
+
+1. (Easy) Coulomb's law F=? A) k q1 q2 / r² B) q1 q2 / r² C) k q1 / r D) q/r. Answer: A  
+2. (Easy) Electric field unit? A) N/C B) V C) J D) A. Answer: A  
+3. (Easy) Gauss law for? A) Closed surface flux B) Open C) Point D) Line. Answer: A  
+4. (Easy) Capacitor stores? A) Charge B) Current C) Voltage D) Resistance. Answer: A  
+5. (Easy) Dielectric constant? A) Increases capacitance B) Decreases C) No effect D) Zero. Answer: A  
+6. (Medium) Potential V at point? A) k q / r B) k q r C) q / r D) k / q r. Answer: A  
+7. (Medium) Equipotential surface? A) Perpendicular to field B) Parallel C) Tangent D) None. Answer: A  
+8. (Medium) Energy in capacitor? A) (1/2) C V² B) C V C) (1/2) Q V D) Q² / C. Answer: A  
+9. (Hard) Electric field inside conductor? A) Zero B) Constant C) Infinite D) Variable. Answer: A  
+10. (Hard) Van de Graaff generates? A) High voltage B) Current C) Magnetic field D) Light. Answer: A  
+11. (Hard) Dipole moment p=? A) q d B) q / d C) d / q D) q² d. Answer: A  
+12. (Hard) Torque on dipole? A) p E sinθ B) p E C) p / E D) zero. Answer: A  
+13. (Hard) Gauss flux for sphere? A) q_enclosed / ε0 B) q / ε0 4π r² C) 4π r² q D) zero. Answer: A  
+14. (Hard) Capacitance of parallel plate? A) ε0 A / d B) ε0 d / A C) A / d D) ε0. Answer: A  
+15. (Hard) Electric field due to infinite sheet? A) σ / (2 ε0) B) σ / ε0 C) 2 σ / ε0 D) zero. Answer: A  
+
+### Class 12 / Entry Exams: Current Electricity
+
+1. (Easy) Ohm's law V=? A) I R B) I / R C) R / I D) I² R. Answer: A  
+2. (Easy) Resistance unit? A) Ohm B) Volt C) Ampere D) Watt. Answer: A  
+3. (Easy) Kirchhoff's voltage law? A) Sum V =0 in loop B) Sum I=0 C) V=I R D) Power. Answer: A  
+4. (Easy) Power P=? A) V I B) V / I C) I / V D) V² I. Answer: A  
+5. (Easy) Series resistance? A) Sum R B) 1/sum R C) Product D) Average. Answer: A  
+6. (Medium) Wheatstone bridge balanced when? A) P/Q = R/S B) P=Q=R=S C) P+Q=R+S D) zero. Answer: A  
+7. (Medium) Drift velocity vd=? A) I / (n e A) B) n e A I C) I n e A D) 1/I. Answer: A  
+8. (Medium) Temperature coefficient α in R=? A) R = R0 (1 + α ΔT) B) R0 α ΔT C) 1 + α ΔT D) α ΔT. Answer: A  
+9. (Hard) Potentiometer measures? A) EMF without draw B) Current C) Resistance D) Power. Answer: A  
+10. (Hard) Mobility μ=? A) vd / E B) E / vd C) vd E D) 1/E. Answer: A  
+11. (Hard) Superconductor resistance? A) Zero B) Infinite C) High D) Low. Answer: A  
+12. (Hard) Thevenin equivalent? A) V_th and R_th B) Only V C) Only R D) None. Answer: A  
+13. (Hard) Norton equivalent? A) I_sc and R_th B) V and R C) I and V D) zero. Answer: A  
+14. (Hard) Maximum power transfer when? A) R_load = R_th B) R_load > R_th C) R_load < R_th D) Infinite. Answer: A  
+15. (Hard) Resistivity ρ=? A) R A / L B) R L / A C) A / R L D) L / A R. Answer: A  
+
+### Class 12 / Entry Exams: Electromagnetism
+
+1. (Easy) Magnetic field unit? A) Tesla B) Gauss C) Ampere D) Volt. Answer: A  
+2. (Easy) Lorentz force F=? A) q (v × B) B) q v B C) q B D) q / B. Answer: A  
+3. (Easy) Ampere's law? A) ∫ B dl = μ0 I B) B = μ0 I / 2π r C) Both D) None. Answer: A  
+4. (Easy) Solenoid field? A) μ0 n I B) μ0 I C) n I D) μ0 / n I. Answer: A  
+5. (Easy) Biot-Savart dB=? A) (μ0 / 4π) I dl × r / r³ B) I dl / r² C) μ0 I / r D) 4π I. Answer: A  
+6. (Medium) Cyclotron frequency? A) q B / (2π m) B) 2π m / q B C) q B m D) m / q B. Answer: A  
+7. (Medium) Magnetic moment m=? A) I A B) I / A C) A / I D) I² A. Answer: A  
+8. (Medium) Hall voltage V_H=? A) B I / (n e t) B) B I n e t C) I / B D) n e / B. Answer: A  
+9. (Hard) Permeability μ=? A) B / H B) H / B C) B H D) 1/B. Answer: A  
+10. (Hard) Hysteresis in? A) Ferromagnet B) Paramagnet C) Diamagnet D) All. Answer: A  
+11. (Hard) Curie law χ ∝? A) 1/T B) T C) T² D) 1/T². Answer: A  
+12. (Hard) Force on current wire? A) I L × B B) I L B C) L / I B D) zero. Answer: A  
+13. (Hard) Torque on loop? A) m × B B) m B C) m / B D) zero. Answer: A  
+14. (Hard) Earth's field component? A) Horizontal B_H B) Vertical C) Total D) All. Answer: A  
+15. (Hard) Moving coil galvanometer? A) Torque = N I A B sinθ B) N I A B C) I / N A B D) zero. Answer: A  
+
+### Class 12 / Entry Exams: Electromagnetic Induction
+
+1. (Easy) Faraday's law ε=? A) - dφ/dt B) dφ/dt C) φ / t D) -φ. Answer: A  
+2. (Easy) Lenz's law opposes? A) Change in flux B) Flux C) Current D) Voltage. Answer: A  
+3. (Easy) Inductance unit? A) Henry B) Ohm C) Volt D) Ampere. Answer: A  
+4. (Easy) Motional emf? A) B l v B) B / l v C) l v / B D) zero. Answer: A  
+5. (Easy) Transformer works on? A) AC B) DC C) Both D) None. Answer: A  
+6. (Medium) Self inductance L=? A) φ / I B) I / φ C) φ I D) 1/I. Answer: A  
+7. (Medium) Mutual inductance M=? A) ε2 / (dI1/dt) B) dI1/dt / ε2 C) ε2 dI1/dt D) zero. Answer: A  
+8. (Medium) Eddy currents reduced by? A) Lamination B) Thickening C) Heating D) Cooling. Answer: A  
+9. (Hard) Energy in inductor? A) (1/2) L I² B) L I C) L / I² D) zero. Answer: A  
+10. (Hard) LR circuit time constant? A) L/R B) R/L C) L R D) 1/R. Answer: A  
+11. (Hard) AC generator emf? A) ε0 sin ωt B) ε0 cos ωt C) ε0 D) zero. Answer: A  
+12. (Hard) Transformer ratio? A) N_s / N_p = V_s / V_p B) N_p / N_s C) V_p / V_s D) 1. Answer: A  
+13. (Hard) Back emf in motor? A) ε = V - I R B) V + I R C) I R D) V. Answer: A  
+14. (Hard) Flux linkage? A) N φ B) φ / N C) N / φ D) zero. Answer: A  
+15. (Hard) Induced current in loop? A) - (1/R) dφ/dt B) dφ/dt / R C) R dφ/dt D) zero. Answer: A  
+
+### Class 12 / Entry Exams: Alternating Current
+
+1. (Easy) RMS value V_rms=? A) V0 / sqrt(2) B) V0 sqrt(2) C) V0 D) V0/2. Answer: A  
+2. (Easy) Impedance Z in AC? A) Like resistance B) Voltage C) Current D) Power. Answer: A  
+3. (Easy) Phase in resistor? A) 0° B) 90° C) -90° D) 180°. Answer: A  
+4. (Easy) Capacitive reactance X_C=? A) 1/(ω C) B) ω C C) 1/ω D) ω /C. Answer: A  
+5. (Easy) Inductive reactance X_L=? A) ω L B) 1/ω L C) L / ω D) 1/L. Answer: A  
+6. (Medium) Power factor cosφ=? A) R / Z B) Z / R C) X / Z D) 1. Answer: A  
+7. (Medium) Resonance in LCR? A) ω = 1/sqrt(L C) B) ω = sqrt(L C) C) L C D) 1/L C. Answer: A  
+8. (Medium) Average power in AC? A) V_rms I_rms cosφ B) V I C) V I /2 D) zero. Answer: A  
+9. (Hard) Q factor in resonance? A) ω0 L / R B) R / ω0 L C) ω0 R / L D) L / R. Answer: A  
+10. (Hard) Choke coil? A) High X_L, low R B) High R C) Low X_L D) Zero. Answer: A  
+11. (Hard) Wattless current in? A) Pure capacitor B) Resistor C) Inductor with R D) All. Answer: A  
+12. (Hard) Admittance Y=? A) 1/Z B) Z C) I/V D) V/I. Answer: A  
+13. (Hard) Bandwidth in resonance? A) R / L B) L / R C) R L D) 1/R. Answer: A  
+14. (Hard) Transformer efficiency? A) (Output / Input) *100 B) 100 C) 50 D) Variable. Answer: A  
+15. (Hard) Skin effect in? A) High frequency AC B) DC C) Low freq D) None. Answer: A  
+
+### Class 12 / Entry Exams: Physics of Solids
+
+1. (Easy) Crystal lattice? A) Regular array B) Random C) Liquid D) Gas. Answer: A  
+2. (Easy) Young's modulus Y=? A) Stress / strain B) Strain / stress C) Force / area D) Length change. Answer: A  
+3. (Easy) Semiconductor type? A) Intrinsic, extrinsic B) Metal C) Insulator D) All. Answer: A  
+4. (Easy) Band gap in insulator? A) Large B) Small C) Zero D) Negative. Answer: A  
+5. (Easy) Doping increases? A) Conductivity B) Resistance C) Band gap D) Mass. Answer: A  
+6. (Medium) Miller indices for plane? A) Intercepts reciprocals B) Intercepts C) Angles D) Distances. Answer: A  
+7. (Medium) Poisson's ratio? A) Lateral / longitudinal strain B) Longitudinal / lateral C) 1 D) 0. Answer: A  
+8. (Medium) Fermi level in n-type? A) Near conduction band B) Valence C) Middle D) Zero. Answer: A  
+9. (Hard) Bragg's law? A) 2 d sinθ = n λ B) d sinθ = λ C) 2 d = n λ sinθ D) n λ = d. Answer: A  
+10. (Hard) Packing fraction FCC? A) 74% B) 68% C) 52% D) 34%. Answer: A  
+11. (Hard) Mobility in semiconductor? A) vd / E B) E / vd C) vd E D) 1/E. Answer: A  
+12. (Hard) Hall coefficient R_H=? A) 1/(n e) B) n e C) 1/n D) e / n. Answer: A  
+13. (Hard) Superconductivity at? A) Low T B) High T C) Room T D) Zero T. Answer: A  
+14. (Hard) Meissner effect? A) B=0 inside B) B high C) B partial D) None. Answer: A  
+15. (Hard) Josephson junction? A) Tunneling B) Resistance C) Capacitance D) Inductance. Answer: A  
+
+### Class 12 / Entry Exams: Electronics
+
+1. (Easy) Diode allows? A) One way current B) Two way C) No current D) AC only. Answer: A  
+2. (Easy) Transistor types? A) NPN, PNP B) Only NPN C) Only PNP D) None. Answer: A  
+3. (Easy) Logic gate AND? A) 1 if both 1 B) 1 if one 1 C) Always 1 D) 0. Answer: A  
+4. (Easy) Rectifier converts? A) AC to DC B) DC to AC C) Both D) None. Answer: A  
+5. (Easy) Amplifier increases? A) Signal strength B) Frequency C) Phase D) Resistance. Answer: A  
+6. (Medium) Zener diode for? A) Voltage regulation B) Rectification C) Amplification D) Oscillation. Answer: A  
+7. (Medium) Common emitter gain β=? A) I_c / I_b B) I_b / I_c C) I_e / I_b D) 1. Answer: A  
+8. (Medium) NAND gate universal? A) Yes B) No C) Only with OR D) With AND. Answer: A  
+9. (Hard) Biasing in transistor? A) Forward base-emitter B) Reverse C) No bias D) AC. Answer: A  
+10. (Hard) Feedback in oscillator? A) Positive B) Negative C) Zero D) Variable. Answer: A  
+11. (Hard) Colpitts oscillator uses? A) Capacitors B) Inductors C) Resistors D) Diodes. Answer: A  
+12. (Hard) Modulation index m=? A) A_m / A_c B) A_c / A_m C) A_m A_c D) 1. Answer: A  
+13. (Hard) Demodulation? A) Extract message B) Amplify C) Modulate D) Filter. Answer: A  
+14. (Hard) Op-amp gain? A) High open loop B) Low C) 1 D) 0. Answer: A  
+15. (Hard) Schmitt trigger? A) Square wave from sine B) Sine from square C) Amplifier D) Filter. Answer: A  
+
+### Class 12 / Entry Exams: Dawn of Modern Physics
+
+1. (Easy) Photoelectric effect? A) Light ejects electrons B) Heat C) Magnetic D) Gravity. Answer: A  
+2. (Easy) Planck's constant h=? A) 6.626e-34 J s B) 3e8 m/s C) 1.6e-19 C D) 9.1e-31 kg. Answer: A  
+3. (Easy) De Broglie wavelength λ=? A) h / p B) p / h C) h p D) 1/p. Answer: A  
+4. (Easy) Compton shift Δλ=? A) (h/m c)(1 - cosθ) B) h/m c cosθ C) h cosθ / m c D) zero. Answer: A  
+5. (Easy) Blackbody radiation? A) Wien's law B) Ohm's C) Kirchhoff's D) Ampere's. Answer: A  
+6. (Medium) Threshold frequency? A) Min for emission B) Max C) Zero D) Infinite. Answer: A  
+7. (Medium) Einstein equation KE_max=? A) h f - φ B) h f + φ C) φ - h f D) h f. Answer: A  
+8. (Medium) Uncertainty principle Δx Δp ≥? A) h/(4π) B) h/2π C) h D) 4π h. Answer: A  
+9. (Hard) Davisson-Germer? A) Electron diffraction B) Photoelectric C) Compton D) Blackbody. Answer: A  
+10. (Hard) Pair production? A) Gamma to e+ e- B) e- to gamma C) Neutron decay D) Fusion. Answer: A  
+11. (Hard) Annihilation? A) e+ e- to gamma B) Gamma to e+ e- C) Proton neutron D) Alpha. Answer: A  
+12. (Hard) X-ray production? A) Electron impact B) Light C) Heat D) Magnetic. Answer: A  
+13. (Hard) Moseley's law sqrt(f) ∝? A) Z - b B) Z C) 1/Z D) Z². Answer: A  
+14. (Hard) Rayleigh-Jeans failure? A) UV catastrophe B) IR C) Visible D) Microwave. Answer: A  
+15. (Hard) Stefan's law from Planck? A) σ T⁴ B) T⁴ / σ C) σ / T⁴ D) 1/T. Answer: A  
+
+### Class 12 / Entry Exams: Atomic Spectra
+
+1. (Easy) Bohr model for? A) Hydrogen B) Helium C) All atoms D) Molecules. Answer: A  
+2. (Easy) Spectral lines from? A) Electron transitions B) Proton C) Neutron D) Nucleus. Answer: A  
+3. (Easy) Rydberg constant R=? A) 1.097e7 m^{-1} B) 3e8 C) 6.626e-34 D) 9.1e-31. Answer: A  
+4. (Easy) Balmer series in? A) Visible B) UV C) IR D) X-ray. Answer: A  
+5. (Easy) Angular momentum L=? A) n h / 2π B) h / 2π n C) n h D) h n. Answer: A  
+6. (Medium) Energy level E_n=? A) -13.6 / n² eV B) 13.6 n² C) -13.6 n D) 13.6 / n. Answer: A  
+7. (Medium) Radius r_n=? A) n² a0 B) a0 / n² C) n a0 D) a0 n. Answer: A  
+8. (Medium) Fine structure due to? A) Spin-orbit B) Relativity C) Both D) None. Answer: C  
+9. (Hard) Zeeman effect? A) Magnetic splitting B) Electric C) Gravitational D) Thermal. Answer: A  
+10. (Hard) Stark effect? A) Electric splitting B) Magnetic C) Both D) None. Answer: A  
+11. (Hard) Pauli exclusion? A) No two e- same quantum numbers B) Same C) One D) Infinite. Answer: A  
+12. (Hard) Quantum numbers n, l, m, s? A) Principal, azimuthal, magnetic, spin B) All same C) Only n D) Only s. Answer: A  
+13. (Hard) Hund's rule? A) Max multiplicity B) Min C) Zero D) One. Answer: A  
+14. (Hard) LS coupling? A) Total L and S B) Individual C) JJ D) None. Answer: A  
+15. (Hard) Paschen series? A) IR B) Visible C) UV D) X-ray. Answer: A  
+
+### Class 12 / Entry Exams: Nuclear Physics
+
+1. (Easy) Nucleus contains? A) Protons, neutrons B) Electrons C) Positrons D) Photons. Answer: A  
+2. (Easy) Binding energy? A) Mass defect * c² B) Mass * c² C) Defect / c² D) zero. Answer: A  
+3. (Easy) Alpha decay? A) He nucleus B) Electron C) Positron D) Neutron. Answer: A  
+4. (Easy) Half-life? A) Time for half decay B) Full C) Quarter D) Infinite. Answer: A  
+5. (Easy) Fission? A) Heavy split B) Light fuse C) Both D) None. Answer: A  
+6. (Medium) Q-value? A) Energy released B) Absorbed C) Zero D) Mass. Answer: A  
+7. (Medium) Decay constant λ=? A) ln2 / T_{1/2} B) T_{1/2} / ln2 C) 2 / T D) T / 2. Answer: A  
+8. (Medium) Chain reaction in? A) Reactor B) Bomb C) Both D) None. Answer: A  
+9. (Hard) Packing fraction? A) (M - A)/A B) A / (M - A) C) M / A D) A / M. Answer: A  
+10. (Hard) Beta decay? A) Electron emission B) Alpha C) Gamma D) Neutron. Answer: A  
+11. (Hard) Neutrino in? A) Beta decay B) Alpha C) Gamma D) Fission. Answer: A  
+12. (Hard) Magic numbers? A) Stable shells B) Unstable C) Variable D) Zero. Answer: A  
+13. (Hard) Liquid drop model? A) Binding energy formula B) Shell C) Gas D) Solid. Answer: A  
+14. (Hard) Geiger counter detects? A) Radiation B) Mass C) Charge D) Energy. Answer: A  
+15. (Hard) Carbon dating uses? A) C-14 B) U-238 C) Th-232 D) K-40. Answer: A

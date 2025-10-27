@@ -4,10 +4,11 @@ import User from "@/lib/models/User";
 import connectDB from "@/lib/connect";
 import crypto from "crypto";
 import { sendEmail } from "@/utility/sendEmail";
+import Mcqdata from "@/lib/models/Mcqdata";
 
 export async function POST(req) {
   try {
-    const { email, password,name } = await req.json();
+    const { email, password, name } = await req.json();
     await connectDB();
 
     const existingUser = await User.findOne({ email });
@@ -20,7 +21,13 @@ export async function POST(req) {
     const hashedPassword = await bcrypt.hash(password, 10);
     const token = crypto.randomBytes(32).toString("hex");
 
-    const newUser = new User({ email,name , password: hashedPassword, token });
+    const newUser = await new User({ email, name, password: hashedPassword, token });
+    await newUser.save();
+
+    const McqDataDoc = await new Mcqdata({ user: newUser._id });
+    await McqDataDoc.save();
+
+    newUser.mcqData = McqDataDoc._id;
     await newUser.save();
 
     const verifyLink = `${process.env.NEXTAUTH_URL}/api/verify?token=${token}`;
