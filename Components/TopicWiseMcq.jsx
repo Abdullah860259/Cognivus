@@ -1,5 +1,5 @@
 import React, { useEffect, useInsertionEffect, useState } from "react";
-import topicsData from "@/data/topics.json";
+import topicsData from "@/Data/topics.json";
 import { toast } from "sonner";
 const TopicWiseMcq = ({ navigate }) => {
     const [subject, setSubject] = useState("");
