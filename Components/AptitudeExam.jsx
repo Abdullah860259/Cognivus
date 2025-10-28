@@ -1,5 +1,5 @@
 import React from "react";
-import examsData from "@/data/AvailableTests.json";
+import examsData from "@/Data/AvailableTests.json";
 
 const AptitudeExam = () => {
     return (
