@@ -120,7 +120,7 @@ export default function HomePage() {
           transition={{ type: "spring", stiffness: 300, damping: 20 }}
           className="bg-blue-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-blue-700 "
         >
-          <Link href={"/login"} >
+          <Link className="cursor-pointer" href={"/login"} >
             Join Now
           </Link>
         </motion.button>
@@ -128,7 +128,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="bg-gray-900 text-white text-center p-6">
-        &copy; 2025 MCQ Master. All rights reserved.
+        &copy; 2026 MCQ Master. All rights reserved.
       </footer>
     </div>
   );
