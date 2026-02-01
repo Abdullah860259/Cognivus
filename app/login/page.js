@@ -30,7 +30,6 @@ export default function LoginPage() {
             password: form.password,
             redirect: false,
         });
-        console.log(res);
         if (res?.error) {
             toast.error(res.error); // show the message on screen
         } else {
@@ -77,7 +76,7 @@ export default function LoginPage() {
                                     type="submit"
                                     disabled={isLoading}
                                     onClick={handleSubmit}
-                                    className="w-full px-4 py-2 bg-indigo-600 text-white font-medium rounded-lg hover:bg-indigo-700 transition-colors duration-200 flex items-center justify-center"
+                                    className="w-full px-4 py-2 pointer bg-indigo-600 text-white font-medium rounded-lg hover:bg-indigo-700 transition-colors duration-200 flex items-center justify-center"
                                 >
                                     {isLoading ? (
                                         <span className="animate-spin h-5 w-5 border-2 border-white border-t-transparent rounded-full"></span>

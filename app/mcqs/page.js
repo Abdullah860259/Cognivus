@@ -50,8 +50,8 @@ export default function McqPage() {
                 `/api/getmcq?referenceName=${params.referenceName}&conductor=${params.conductor}&year=${params.year}&time=${params.time}&pastPaper=${params.pastPaper}`
             );
             const data = await res.json();
-            const firstFive = data.slice(0, 10);
-            setquestions(firstFive);
+            // `const firstFive = data.slice(0, 200);`
+            setquestions(data);
         } catch (error) {
             console.error(error);
         } finally {

@@ -9,18 +9,19 @@ import PastPapers from "@/Components/PastPapers";
 import TopicWiseMcq from "@/Components/TopicWiseMcq";
 import AptitudeExam from "@/Components/AptitudeExam";
 import { useRouter } from "next/navigation";
+import ComingSoon from "@/Components/ComingSoon";
 
 const services = [
-    { name: "Leaderboard", component: <div>Leaderboard Screen</div> },
+    { name: "Leaderboard", component: <ComingSoon/> },
     { name: "Solve Topic wise MCQs", component: <TopicWiseMcq navigate={(url) => router.push(url)} /> },
     { name: "Give an Aptitude Test", component: <AptitudeExam /> },
     { name: "Attempt Past Papers", component: <PastPapers /> },
-    { name: "Access PDFs", component: <div>Access PDFs Screen</div> },
+    { name: "Access PDFs", component: <ComingSoon /> },
     { name: "Raise An Issue", component: <IssuesBoard /> },
-    { name: "More Services", component: <div>More Services Screen</div> },
+    { name: "More Services", component: <ComingSoon /> },
     { name: "Profile", component: <ProfilePage /> },
     { name: "Settings", component: <Settings /> },
-    { name: "History", component: <div>History Screen</div> }
+    { name: "History", component: <ComingSoon /> }
 ];
 
 export default function PcDashboard() {
