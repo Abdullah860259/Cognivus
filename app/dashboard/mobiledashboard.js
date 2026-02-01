@@ -64,7 +64,7 @@ export default function MobileDashboard() {
             </div>
 
             {/* Main Content */}
-            <div className="flex-1 bg-gray-100 p-6 md:ml-64 overflow-auto">
+            <div className="flex-1 bg-gray-100 md:p-6 md:ml-64 overflow-auto">
                 {activeComponent}
             </div>
         </div>
