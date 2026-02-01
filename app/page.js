@@ -2,6 +2,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Link from "next/link";
+import Head from "next/head";
 
 export default function HomePage() {
   // Faster & smoother fadeIn animation
@@ -34,102 +35,168 @@ export default function HomePage() {
   ];
 
   return (
-    <div className="font-sans text-gray-800">
-      {/* Hero / Landing */}
-      <section className="bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 flex items-center justify-center h-screen w-full relative">
-        <motion.div initial="hidden" animate="visible" variants={fadeIn} className="text-center px-4">
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 text-white">Ace Your Exams with MCQ Master!</h1>
-          <p className="text-lg md:text-xl lg:text-2xl mb-8 text-white">Practice, Learn, and Excel in Your Exams</p>
+    <>
+      <Head>
+        {/* Basic SEO */}
+        <title>Cognivus - AI-Powered Learning & MCQs App</title>
+        <meta
+          name="description"
+          content="Cognivus: AI-powered MCQs and smart learning app for students. Prepare, test, and excel effortlessly."
+        />
+        <meta
+          name="keywords"
+          content="Cognivus, MCQs, AI learning, student app, exam prep, study tools, FSc, Pre-Engineering"
+        />
+        <meta name="author" content="Abdullah Anwar" />
+        <meta name="robots" content="index, follow" />
+        <link rel="canonical" href="https://cognivus.com" />
+
+        {/* Open Graph / Social Sharing */}
+        <meta property="og:title" content="Cognivus - AI-Powered Learning App" />
+        <meta
+          property="og:description"
+          content="Cognivus helps students prepare with AI-powered MCQs and smart learning tools."
+        />
+        <meta property="og:image" content="https://cognivus.com/preview.png" />
+        <meta property="og:url" content="https://cognivus.com" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Cognivus" />
+
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Cognivus - AI-Powered Learning App" />
+        <meta
+          name="twitter:description"
+          content="Cognivus helps students prepare with AI-powered MCQs and smart learning tools."
+        />
+        <meta name="twitter:image" content="https://cognivus.com/preview.png" />
+        <meta name="twitter:site" content="@CognivusApp" />
+
+        {/* Mobile & Compatibility */}
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="theme-color" content="#6b46c1" />
+
+        {/* Schema / JSON-LD */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "SoftwareApplication",
+              name: "Cognivus",
+              operatingSystem: "Web",
+              applicationCategory: "EducationalApplication",
+              url: "https://cognivus.com",
+              description:
+                "AI-powered MCQs and smart learning app for students.",
+              author: {
+                "@type": "Person",
+                name: "Abdullah Anwar",
+              },
+              image: "https://cognivus.com/preview.png",
+            }),
+          }}
+        />
+      </Head>
+
+      <div className="font-sans text-gray-800">
+        {/* Hero / Landing */}
+        <section className="bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 flex items-center justify-center h-screen w-full relative">
+          <motion.div initial="hidden" animate="visible" variants={fadeIn} className="text-center px-4">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 text-white">Ace Your Exams with MCQ Master!</h1>
+            <p className="text-lg md:text-xl lg:text-2xl mb-8 text-white">Practice, Learn, and Excel in Your Exams</p>
+            <motion.button
+              whileHover={{ scale: 1.08 }}
+              whileTap={{ scale: 0.95 }}
+              duration={0.0001}
+              transition={{ type: "spring", stiffness: 300, damping: 20 }}
+              className="bg-white text-blue-600 px-8 py-3 rounded-lg font-bold hover:bg-gray-100"
+            >
+              <Link href={"/login"} >
+                Start Practicing
+              </Link>
+            </motion.button>
+          </motion.div>
+        </section>
+
+        {/* Specialties */}
+        <motion.section initial="hidden" whileInView="visible" viewport={{ once: true }} className="p-12 text-center bg-gray-50">
+          <motion.h2 variants={fadeIn} className="text-3xl md:text-4xl font-bold mb-8">Our Specialties</motion.h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {[
+              "Thousands of MCQs",
+              "Subject-wise Categorization",
+              "Timed Quizzes",
+              "Instant Results",
+              "Detailed Explanations",
+              "Progress Tracking",
+            ].map((item, idx) => (
+              <motion.div
+                key={idx}
+                variants={fadeIn}
+                whileHover={{ scale: 1.05, y: -5 }}
+                transition={{ type: "spring", stiffness: 300, damping: 20 }}
+                className="bg-white p-6 rounded-lg shadow hover:shadow-lg "
+              >
+                <h3 className="text-xl md:text-2xl font-semibold mb-2">{item}</h3>
+                <p className="text-sm md:text-base">Improve your skills efficiently with our {item.toLowerCase()}.</p>
+              </motion.div>
+            ))}
+          </div>
+        </motion.section>
+
+        {/* Why Join Us */}
+        <motion.section initial="hidden" whileInView="visible" viewport={{ once: true }} className="p-12 text-center bg-gray-50">
+          <motion.h2 variants={fadeIn} className="text-3xl md:text-4xl font-bold mb-8">Why Students Join Us</motion.h2>
+          <motion.ul variants={fadeIn} className="space-y-4 max-w-xl mx-auto text-lg md:text-xl">
+            {[
+              "Boost exam confidence & ECAT preparation",
+              "Interactive and fun learning",
+              "Personalized progress reports",
+              "Learn faster with quizzes",
+              "Affordable or free access",
+            ].map((point, idx) => (
+              <li key={idx} className="flex items-center justify-center gap-3">
+                <span className="text-blue-600 font-bold">✔</span> {point}
+              </li>
+            ))}
+          </motion.ul>
+        </motion.section>
+
+        {/* FAQ Section */}
+        <motion.section initial="hidden" whileInView="visible" viewport={{ once: true }} className="p-12 text-center bg-gray-100">
+          <motion.h2 variants={fadeIn} className="text-3xl md:text-4xl font-bold mb-8">Frequently Asked Questions</motion.h2>
+          <div className="max-w-2xl mx-auto space-y-6 text-left">
+            {faqs.map((faq, idx) => (
+              <motion.div key={idx} variants={fadeIn} whileHover={{ scale: 1.02 }} transition={{ type: "spring", stiffness: 300, damping: 25 }} className="bg-white p-6 rounded-lg shadow hover:shadow-lg ">
+                <h3 className="text-xl md:text-2xl font-semibold mb-2">{faq.question}</h3>
+                <p className="text-sm md:text-base">{faq.answer}</p>
+              </motion.div>
+            ))}
+          </div>
+        </motion.section>
+
+        {/* Call to Action */}
+        <motion.section initial="hidden" whileInView="visible" viewport={{ once: true }} className="text-center p-12 bg-gray-50">
+          <motion.h2 variants={fadeIn} className="text-2xl md:text-3xl font-bold mb-4">Ready to Start?</motion.h2>
           <motion.button
             whileHover={{ scale: 1.08 }}
             whileTap={{ scale: 0.95 }}
-            duration={0.0001}
             transition={{ type: "spring", stiffness: 300, damping: 20 }}
-            className="bg-white text-blue-600 px-8 py-3 rounded-lg font-bold hover:bg-gray-100"
+            className="bg-blue-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-blue-700 "
           >
-            <Link href={"/login"} >
-              Start Practicing
+            <Link className="cursor-pointer" href={"/login"} >
+              Join Now
             </Link>
           </motion.button>
-        </motion.div>
-      </section>
+        </motion.section>
 
-      {/* Specialties */}
-      <motion.section initial="hidden" whileInView="visible" viewport={{ once: true }} className="p-12 text-center bg-gray-50">
-        <motion.h2 variants={fadeIn} className="text-3xl md:text-4xl font-bold mb-8">Our Specialties</motion.h2>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {[
-            "Thousands of MCQs",
-            "Subject-wise Categorization",
-            "Timed Quizzes",
-            "Instant Results",
-            "Detailed Explanations",
-            "Progress Tracking",
-          ].map((item, idx) => (
-            <motion.div
-              key={idx}
-              variants={fadeIn}
-              whileHover={{ scale: 1.05, y: -5 }}
-              transition={{ type: "spring", stiffness: 300, damping: 20 }}
-              className="bg-white p-6 rounded-lg shadow hover:shadow-lg "
-            >
-              <h3 className="text-xl md:text-2xl font-semibold mb-2">{item}</h3>
-              <p className="text-sm md:text-base">Improve your skills efficiently with our {item.toLowerCase()}.</p>
-            </motion.div>
-          ))}
-        </div>
-      </motion.section>
-
-      {/* Why Join Us */}
-      <motion.section initial="hidden" whileInView="visible" viewport={{ once: true }} className="p-12 text-center bg-gray-50">
-        <motion.h2 variants={fadeIn} className="text-3xl md:text-4xl font-bold mb-8">Why Students Join Us</motion.h2>
-        <motion.ul variants={fadeIn} className="space-y-4 max-w-xl mx-auto text-lg md:text-xl">
-          {[
-            "Boost exam confidence & ECAT preparation",
-            "Interactive and fun learning",
-            "Personalized progress reports",
-            "Learn faster with quizzes",
-            "Affordable or free access",
-          ].map((point, idx) => (
-            <li key={idx} className="flex items-center justify-center gap-3">
-              <span className="text-blue-600 font-bold">✔</span> {point}
-            </li>
-          ))}
-        </motion.ul>
-      </motion.section>
-
-      {/* FAQ Section */}
-      <motion.section initial="hidden" whileInView="visible" viewport={{ once: true }} className="p-12 text-center bg-gray-100">
-        <motion.h2 variants={fadeIn} className="text-3xl md:text-4xl font-bold mb-8">Frequently Asked Questions</motion.h2>
-        <div className="max-w-2xl mx-auto space-y-6 text-left">
-          {faqs.map((faq, idx) => (
-            <motion.div key={idx} variants={fadeIn} whileHover={{ scale: 1.02 }} transition={{ type: "spring", stiffness: 300, damping: 25 }} className="bg-white p-6 rounded-lg shadow hover:shadow-lg ">
-              <h3 className="text-xl md:text-2xl font-semibold mb-2">{faq.question}</h3>
-              <p className="text-sm md:text-base">{faq.answer}</p>
-            </motion.div>
-          ))}
-        </div>
-      </motion.section>
-
-      {/* Call to Action */}
-      <motion.section initial="hidden" whileInView="visible" viewport={{ once: true }} className="text-center p-12 bg-gray-50">
-        <motion.h2 variants={fadeIn} className="text-2xl md:text-3xl font-bold mb-4">Ready to Start?</motion.h2>
-        <motion.button
-          whileHover={{ scale: 1.08 }}
-          whileTap={{ scale: 0.95 }}
-          transition={{ type: "spring", stiffness: 300, damping: 20 }}
-          className="bg-blue-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-blue-700 "
-        >
-          <Link className="cursor-pointer" href={"/login"} >
-            Join Now
-          </Link>
-        </motion.button>
-      </motion.section>
-
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white text-center p-6">
-        &copy; 2026 MCQ Master. All rights reserved.
-      </footer>
-    </div>
+        {/* Footer */}
+        <footer className="bg-gray-900 text-white text-center p-6">
+          &copy; 2026 MCQ Master. All rights reserved.
+        </footer>
+      </div>
+    </>
   );
 }
