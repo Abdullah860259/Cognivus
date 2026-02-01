@@ -10,12 +10,13 @@ import TopicWiseMcq from "@/Components/TopicWiseMcq";
 import AptitudeExam from "@/Components/AptitudeExam";
 import { useRouter } from "next/navigation";
 import ComingSoon from "@/Components/ComingSoon";
+import NewBadge from "@/Components/NewBadge";
 
 const services = [
-    { name: "Leaderboard", component: <ComingSoon/> },
-    { name: "Solve Topic wise MCQs", component: <TopicWiseMcq navigate={(url) => router.push(url)} /> },
-    { name: "Give an Aptitude Test", component: <AptitudeExam /> },
-    { name: "Attempt Past Papers", component: <PastPapers /> },
+    { name: "Leaderboard", component: <ComingSoon /> },
+    { name: "Topic wise MCQs", component: <TopicWiseMcq navigate={(url) => router.push(url)} /> },
+    { name: "Aptitude Test", component: <AptitudeExam /> },
+    { name: "Past Papers", component: <PastPapers /> },
     { name: "Access PDFs", component: <ComingSoon /> },
     { name: "Raise An Issue", component: <IssuesBoard /> },
     { name: "More Services", component: <ComingSoon /> },
@@ -35,9 +36,9 @@ export default function PcDashboard() {
         <div className="flex h-screen">
             <Emailverificationcheckbox />
             {/* Sidebar */}
-            <div className="flex flex-col justify-between w-64 bg-gray-800 text-white p-4">
+            <div className="flex flex-col justify-between min-w-60 md:w-[20vw] bg-gray-800 text-white p-4">
                 <div>
-                    <h1 className="text-xl font-bold mb-6">MCQ Dashboard</h1>
+                    <h1 className="text-xl font-bold mb-6">ARSALAN</h1>
                     {/* Top services */}
                     {services
                         .filter(s => s.name !== "Profile" && s.name !== "Settings")
@@ -45,10 +46,13 @@ export default function PcDashboard() {
                             <button
                                 key={service.name}
                                 onClick={() => setActive(service.name)}
-                                className={`w-full text-left cursor-pointer px-3 py-2 rounded mb-2 hover:bg-gray-700 ${active === service.name ? "bg-gray-700" : ""
+                                className={`w-full flex items-center justify-between flex-row text-left cursor-pointer px-3 py-2 rounded mb-2 hover:bg-gray-700 ${active === service.name ? "bg-gray-700" : ""
                                     }`}
                             >
                                 {service.name}
+                                {service.name == "Past Papers" && (
+                                    <NewBadge />
+                                )}
                             </button>
                         ))}
                 </div>
@@ -71,7 +75,7 @@ export default function PcDashboard() {
             </div>
 
             {/* Main Content */}
-            <div className="flex-1 bg-gray-100 p-6 overflow-auto">
+            <div className="flex-1 bg-gray-100 overflow-auto">
                 {activeComponent}
             </div>
         </div>

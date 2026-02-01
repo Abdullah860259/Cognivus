@@ -64,7 +64,10 @@ const TopicWiseMcq = ({ navigate }) => {
                 {topic && (
                     <button
                         className="w-full p-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition font-semibold"
-                        onClick={() => console.log(navigate)}
+                        onClick={() => {
+                            console.log(navigate)
+                            toast.info("Coming Soon")
+                        }}
                     >
                         Start Practicing
                     </button>

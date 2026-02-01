@@ -1,3 +1,4 @@
+import select from "daisyui/components/select";
 import React, { useState, useEffect } from "react";
 
 const launchDate = new Date("2026-03-01T00:00:00");
@@ -45,7 +46,8 @@ export default function ComingSoon() {
 
 const styles = {
   page: {
-    minHeight: "100vh",
+    minHeight: "100%",
+    userSelect: "none",
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
