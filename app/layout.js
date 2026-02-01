@@ -13,3 +13,9 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+export const metadata = {
+  verification: {
+    google: "5lzn5Oj3hlYXIvZsseopznWIGgudZNSmhp7WHgrpNws",
+  },
+};
