@@ -38,7 +38,7 @@ export default function PcDashboard() {
             {/* Sidebar */}
             <div className="flex flex-col justify-between min-w-60 md:w-[20vw] bg-gray-800 text-white p-4">
                 <div>
-                    <h1 className="text-xl font-bold mb-6">ARSALAN</h1>
+                    <h1 className="text-xl font-bold mb-6">ABDULLAH ANWAR</h1>
                     {/* Top services */}
                     {services
                         .filter(s => s.name !== "Profile" && s.name !== "Settings")
