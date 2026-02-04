@@ -39,7 +39,7 @@ export default function MobileDashboard() {
                 onClick={() => setSidebarOpen(!sidebarOpen)}
             >
                 <div>
-                    ARSALAN
+                    ABDULLAH ANWAR
                 </div>
                 <HiMenu size={32} />
             </button>
