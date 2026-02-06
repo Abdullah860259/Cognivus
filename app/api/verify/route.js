@@ -17,7 +17,7 @@ export async function GET(request) {
             return NextResponse.json({ error: "Invalid token" }, { status: 400 });
         }
 
-        user.isverified = true;
+        user.isVerified = true;
         user.token = undefined;
         await user.save();
 

@@ -15,7 +15,7 @@ const EmailVerificationCheckbox = () => {
                 setLoading(true);
                 const res = await fetch(`/api/getuser?userid=${session.user.id}`);
                 const data = await res.json();
-                if (!data.isverified && data.provider === "credentials") {
+                if (!data.isVerified && data.provider === "credentials") {
                     const dialog = document.getElementById('my_modal_1');
                     if (dialog) dialog.showModal();
                 }

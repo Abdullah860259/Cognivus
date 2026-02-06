@@ -11,6 +11,7 @@ export default function LoginPage() {
     const { data: session, status } = useSession();
     const [form, setform] = useState({ email: "", password: "" })
     const [isLoading, setIsLoading] = useState(false);
+    const [isGoogleLoading, setisGoogleLoading] = useState(false);  //making another state for google to handle the loading seperately intentionally 
     const router = useRouter();
     const handleChange = (e) => {
         setform((prev) => ({ ...prev, [e.target.name]: e.target.value }))
@@ -87,25 +88,37 @@ export default function LoginPage() {
                             </form>
                             {/* google */}
                             <button
-                                onClick={() => {
+                                type="button"
+                                disabled={isGoogleLoading}
+                                onClick={(e) => {
+                                    console.log("KL:SFSLDFJLJ");
+                                    e.preventDefault();
+                                    setisGoogleLoading(true);
                                     signIn("google", { callbackUrl: "/dashboard" });
                                 }}
                                 className="flex items-center justify-center cursor-pointer w-full mt-4 gap-2 px-4 py-2 rounded-lg bg-white text-purple-800 border border-purple-600 hover:bg-purple-50 shadow-md transition"
-                                aria-label="Login with Google"
+                            // aria-label="Login with Google"
                             >
-                                <svg
-                                    aria-hidden="true"
-                                    width="20"
-                                    height="20"
-                                    xmlns="http://www.w3.org/2000/svg"
-                                    viewBox="0 0 512 512"
-                                >
-                                    <path fill="#4285F4" d="M113 292c30 82 118 95 171 60h62v48A192 192 0 0190 341" />
-                                    <path fill="#34A853" d="M90 341a208 200 0 010-171l63 49q-12 37 0 73" />
-                                    <path fill="#FBBC05" d="M386 400a140 175 0 0053-179H260v74h102q-7 37-38 57" />
-                                    <path fill="#EA4335" d="M153 219c22-69 116-109 179-50l55-54c-78-75-230-72-297 55" />
-                                </svg>
-                                Continue with Google
+                                {!isGoogleLoading ? (
+                                    <>
+                                        <svg
+
+                                            aria-hidden="true"
+                                            width="20"
+                                            height="20"
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            viewBox="0 0 512 512"
+                                        >
+                                            <path fill="#4285F4" d="M113 292c30 82 118 95 171 60h62v48A192 192 0 0190 341" />
+                                            <path fill="#34A853" d="M90 341a208 200 0 010-171l63 49q-12 37 0 73" />
+                                            <path fill="#FBBC05" d="M386 400a140 175 0 0053-179H260v74h102q-7 37-38 57" />
+                                            <path fill="#EA4335" d="M153 219c22-69 116-109 179-50l55-54c-78-75-230-72-297 55" />
+                                        </svg>
+                                        Continue with Google
+                                    </>
+                                )
+                                    :
+                                    <span className="animate-spin h-5 w-5 border-2 border-black border-t-transparent rounded-full"></span>}
                             </button>
 
                             <div className="text-center text-sm text-gray-500">

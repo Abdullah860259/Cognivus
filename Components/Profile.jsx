@@ -47,12 +47,12 @@ const ProfilePage = () => {
                                 {user.provider}
                             </span>
                             <span
-                                className={`px-3 py-1 text-xs font-semibold rounded-full ${user.isverified
+                                className={`px-3 py-1 text-xs font-semibold rounded-full ${user.isVerified
                                     ? "bg-green-100 text-green-700"
                                     : "bg-red-100 text-red-600"
                                     }`}
                             >
-                                {user.isverified ? "Verified" : "Not Verified"}
+                                {user.isVerified ? "Verified" : "Not Verified"}
                             </span>
                         </div>
                     </div>
